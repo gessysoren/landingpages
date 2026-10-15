@@ -1,6 +1,11 @@
 {
+  "version": "06.1",
   "status": "review_with_pending_assets",
   "functional_pass": true,
+  "intro_full_width": true,
+  "header_over_hero": true,
+  "outer_frame_removed": true,
+  "v5_portrait_unchanged": true,
   "exact_fonts_ready": false,
   "new_clinic_photos_integrated": false,
   "widths": [
@@ -9,6 +14,10 @@
     768,
     1024,
     1440
+  ],
+  "additional_viewports": [
+    "1440x587",
+    "390x667"
   ],
   "pending": [
     "Licensed web fonts with Portuguese diacritics",

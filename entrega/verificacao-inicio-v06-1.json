@@ -1,0 +1,683 @@
+{
+  "results": [
+    {
+      "width": 320,
+      "height": 844,
+      "errors": [],
+      "layout": {
+        "header": {
+          "x": 0,
+          "y": 26,
+          "width": 320,
+          "height": 82,
+          "right": 320,
+          "bottom": 108,
+          "margin": "0px",
+          "border": "0px",
+          "radius": "0px",
+          "background": "rgba(0, 0, 0, 0)",
+          "position": "absolute"
+        },
+        "hero": {
+          "x": 0,
+          "y": 26,
+          "width": 320,
+          "height": 818,
+          "right": 320,
+          "bottom": 844,
+          "margin": "0px",
+          "border": "0px",
+          "radius": "0px",
+          "background": "rgb(23, 23, 21)",
+          "position": "relative"
+        },
+        "title": {
+          "x": 18,
+          "y": 356,
+          "width": 284,
+          "height": 94.59375,
+          "right": 302,
+          "bottom": 450.59375,
+          "margin": "0px 0px 18px",
+          "border": "0px",
+          "radius": "0px",
+          "background": "rgba(0, 0, 0, 0)",
+          "position": "static"
+        },
+        "image": {
+          "width": 320,
+          "height": 818,
+          "mask": "none",
+          "crop": "58% 19%",
+          "filter": "saturate(0.88) brightness(0.97)"
+        },
+        "scrollWidth": 320,
+        "bodyWidth": 320
+      },
+      "navigation": [
+        {
+          "href": "#filosofia",
+          "top": 0,
+          "menu_closed": true
+        },
+        {
+          "href": "#joias",
+          "top": -0.421875,
+          "menu_closed": true
+        },
+        {
+          "href": "#resultados",
+          "top": -0.296875,
+          "menu_closed": true
+        },
+        {
+          "href": "#brenda",
+          "top": 0.109375,
+          "menu_closed": true
+        },
+        {
+          "href": "#avaliacao",
+          "top": -0.34375,
+          "menu_closed": true
+        },
+        {
+          "href": "#localizacoes",
+          "top": 0.0625,
+          "menu_closed": true
+        }
+      ],
+      "menu_open": {
+        "scrollWidth": 320,
+        "bodyWidth": 320,
+        "navX": 0,
+        "navRight": 320,
+        "background": "rgb(23, 23, 21)"
+      },
+      "escape": {
+        "closed": true,
+        "focused": true,
+        "label": "Abrir menu"
+      }
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "errors": [],
+      "layout": {
+        "header": {
+          "x": 0,
+          "y": 26,
+          "width": 390,
+          "height": 82,
+          "right": 390,
+          "bottom": 108,
+          "margin": "0px",
+          "border": "0px",
+          "radius": "0px",
+          "background": "rgba(0, 0, 0, 0)",
+          "position": "absolute"
+        },
+        "hero": {
+          "x": 0,
+          "y": 26,
+          "width": 390,
+          "height": 818,
+          "right": 390,
+          "bottom": 844,
+          "margin": "0px",
+          "border": "0px",
+          "radius": "0px",
+          "background": "rgb(23, 23, 21)",
+          "position": "relative"
+        },
+        "title": {
+          "x": 20,
+          "y": 386,
+          "width": 350,
+          "height": 99.0625,
+          "right": 370,
+          "bottom": 485.0625,
+          "margin": "0px 0px 18px",
+          "border": "0px",
+          "radius": "0px",
+          "background": "rgba(0, 0, 0, 0)",
+          "position": "static"
+        },
+        "image": {
+          "width": 390,
+          "height": 818,
+          "mask": "none",
+          "crop": "58% 19%",
+          "filter": "saturate(0.88) brightness(0.97)"
+        },
+        "scrollWidth": 390,
+        "bodyWidth": 390
+      },
+      "navigation": [
+        {
+          "href": "#filosofia",
+          "top": 0,
+          "menu_closed": true
+        },
+        {
+          "href": "#joias",
+          "top": 0.1875,
+          "menu_closed": true
+        },
+        {
+          "href": "#resultados",
+          "top": 0.3125,
+          "menu_closed": true
+        },
+        {
+          "href": "#brenda",
+          "top": 0.046875,
+          "menu_closed": true
+        },
+        {
+          "href": "#avaliacao",
+          "top": -0.40625,
+          "menu_closed": true
+        },
+        {
+          "href": "#localizacoes",
+          "top": -0.125,
+          "menu_closed": true
+        }
+      ],
+      "menu_open": {
+        "scrollWidth": 390,
+        "bodyWidth": 390,
+        "navX": 0,
+        "navRight": 390,
+        "background": "rgb(23, 23, 21)"
+      },
+      "escape": {
+        "closed": true,
+        "focused": true,
+        "label": "Abrir menu"
+      },
+      "screenshot": "/workspace/scratch/intro-v06-1-review/intro-390x844.png",
+      "resize": {
+        "closed_on_desktop": true,
+        "closed_on_return": true
+      }
+    },
+    {
+      "width": 768,
+      "height": 900,
+      "errors": [],
+      "layout": {
+        "header": {
+          "x": 0,
+          "y": 28,
+          "width": 768,
+          "height": 96,
+          "right": 768,
+          "bottom": 124,
+          "margin": "0px",
+          "border": "0px",
+          "radius": "0px",
+          "background": "rgba(0, 0, 0, 0)",
+          "position": "absolute"
+        },
+        "hero": {
+          "x": 0,
+          "y": 28,
+          "width": 768,
+          "height": 872,
+          "right": 768,
+          "bottom": 900,
+          "margin": "0px",
+          "border": "0px",
+          "radius": "0px",
+          "background": "rgb(23, 23, 21)",
+          "position": "relative"
+        },
+        "title": {
+          "x": 27.640625,
+          "y": 168,
+          "width": 387.078125,
+          "height": 109.1875,
+          "right": 414.71875,
+          "bottom": 277.1875,
+          "margin": "0px 0px 24px",
+          "border": "0px",
+          "radius": "0px",
+          "background": "rgba(0, 0, 0, 0)",
+          "position": "static"
+        },
+        "image": {
+          "width": 768,
+          "height": 872,
+          "mask": "none",
+          "crop": "72% 28%",
+          "filter": "saturate(0.88) brightness(0.97)"
+        },
+        "scrollWidth": 768,
+        "bodyWidth": 768
+      },
+      "navigation": [
+        {
+          "href": "#filosofia",
+          "top": 0,
+          "menu_closed": true
+        },
+        {
+          "href": "#joias",
+          "top": 0.1875,
+          "menu_closed": true
+        },
+        {
+          "href": "#resultados",
+          "top": -0.03125,
+          "menu_closed": true
+        },
+        {
+          "href": "#brenda",
+          "top": 0.359375,
+          "menu_closed": true
+        },
+        {
+          "href": "#avaliacao",
+          "top": 0.21875,
+          "menu_closed": true
+        },
+        {
+          "href": "#localizacoes",
+          "top": 0.09375,
+          "menu_closed": true
+        }
+      ],
+      "menu_open": {
+        "scrollWidth": 768,
+        "bodyWidth": 768,
+        "navX": 0,
+        "navRight": 768,
+        "background": "rgb(23, 23, 21)"
+      },
+      "escape": {
+        "closed": true,
+        "focused": true,
+        "label": "Abrir menu"
+      }
+    },
+    {
+      "width": 1024,
+      "height": 900,
+      "errors": [],
+      "layout": {
+        "header": {
+          "x": 0,
+          "y": 28,
+          "width": 1024,
+          "height": 96,
+          "right": 1024,
+          "bottom": 124,
+          "margin": "0px",
+          "border": "0px",
+          "radius": "0px",
+          "background": "rgba(0, 0, 0, 0)",
+          "position": "absolute"
+        },
+        "hero": {
+          "x": 0,
+          "y": 28,
+          "width": 1024,
+          "height": 872,
+          "right": 1024,
+          "bottom": 900,
+          "margin": "0px",
+          "border": "0px",
+          "radius": "0px",
+          "background": "rgb(23, 23, 21)",
+          "position": "relative"
+        },
+        "title": {
+          "x": 36.859375,
+          "y": 176,
+          "width": 516.09375,
+          "height": 127.375,
+          "right": 552.953125,
+          "bottom": 303.375,
+          "margin": "0px 0px 24px",
+          "border": "0px",
+          "radius": "0px",
+          "background": "rgba(0, 0, 0, 0)",
+          "position": "static"
+        },
+        "image": {
+          "width": 1024,
+          "height": 872,
+          "mask": "none",
+          "crop": "78% 8%",
+          "filter": "saturate(0.88) brightness(0.97)"
+        },
+        "scrollWidth": 1024,
+        "bodyWidth": 1024
+      },
+      "navigation": [
+        {
+          "href": "#filosofia",
+          "top": 0,
+          "menu_closed": true
+        },
+        {
+          "href": "#joias",
+          "top": 0.0625,
+          "menu_closed": true
+        },
+        {
+          "href": "#resultados",
+          "top": 0.359375,
+          "menu_closed": true
+        },
+        {
+          "href": "#brenda",
+          "top": -0.375,
+          "menu_closed": true
+        },
+        {
+          "href": "#avaliacao",
+          "top": 0.4375,
+          "menu_closed": true
+        },
+        {
+          "href": "#localizacoes",
+          "top": 0.4375,
+          "menu_closed": true
+        }
+      ],
+      "menu_open": {
+        "scrollWidth": 1024,
+        "bodyWidth": 1024,
+        "navX": 0,
+        "navRight": 1024,
+        "background": "rgb(23, 23, 21)"
+      },
+      "escape": {
+        "closed": true,
+        "focused": true,
+        "label": "Abrir menu"
+      },
+      "screenshot": "/workspace/scratch/intro-v06-1-review/intro-1024x900.png"
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "errors": [],
+      "layout": {
+        "header": {
+          "x": 0,
+          "y": 28,
+          "width": 1440,
+          "height": 96,
+          "right": 1440,
+          "bottom": 124,
+          "margin": "0px",
+          "border": "0px",
+          "radius": "0px",
+          "background": "rgba(0, 0, 0, 0)",
+          "position": "absolute"
+        },
+        "hero": {
+          "x": 0,
+          "y": 28,
+          "width": 1440,
+          "height": 872,
+          "right": 1440,
+          "bottom": 900,
+          "margin": "0px",
+          "border": "0px",
+          "radius": "0px",
+          "background": "rgb(23, 23, 21)",
+          "position": "relative"
+        },
+        "title": {
+          "x": 51.828125,
+          "y": 176,
+          "width": 668.171875,
+          "height": 172.71875,
+          "right": 720,
+          "bottom": 348.71875,
+          "margin": "0px 0px 24px",
+          "border": "0px",
+          "radius": "0px",
+          "background": "rgba(0, 0, 0, 0)",
+          "position": "static"
+        },
+        "image": {
+          "width": 1440,
+          "height": 872,
+          "mask": "none",
+          "crop": "78% 8%",
+          "filter": "saturate(0.88) brightness(0.97)"
+        },
+        "scrollWidth": 1440,
+        "bodyWidth": 1440
+      },
+      "navigation": [
+        {
+          "href": "#filosofia",
+          "top": 0,
+          "menu_closed": true
+        },
+        {
+          "href": "#joias",
+          "top": 0.15625,
+          "menu_closed": true
+        },
+        {
+          "href": "#resultados",
+          "top": -0.421875,
+          "menu_closed": true
+        },
+        {
+          "href": "#brenda",
+          "top": 0,
+          "menu_closed": true
+        },
+        {
+          "href": "#avaliacao",
+          "top": 0,
+          "menu_closed": true
+        },
+        {
+          "href": "#localizacoes",
+          "top": 0.359375,
+          "menu_closed": true
+        }
+      ],
+      "screenshot": "/workspace/scratch/intro-v06-1-review/intro-1440x900.png"
+    },
+    {
+      "width": 1440,
+      "height": 587,
+      "errors": [],
+      "layout": {
+        "header": {
+          "x": 0,
+          "y": 28,
+          "width": 1440,
+          "height": 96,
+          "right": 1440,
+          "bottom": 124,
+          "margin": "0px",
+          "border": "0px",
+          "radius": "0px",
+          "background": "rgba(0, 0, 0, 0)",
+          "position": "absolute"
+        },
+        "hero": {
+          "x": 0,
+          "y": 28,
+          "width": 1440,
+          "height": 680,
+          "right": 1440,
+          "bottom": 708,
+          "margin": "0px",
+          "border": "0px",
+          "radius": "0px",
+          "background": "rgb(23, 23, 21)",
+          "position": "relative"
+        },
+        "title": {
+          "x": 51.828125,
+          "y": 176,
+          "width": 668.171875,
+          "height": 172.71875,
+          "right": 720,
+          "bottom": 348.71875,
+          "margin": "0px 0px 24px",
+          "border": "0px",
+          "radius": "0px",
+          "background": "rgba(0, 0, 0, 0)",
+          "position": "static"
+        },
+        "image": {
+          "width": 1440,
+          "height": 680,
+          "mask": "none",
+          "crop": "78% 8%",
+          "filter": "saturate(0.88) brightness(0.97)"
+        },
+        "scrollWidth": 1440,
+        "bodyWidth": 1440
+      },
+      "navigation": [
+        {
+          "href": "#filosofia",
+          "top": 0,
+          "menu_closed": true
+        },
+        {
+          "href": "#joias",
+          "top": 0.15625,
+          "menu_closed": true
+        },
+        {
+          "href": "#resultados",
+          "top": -0.421875,
+          "menu_closed": true
+        },
+        {
+          "href": "#brenda",
+          "top": 0,
+          "menu_closed": true
+        },
+        {
+          "href": "#avaliacao",
+          "top": 0,
+          "menu_closed": true
+        },
+        {
+          "href": "#localizacoes",
+          "top": 0.359375,
+          "menu_closed": true
+        }
+      ],
+      "screenshot": "/workspace/scratch/intro-v06-1-review/intro-1440x587.png"
+    },
+    {
+      "width": 390,
+      "height": 667,
+      "errors": [],
+      "layout": {
+        "header": {
+          "x": 0,
+          "y": 26,
+          "width": 390,
+          "height": 82,
+          "right": 390,
+          "bottom": 108,
+          "margin": "0px",
+          "border": "0px",
+          "radius": "0px",
+          "background": "rgba(0, 0, 0, 0)",
+          "position": "absolute"
+        },
+        "hero": {
+          "x": 0,
+          "y": 26,
+          "width": 390,
+          "height": 740,
+          "right": 390,
+          "bottom": 766,
+          "margin": "0px",
+          "border": "0px",
+          "radius": "0px",
+          "background": "rgb(23, 23, 21)",
+          "position": "relative"
+        },
+        "title": {
+          "x": 20,
+          "y": 386,
+          "width": 350,
+          "height": 99.0625,
+          "right": 370,
+          "bottom": 485.0625,
+          "margin": "0px 0px 18px",
+          "border": "0px",
+          "radius": "0px",
+          "background": "rgba(0, 0, 0, 0)",
+          "position": "static"
+        },
+        "image": {
+          "width": 390,
+          "height": 740,
+          "mask": "none",
+          "crop": "58% 19%",
+          "filter": "saturate(0.88) brightness(0.97)"
+        },
+        "scrollWidth": 390,
+        "bodyWidth": 390
+      },
+      "navigation": [
+        {
+          "href": "#filosofia",
+          "top": 0,
+          "menu_closed": true
+        },
+        {
+          "href": "#joias",
+          "top": 0.1875,
+          "menu_closed": true
+        },
+        {
+          "href": "#resultados",
+          "top": 0.3125,
+          "menu_closed": true
+        },
+        {
+          "href": "#brenda",
+          "top": 0.046875,
+          "menu_closed": true
+        },
+        {
+          "href": "#avaliacao",
+          "top": -0.40625,
+          "menu_closed": true
+        },
+        {
+          "href": "#localizacoes",
+          "top": -0.125,
+          "menu_closed": true
+        }
+      ],
+      "menu_open": {
+        "scrollWidth": 390,
+        "bodyWidth": 390,
+        "navX": 0,
+        "navRight": 390,
+        "background": "rgb(23, 23, 21)"
+      },
+      "escape": {
+        "closed": true,
+        "focused": true,
+        "label": "Abrir menu"
+      },
+      "screenshot": "/workspace/scratch/intro-v06-1-review/intro-390x667.png"
+    }
+  ],
+  "portrait_unchanged_from_v5": true
+}

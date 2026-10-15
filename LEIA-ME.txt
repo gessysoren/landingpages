@@ -1,12 +1,15 @@
-DRA. BRENDA LOREN — V06 PARA REVISÃO
+DRA. BRENDA LOREN — V06.1 PARA REVISÃO
 
 Este pacote corrige a V5 existente. As dez seções, a copy, as fotografias
 clínicas e os avisos demonstrativos foram preservados. Não é uma entrega
 final aprovada para publicação oficial: há duas pendências de assets.
 
 CORREÇÕES IMPLEMENTADAS E CONFERIDAS
-- Hero com um container arredondado e fotografia integrada por uma transição
-  gradual; o rosto permanece inteiro no desktop, tablet e celular.
+- Início de ponta a ponta, sem margens externas, bordas ou cantos arredondados.
+  Menu transparente sobre a fotografia, no topo da primeira dobra.
+- Mesma fotografia original da V5, preenchendo todo o início e com seu
+  tratamento de cor restaurado. O enquadramento vertical foi ajustado
+  no desktop para manter a cabeça abaixo do menu, sem cortar o rosto.
 - Headline em duas linhas independentes: “O novo luxo” / “é natural.”.
   Apenas “natural.” recebe itálico champanhe. Espaço real também no HTML.
 - Sistema único de CTAs: alinhamento central, 52 px de altura mínima,
@@ -17,9 +20,10 @@ CORREÇÕES IMPLEMENTADAS E CONFERIDAS
   título da visão de 32 px no desktop e 26 px no celular, parágrafo de 16 px.
 - CSS acumulado da V5 consolidado, sem as regras V3/V4/V5 conflitantes.
 - Menu mobile por teclado, Escape, clique fora e fechamento ao navegar.
-- Âncoras nativas chegam ao início da seção; cabeçalho no fluxo da página.
+- Âncoras nativas chegam ao início da seção; o menu rola junto com a página
+  e não fica fixo sobre os títulos das outras seções.
 - Modal de demonstração com identificação acessível e fechamento correto.
-- Estilos/JavaScript com identificador v=06 para atualizar o cache.
+- Estilos/JavaScript com identificador v=06.1 para atualizar o cache.
 
 VALIDAÇÃO DESTA ENTREGA
 Chromium, larguras de 320, 390, 768, 1024 e 1440 px:
