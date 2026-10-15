@@ -1,0 +1,87 @@
+DRA. BRENDA LOREN — V06 PARA REVISÃO
+
+Este pacote corrige a V5 existente. As dez seções, a copy, as fotografias
+clínicas e os avisos demonstrativos foram preservados. Não é uma entrega
+final aprovada para publicação oficial: há duas pendências de assets.
+
+CORREÇÕES IMPLEMENTADAS E CONFERIDAS
+- Hero com um container arredondado e fotografia integrada por uma transição
+  gradual; o rosto permanece inteiro no desktop, tablet e celular.
+- Headline em duas linhas independentes: “O novo luxo” / “é natural.”.
+  Apenas “natural.” recebe itálico champanhe. Espaço real também no HTML.
+- Sistema único de CTAs: alinhamento central, 52 px de altura mínima,
+  texto de 15 px, bordas e padding consistentes e hover discreto.
+- Filosofia sem caixa bege, duas colunas equilibradas, citação de 32 px
+  no desktop (30 px no tablet / 28 px no celular), parágrafo de 16 px.
+- As joias: duas fotografias e texto editorial diretamente no fundo escuro;
+  título da visão de 32 px no desktop e 26 px no celular, parágrafo de 16 px.
+- CSS acumulado da V5 consolidado, sem as regras V3/V4/V5 conflitantes.
+- Menu mobile por teclado, Escape, clique fora e fechamento ao navegar.
+- Âncoras nativas chegam ao início da seção; cabeçalho no fluxo da página.
+- Modal de demonstração com identificação acessível e fechamento correto.
+- Estilos/JavaScript com identificador v=06 para atualizar o cache.
+
+VALIDAÇÃO DESTA ENTREGA
+Chromium, larguras de 320, 390, 768, 1024 e 1440 px:
+- Sem rolagem horizontal; todas as imagens incluídas carregaram.
+- CTAs visíveis com 15 px, centralizados e dentro das margens.
+- Todos os seis links de menu chegaram ao topo de sua seção.
+- Links internos, menu mobile, modal, quatro FAQs e carrossel demonstrativo
+  passaram nas cinco larguras.
+- As fontes reais renderizadas foram Liberation Serif e Liberation Sans.
+  NÃO foram Ogg e Founders Grotesk. A tipografia exata não está concluída.
+- Capturas desktop/mobile e relatório são entregues separadamente.
+
+PENDÊNCIA 1 — FONTES WEB LICENCIADAS, COM ACENTOS
+Os dois ZIPs de fontes enviados foram inspecionados:
+- Ogg: arquivos identificados internamente como “Ogg TRIAL”.
+- Founders: arquivos identificados como “Test Founders Grotesk”.
+- Os avisos de licença dos ZIPs limitam o uso a uso pessoal.
+- Os quatro arquivos relevantes não incluem as letras acentuadas do
+  português, incluindo é, ã, ç, á, ê e suas maiúsculas. Uma declaração
+  @font-face que carregue esses arquivos ainda misturaria fontes em palavras.
+Por isso, eles não foram incorporados ao pacote de publicação.
+Não remova acentos da copy nem renomeie os arquivos Trial como fontes finais.
+
+Forneça versões que permitam uso web e incluam caracteres portugueses.
+O CSS já possui os caminhos para os arquivos licenciados em assets/fonts/:
+  Ogg-Regular.otf
+  Ogg-LightItalic.otf
+  FoundersGrotesk-Regular.otf
+  FoundersGrotesk-Medium.otf
+Esses nomes não comprovam conteúdo ou licença: confira os arquivos reais.
+Depois de instalá-los, repita a conferência visual nas cinco larguras e
+verifique a fonte efetivamente renderizada no navegador. Arquivos WOFF/WOFF2
+licenciados também podem ser usados, ajustando seus caminhos/formats no CSS.
+
+PENDÊNCIA 2 — NOVAS FOTOGRAFIAS DOS CONSULTÓRIOS
+As duas referências de consultórios foram exibidas na conversa, mas não
+chegaram como arquivos acessíveis para inclusão neste ZIP. Este pacote
+MANTÉM as duas imagens antigas da V5: a troca ainda NÃO foi realizada.
+Envie as novas imagens como anexos JPG, PNG ou WebP para substituição exata:
+- Anápolis: consultório claro com espelho orgânico e cadeira odontológica.
+- Goiânia: consultório moderno com madeira e iluminação indireta.
+Não confunda as fotografias ilustrativas com imagens reais das unidades.
+
+HOSTINGER — ESTRUTURA PREPARADA PARA A ATUALIZAÇÃO
+1. Resolva as duas pendências acima antes de considerar a V06 concluída.
+2. Faça backup do diretório atual public_html/brenda/demo/, incluindo fontes.
+3. O ZIP tem index.html na raiz, junto com css/, js/, assets/ e este LEIA-ME.
+   Não crie uma pasta adicional entre demo/ e index.html ao extrair.
+4. Preserve assets/fonts/ se já houver fontes web licenciadas na hospedagem.
+5. Após substituir os arquivos, faça uma atualização forçada e confira os
+   mesmos fluxos e tamanhos testados localmente.
+Nada foi publicado nem alterado na hospedagem por esta entrega.
+
+CONTEÚDO DEMONSTRATIVO PRESERVADO
+- Agendamento abre o aviso existente; não há WhatsApp real configurado.
+- Depoimentos continuam como espaços demonstrativos, sem relatos inventados.
+- Endereços de Anápolis e Goiânia precisam de confirmação pela profissional.
+- Fotografias clínicas e informações profissionais precisam das aprovações
+  já previstas para publicação oficial.
+- noindex e o aviso de página demonstrativa permanecem na página.
+
+DESENVOLVIMENTO LOCAL
+Sem npm, dependências externas ou compilação. Requer apenas servidor estático.
+Na pasta do projeto: python3 -m http.server 8765 --bind 127.0.0.1
+Use o servidor local para conferir assets, caminhos, navegação e estilos.

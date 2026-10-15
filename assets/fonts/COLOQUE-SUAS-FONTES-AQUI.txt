@@ -1,0 +1,3 @@
+Inclua apenas arquivos licenciados para uso web, com todos os acentos portugueses.
+Os arquivos Trial/Test enviados não atendem à tipografia final solicitada e
+não foram incluídos no pacote. Veja LEIA-ME.txt para os quatro caminhos do CSS.
