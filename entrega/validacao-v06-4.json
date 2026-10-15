@@ -1,0 +1,4035 @@
+{
+  "version": "V06.4",
+  "url": "http://127.0.0.1:8766",
+  "widths": [
+    320,
+    390,
+    768,
+    1024,
+    1440
+  ],
+  "generated_at_utc": "2026-10-15T04:45:53Z",
+  "results": [
+    {
+      "width": 320,
+      "errors": [],
+      "console_errors": [],
+      "network_errors": [
+        {
+          "status": 404,
+          "url": "http://127.0.0.1:8766/assets/fonts/Ogg-LightItalic.otf"
+        },
+        {
+          "status": 404,
+          "url": "http://127.0.0.1:8766/assets/fonts/Ogg-Regular.otf"
+        },
+        {
+          "status": 404,
+          "url": "http://127.0.0.1:8766/assets/fonts/FoundersGrotesk-Regular.otf"
+        },
+        {
+          "status": 404,
+          "url": "http://127.0.0.1:8766/assets/fonts/FoundersGrotesk-Medium.otf"
+        }
+      ],
+      "document": {
+        "innerWidth": 320,
+        "scrollWidth": 320,
+        "bodyScrollWidth": 320,
+        "sections": 11,
+        "title": "Dra. Brenda Loren | Odontologia Estética — Prévia demonstrativa",
+        "images": [
+          {
+            "src": "assets/portrait.webp",
+            "complete": true,
+            "naturalWidth": 1440,
+            "naturalHeight": 1800
+          },
+          {
+            "src": "assets/smile-lips.webp",
+            "complete": true,
+            "naturalWidth": 1440,
+            "naturalHeight": 960
+          },
+          {
+            "src": "assets/smile-lips.webp",
+            "complete": true,
+            "naturalWidth": 1440,
+            "naturalHeight": 960
+          },
+          {
+            "src": "assets/case-a.webp",
+            "complete": true,
+            "naturalWidth": 1440,
+            "naturalHeight": 1440
+          },
+          {
+            "src": "assets/case-e.webp",
+            "complete": true,
+            "naturalWidth": 1350,
+            "naturalHeight": 1800
+          },
+          {
+            "src": "assets/case-c.webp",
+            "complete": true,
+            "naturalWidth": 1440,
+            "naturalHeight": 1440
+          },
+          {
+            "src": "assets/case-b.webp",
+            "complete": true,
+            "naturalWidth": 1440,
+            "naturalHeight": 1440
+          },
+          {
+            "src": "assets/case-c.webp",
+            "complete": true,
+            "naturalWidth": 1440,
+            "naturalHeight": 1440
+          },
+          {
+            "src": "assets/case-b.webp",
+            "complete": true,
+            "naturalWidth": 1440,
+            "naturalHeight": 1440
+          },
+          {
+            "src": "assets/portrait-life.webp",
+            "complete": true,
+            "naturalWidth": 1440,
+            "naturalHeight": 1800
+          },
+          {
+            "src": "assets/portrait-life.webp",
+            "complete": true,
+            "naturalWidth": 1440,
+            "naturalHeight": 1800
+          },
+          {
+            "src": "assets/patient.webp",
+            "complete": true,
+            "naturalWidth": 1350,
+            "naturalHeight": 1800
+          },
+          {
+            "src": "assets/location-anapolis.jpg",
+            "complete": true,
+            "naturalWidth": 640,
+            "naturalHeight": 427
+          },
+          {
+            "src": "assets/location-goiania.jpg",
+            "complete": true,
+            "naturalWidth": 640,
+            "naturalHeight": 426
+          },
+          {
+            "src": "assets/smile-lips.webp",
+            "complete": true,
+            "naturalWidth": 1440,
+            "naturalHeight": 960
+          }
+        ]
+      },
+      "fonts": [
+        {
+          "family": "Ogg",
+          "style": "normal",
+          "weight": "400",
+          "descriptor": "normal 400 16px \"Ogg\"",
+          "loaded": false,
+          "error": "A network error occurred."
+        },
+        {
+          "family": "Ogg",
+          "style": "italic",
+          "weight": "400",
+          "descriptor": "italic 400 16px \"Ogg\"",
+          "loaded": false,
+          "error": "A network error occurred."
+        },
+        {
+          "family": "Founders",
+          "style": "normal",
+          "weight": "400",
+          "descriptor": "normal 400 16px \"Founders\"",
+          "loaded": false,
+          "error": "A network error occurred."
+        },
+        {
+          "family": "Founders",
+          "style": "normal",
+          "weight": "500",
+          "descriptor": "normal 500 16px \"Founders\"",
+          "loaded": false,
+          "error": "A network error occurred."
+        }
+      ],
+      "missing_fonts": [
+        {
+          "family": "Ogg",
+          "style": "normal",
+          "weight": "400",
+          "descriptor": "normal 400 16px \"Ogg\"",
+          "loaded": false,
+          "error": "A network error occurred."
+        },
+        {
+          "family": "Ogg",
+          "style": "italic",
+          "weight": "400",
+          "descriptor": "italic 400 16px \"Ogg\"",
+          "loaded": false,
+          "error": "A network error occurred."
+        },
+        {
+          "family": "Founders",
+          "style": "normal",
+          "weight": "400",
+          "descriptor": "normal 400 16px \"Founders\"",
+          "loaded": false,
+          "error": "A network error occurred."
+        },
+        {
+          "family": "Founders",
+          "style": "normal",
+          "weight": "500",
+          "descriptor": "normal 500 16px \"Founders\"",
+          "loaded": false,
+          "error": "A network error occurred."
+        }
+      ],
+      "actual_rendered_fonts": {
+        "hero": [
+          {
+            "familyName": "Liberation Serif",
+            "postScriptName": "LiberationSerif",
+            "isCustomFont": false,
+            "glyphCount": 13
+          }
+        ],
+        "paragraph": [
+          {
+            "familyName": "Liberation Sans",
+            "postScriptName": "LiberationSans",
+            "isCustomFont": false,
+            "glyphCount": 129
+          }
+        ]
+      },
+      "typography": {
+        "typography": [
+          {
+            "selector": ".hero h1",
+            "fontSize": "40px",
+            "fontFamily": "Ogg, \"Iowan Old Style\", Baskerville, \"Times New Roman\", serif",
+            "fontWeight": "400",
+            "fontStyle": "normal",
+            "color": "rgb(245, 238, 231)",
+            "lineHeight": "44.8px"
+          },
+          {
+            "selector": ".hero h1 em",
+            "fontSize": "40px",
+            "fontFamily": "Ogg, \"Iowan Old Style\", Baskerville, \"Times New Roman\", serif",
+            "fontWeight": "400",
+            "fontStyle": "italic",
+            "color": "rgb(227, 197, 176)",
+            "lineHeight": "44.8px"
+          },
+          {
+            "selector": ".feature-quote",
+            "fontSize": "28px",
+            "fontFamily": "Ogg, \"Iowan Old Style\", Baskerville, \"Times New Roman\", serif",
+            "fontWeight": "400",
+            "fontStyle": "normal",
+            "color": "rgb(27, 26, 24)",
+            "lineHeight": "36.4px"
+          },
+          {
+            "selector": ".feature-copy",
+            "fontSize": "16px",
+            "fontFamily": "Founders, \"Helvetica Neue\", Arial, sans-serif",
+            "fontWeight": "400",
+            "fontStyle": "normal",
+            "color": "rgb(105, 95, 87)",
+            "lineHeight": "28px"
+          },
+          {
+            "selector": ".jewel-c strong",
+            "fontSize": "26px",
+            "fontFamily": "Ogg, \"Iowan Old Style\", Baskerville, \"Times New Roman\", serif",
+            "fontWeight": "400",
+            "fontStyle": "normal",
+            "color": "rgb(246, 238, 231)",
+            "lineHeight": "32.5px"
+          },
+          {
+            "selector": ".jewel-c p",
+            "fontSize": "16px",
+            "fontFamily": "Founders, \"Helvetica Neue\", Arial, sans-serif",
+            "fontWeight": "400",
+            "fontStyle": "normal",
+            "color": "rgb(215, 201, 188)",
+            "lineHeight": "28px"
+          },
+          {
+            "selector": ".jewel-c .micro-label",
+            "fontSize": "12px",
+            "fontFamily": "Founders, \"Helvetica Neue\", Arial, sans-serif",
+            "fontWeight": "500",
+            "fontStyle": "normal",
+            "color": "rgb(198, 182, 167)",
+            "lineHeight": "17.4px"
+          }
+        ],
+        "paragraphs": [
+          {
+            "class": "hero-text",
+            "text": "A beleza de um sorriso está em preservar aquilo que faz de você uma pessoa única. Técnica,",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "feature-copy",
+            "text": "A proposta não é apagar traços, mas revelar uma versão mais segura, harmônica e fiel ao qu",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "Não se trata de escolher dentes perfeitos em série, mas de respeitar formas, proporções, t",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "Está na naturalidade de um sorriso que se integra ao seu rosto, à sua expressão e à forma ",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "Histórias diferentes pedem planejamentos diferentes. Uma seleção de imagens para demonstra",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "about-lead",
+            "text": "“Eu nunca quis atender mais pessoas. Eu quis atender melhor cada pessoa que escolhesse con",
+            "fontSize": "25px",
+            "editorialOrDisclaimer": true
+          },
+          {
+            "class": "",
+            "text": "Sou cirurgiã-dentista há dez anos, especialista em Dentística Estética e Restauradora. Meu",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "Ouvir antes de propor. Entender antes de mudar. E cuidar de cada detalhe ao longo do camin",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "O primeiro encontro é dedicado a compreender o seu sorriso, suas expectativas e as possibi",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "Antes de pensar em qualquer procedimento, quero conhecer você. Entender o que gosta no seu",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "Cada sorriso tem características que o tornam único. Por isso, a avaliação considera não a",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "Com tudo isso em mente, construímos um planejamento individualizado. A escolha do tratamen",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "Aqui será inserido o relato real de uma paciente, com autorização para uso e preservação d",
+            "fontSize": "26px",
+            "editorialOrDisclaimer": true
+          },
+          {
+            "class": "",
+            "text": "O mesmo olhar e a mesma atenção aos detalhes em Anápolis e Goiânia.",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "Av. Presidente Kennedy, Qd. 17, Lt. 22 · Jardim Alexandrina, Anápolis — GO",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "Condomínio Edifício Executive Tower",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "locations-disclaimer",
+            "text": "Fotografias ilustrativas; não representam os consultórios reais. Os endereços de Anápolis ",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": true
+          },
+          {
+            "class": "",
+            "text": "",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "Acompanhe os conteúdos e as novidades da Dra. Brenda Loren no perfil @brendaloren.",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "Uma experiência pensada para valorizar quem você é, em cada detalhe.",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          }
+        ]
+      },
+      "ctas": [
+        {
+          "text": "Conheça a avaliação",
+          "x": 18,
+          "right": 302,
+          "width": 284,
+          "height": 52,
+          "fontSize": "15px",
+          "alignItems": "center",
+          "justifyContent": "center",
+          "padding": "14px 16px",
+          "borderRadius": "999px",
+          "href": "#avaliacao"
+        },
+        {
+          "text": "Conheça os sorrisos",
+          "x": 18,
+          "right": 302,
+          "width": 284,
+          "height": 52,
+          "fontSize": "15px",
+          "alignItems": "center",
+          "justifyContent": "center",
+          "padding": "14px 16px",
+          "borderRadius": "999px",
+          "href": "#resultados"
+        },
+        {
+          "text": "Como funciona a avaliação",
+          "x": 18,
+          "right": 302,
+          "width": 284,
+          "height": 52,
+          "fontSize": "15px",
+          "alignItems": "center",
+          "justifyContent": "center",
+          "padding": "14px 24px",
+          "borderRadius": "999px",
+          "href": "#avaliacao"
+        },
+        {
+          "text": "Entenda o planejamento",
+          "x": 18,
+          "right": 302,
+          "width": 284,
+          "height": 52,
+          "fontSize": "15px",
+          "alignItems": "center",
+          "justifyContent": "center",
+          "padding": "14px 24px",
+          "borderRadius": "999px",
+          "href": "#avaliacao"
+        },
+        {
+          "text": "Meu jeito de cuidar",
+          "x": 18,
+          "right": 194.75,
+          "width": 176.75,
+          "height": 52,
+          "fontSize": "15px",
+          "alignItems": "center",
+          "justifyContent": "center",
+          "padding": "14px 24px",
+          "borderRadius": "999px",
+          "href": "#avaliacao"
+        },
+        {
+          "text": "Agendar minha avaliação",
+          "x": 18,
+          "right": 237.28125,
+          "width": 219.28125,
+          "height": 52,
+          "fontSize": "15px",
+          "alignItems": "center",
+          "justifyContent": "center",
+          "padding": "14px 24px",
+          "borderRadius": "999px",
+          "href": "#"
+        },
+        {
+          "text": "Ver localização no mapa",
+          "x": 40,
+          "right": 280,
+          "width": 240,
+          "height": 52,
+          "fontSize": "15px",
+          "alignItems": "center",
+          "justifyContent": "center",
+          "padding": "14px",
+          "borderRadius": "999px",
+          "href": "https://www.google.com/maps/search/?api=1&query=Av.+Presidente+Kennedy+Qd.+17+Lt.+22+Jardim+Alexandrina+An%C3%A1polis+GO"
+        },
+        {
+          "text": "Ver localização no mapa",
+          "x": 40,
+          "right": 280,
+          "width": 240,
+          "height": 52,
+          "fontSize": "15px",
+          "alignItems": "center",
+          "justifyContent": "center",
+          "padding": "14px",
+          "borderRadius": "999px",
+          "href": "https://maps.google.com/?q=-16.697624,-49.254307"
+        },
+        {
+          "text": "Ver perfil no Instagram",
+          "x": 18,
+          "right": 218.921875,
+          "width": 200.921875,
+          "height": 52,
+          "fontSize": "15px",
+          "alignItems": "center",
+          "justifyContent": "center",
+          "padding": "14px 24px",
+          "borderRadius": "999px",
+          "href": "https://www.instagram.com/brendaloren/"
+        },
+        {
+          "text": "Agendar minha avaliação",
+          "x": 18,
+          "right": 302,
+          "width": 284,
+          "height": 52,
+          "fontSize": "15px",
+          "alignItems": "center",
+          "justifyContent": "center",
+          "padding": "14px 24px",
+          "borderRadius": "999px",
+          "href": "#"
+        }
+      ],
+      "hash_links": [
+        {
+          "text": "Ir para o conteúdo",
+          "href": "#principal",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Dra. Brenda LorenODONTOLOGIA ESTÉTICA",
+          "href": "#inicio",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Filosofia",
+          "href": "#filosofia",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "As joias",
+          "href": "#joias",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Sorrisos",
+          "href": "#resultados",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Brenda Loren",
+          "href": "#brenda",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Avaliação",
+          "href": "#avaliacao",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Localizações",
+          "href": "#localizacoes",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Instagram",
+          "href": "#instagram",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Agendar avaliação",
+          "href": "#avaliacao",
+          "isDemo": true,
+          "targetExists": true
+        },
+        {
+          "text": "Conheça a avaliação",
+          "href": "#avaliacao",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Conheça os sorrisos",
+          "href": "#resultados",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Como funciona a avaliação",
+          "href": "#avaliacao",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Entenda o planejamento",
+          "href": "#avaliacao",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Meu jeito de cuidar",
+          "href": "#avaliacao",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Agendar minha avaliação",
+          "href": "#",
+          "isDemo": true,
+          "targetExists": false
+        },
+        {
+          "text": "Agendar minha avaliação",
+          "href": "#",
+          "isDemo": true,
+          "targetExists": false
+        },
+        {
+          "text": "Dra. Brenda Loren",
+          "href": "#inicio",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Filosofia",
+          "href": "#filosofia",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "As joias",
+          "href": "#joias",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Sorrisos",
+          "href": "#resultados",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Avaliação",
+          "href": "#avaliacao",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Localizações",
+          "href": "#localizacoes",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Instagram",
+          "href": "#instagram",
+          "isDemo": false,
+          "targetExists": true
+        }
+      ],
+      "navigation": [
+        {
+          "top": 0.34375,
+          "id": "filosofia",
+          "href": "#filosofia",
+          "menu_closed": true,
+          "hash": "#filosofia"
+        },
+        {
+          "top": -0.09375,
+          "id": "joias",
+          "href": "#joias",
+          "menu_closed": true,
+          "hash": "#joias"
+        },
+        {
+          "top": 0.03125,
+          "id": "resultados",
+          "href": "#resultados",
+          "menu_closed": true,
+          "hash": "#resultados"
+        },
+        {
+          "top": -0.359375,
+          "id": "brenda",
+          "href": "#brenda",
+          "menu_closed": true,
+          "hash": "#brenda"
+        },
+        {
+          "top": 0.1875,
+          "id": "avaliacao",
+          "href": "#avaliacao",
+          "menu_closed": true,
+          "hash": "#avaliacao"
+        },
+        {
+          "top": -0.40625,
+          "id": "localizacoes",
+          "href": "#localizacoes",
+          "menu_closed": true,
+          "hash": "#localizacoes"
+        },
+        {
+          "top": 0.15625,
+          "id": "instagram",
+          "href": "#instagram",
+          "menu_closed": true,
+          "hash": "#instagram"
+        }
+      ],
+      "modal": [
+        {
+          "trigger": "Agendar minha avaliação",
+          "opened": true,
+          "closed": true
+        },
+        {
+          "trigger": "Agendar minha avaliação",
+          "opened": true,
+          "closed": true
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Como saber qual tratamento é indicado para mim?\n+",
+          "opened": true,
+          "closed": true
+        },
+        {
+          "question": "As lentes de porcelana são indicadas para todas as pessoas?\n+",
+          "opened": true,
+          "closed": true
+        },
+        {
+          "question": "Como funciona o primeiro atendimento?\n+",
+          "opened": true,
+          "closed": true
+        },
+        {
+          "question": "Posso ser atendida em Anápolis ou Goiânia?\n+",
+          "opened": true,
+          "closed": true
+        }
+      ],
+      "testimonials": [
+        "02 / 03",
+        "03 / 03",
+        "01 / 03",
+        "03 / 03",
+        "02 / 03",
+        "01 / 03"
+      ],
+      "status": "passed_with_missing_fonts"
+    },
+    {
+      "width": 390,
+      "errors": [],
+      "console_errors": [],
+      "network_errors": [
+        {
+          "status": 404,
+          "url": "http://127.0.0.1:8766/assets/fonts/FoundersGrotesk-Regular.otf"
+        },
+        {
+          "status": 404,
+          "url": "http://127.0.0.1:8766/assets/fonts/Ogg-Regular.otf"
+        },
+        {
+          "status": 404,
+          "url": "http://127.0.0.1:8766/assets/fonts/Ogg-LightItalic.otf"
+        },
+        {
+          "status": 404,
+          "url": "http://127.0.0.1:8766/assets/fonts/FoundersGrotesk-Medium.otf"
+        }
+      ],
+      "document": {
+        "innerWidth": 390,
+        "scrollWidth": 390,
+        "bodyScrollWidth": 390,
+        "sections": 11,
+        "title": "Dra. Brenda Loren | Odontologia Estética — Prévia demonstrativa",
+        "images": [
+          {
+            "src": "assets/portrait.webp",
+            "complete": true,
+            "naturalWidth": 1440,
+            "naturalHeight": 1800
+          },
+          {
+            "src": "assets/smile-lips.webp",
+            "complete": true,
+            "naturalWidth": 1440,
+            "naturalHeight": 960
+          },
+          {
+            "src": "assets/smile-lips.webp",
+            "complete": true,
+            "naturalWidth": 1440,
+            "naturalHeight": 960
+          },
+          {
+            "src": "assets/case-a.webp",
+            "complete": true,
+            "naturalWidth": 1440,
+            "naturalHeight": 1440
+          },
+          {
+            "src": "assets/case-e.webp",
+            "complete": true,
+            "naturalWidth": 1350,
+            "naturalHeight": 1800
+          },
+          {
+            "src": "assets/case-c.webp",
+            "complete": true,
+            "naturalWidth": 1440,
+            "naturalHeight": 1440
+          },
+          {
+            "src": "assets/case-b.webp",
+            "complete": true,
+            "naturalWidth": 1440,
+            "naturalHeight": 1440
+          },
+          {
+            "src": "assets/case-c.webp",
+            "complete": true,
+            "naturalWidth": 1440,
+            "naturalHeight": 1440
+          },
+          {
+            "src": "assets/case-b.webp",
+            "complete": true,
+            "naturalWidth": 1440,
+            "naturalHeight": 1440
+          },
+          {
+            "src": "assets/portrait-life.webp",
+            "complete": true,
+            "naturalWidth": 1440,
+            "naturalHeight": 1800
+          },
+          {
+            "src": "assets/portrait-life.webp",
+            "complete": true,
+            "naturalWidth": 1440,
+            "naturalHeight": 1800
+          },
+          {
+            "src": "assets/patient.webp",
+            "complete": true,
+            "naturalWidth": 1350,
+            "naturalHeight": 1800
+          },
+          {
+            "src": "assets/location-anapolis.jpg",
+            "complete": true,
+            "naturalWidth": 640,
+            "naturalHeight": 427
+          },
+          {
+            "src": "assets/location-goiania.jpg",
+            "complete": true,
+            "naturalWidth": 640,
+            "naturalHeight": 426
+          },
+          {
+            "src": "assets/smile-lips.webp",
+            "complete": true,
+            "naturalWidth": 1440,
+            "naturalHeight": 960
+          }
+        ]
+      },
+      "fonts": [
+        {
+          "family": "Ogg",
+          "style": "normal",
+          "weight": "400",
+          "descriptor": "normal 400 16px \"Ogg\"",
+          "loaded": false,
+          "error": "A network error occurred."
+        },
+        {
+          "family": "Ogg",
+          "style": "italic",
+          "weight": "400",
+          "descriptor": "italic 400 16px \"Ogg\"",
+          "loaded": false,
+          "error": "A network error occurred."
+        },
+        {
+          "family": "Founders",
+          "style": "normal",
+          "weight": "400",
+          "descriptor": "normal 400 16px \"Founders\"",
+          "loaded": false,
+          "error": "A network error occurred."
+        },
+        {
+          "family": "Founders",
+          "style": "normal",
+          "weight": "500",
+          "descriptor": "normal 500 16px \"Founders\"",
+          "loaded": false,
+          "error": "A network error occurred."
+        }
+      ],
+      "missing_fonts": [
+        {
+          "family": "Ogg",
+          "style": "normal",
+          "weight": "400",
+          "descriptor": "normal 400 16px \"Ogg\"",
+          "loaded": false,
+          "error": "A network error occurred."
+        },
+        {
+          "family": "Ogg",
+          "style": "italic",
+          "weight": "400",
+          "descriptor": "italic 400 16px \"Ogg\"",
+          "loaded": false,
+          "error": "A network error occurred."
+        },
+        {
+          "family": "Founders",
+          "style": "normal",
+          "weight": "400",
+          "descriptor": "normal 400 16px \"Founders\"",
+          "loaded": false,
+          "error": "A network error occurred."
+        },
+        {
+          "family": "Founders",
+          "style": "normal",
+          "weight": "500",
+          "descriptor": "normal 500 16px \"Founders\"",
+          "loaded": false,
+          "error": "A network error occurred."
+        }
+      ],
+      "actual_rendered_fonts": {
+        "hero": [
+          {
+            "familyName": "Liberation Serif",
+            "postScriptName": "LiberationSerif",
+            "isCustomFont": false,
+            "glyphCount": 13
+          }
+        ],
+        "paragraph": [
+          {
+            "familyName": "Liberation Sans",
+            "postScriptName": "LiberationSans",
+            "isCustomFont": false,
+            "glyphCount": 130
+          }
+        ]
+      },
+      "typography": {
+        "typography": [
+          {
+            "selector": ".hero h1",
+            "fontSize": "42px",
+            "fontFamily": "Ogg, \"Iowan Old Style\", Baskerville, \"Times New Roman\", serif",
+            "fontWeight": "400",
+            "fontStyle": "normal",
+            "color": "rgb(245, 238, 231)",
+            "lineHeight": "47.04px"
+          },
+          {
+            "selector": ".hero h1 em",
+            "fontSize": "42px",
+            "fontFamily": "Ogg, \"Iowan Old Style\", Baskerville, \"Times New Roman\", serif",
+            "fontWeight": "400",
+            "fontStyle": "italic",
+            "color": "rgb(227, 197, 176)",
+            "lineHeight": "47.04px"
+          },
+          {
+            "selector": ".feature-quote",
+            "fontSize": "28px",
+            "fontFamily": "Ogg, \"Iowan Old Style\", Baskerville, \"Times New Roman\", serif",
+            "fontWeight": "400",
+            "fontStyle": "normal",
+            "color": "rgb(27, 26, 24)",
+            "lineHeight": "36.4px"
+          },
+          {
+            "selector": ".feature-copy",
+            "fontSize": "16px",
+            "fontFamily": "Founders, \"Helvetica Neue\", Arial, sans-serif",
+            "fontWeight": "400",
+            "fontStyle": "normal",
+            "color": "rgb(105, 95, 87)",
+            "lineHeight": "28px"
+          },
+          {
+            "selector": ".jewel-c strong",
+            "fontSize": "26px",
+            "fontFamily": "Ogg, \"Iowan Old Style\", Baskerville, \"Times New Roman\", serif",
+            "fontWeight": "400",
+            "fontStyle": "normal",
+            "color": "rgb(246, 238, 231)",
+            "lineHeight": "32.5px"
+          },
+          {
+            "selector": ".jewel-c p",
+            "fontSize": "16px",
+            "fontFamily": "Founders, \"Helvetica Neue\", Arial, sans-serif",
+            "fontWeight": "400",
+            "fontStyle": "normal",
+            "color": "rgb(215, 201, 188)",
+            "lineHeight": "28px"
+          },
+          {
+            "selector": ".jewel-c .micro-label",
+            "fontSize": "12px",
+            "fontFamily": "Founders, \"Helvetica Neue\", Arial, sans-serif",
+            "fontWeight": "500",
+            "fontStyle": "normal",
+            "color": "rgb(198, 182, 167)",
+            "lineHeight": "17.4px"
+          }
+        ],
+        "paragraphs": [
+          {
+            "class": "hero-text",
+            "text": "A beleza de um sorriso está em preservar aquilo que faz de você uma pessoa única. Técnica,",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "feature-copy",
+            "text": "A proposta não é apagar traços, mas revelar uma versão mais segura, harmônica e fiel ao qu",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "Não se trata de escolher dentes perfeitos em série, mas de respeitar formas, proporções, t",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "Está na naturalidade de um sorriso que se integra ao seu rosto, à sua expressão e à forma ",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "Histórias diferentes pedem planejamentos diferentes. Uma seleção de imagens para demonstra",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "about-lead",
+            "text": "“Eu nunca quis atender mais pessoas. Eu quis atender melhor cada pessoa que escolhesse con",
+            "fontSize": "25px",
+            "editorialOrDisclaimer": true
+          },
+          {
+            "class": "",
+            "text": "Sou cirurgiã-dentista há dez anos, especialista em Dentística Estética e Restauradora. Meu",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "Ouvir antes de propor. Entender antes de mudar. E cuidar de cada detalhe ao longo do camin",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "O primeiro encontro é dedicado a compreender o seu sorriso, suas expectativas e as possibi",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "Antes de pensar em qualquer procedimento, quero conhecer você. Entender o que gosta no seu",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "Cada sorriso tem características que o tornam único. Por isso, a avaliação considera não a",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "Com tudo isso em mente, construímos um planejamento individualizado. A escolha do tratamen",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "Aqui será inserido o relato real de uma paciente, com autorização para uso e preservação d",
+            "fontSize": "26px",
+            "editorialOrDisclaimer": true
+          },
+          {
+            "class": "",
+            "text": "O mesmo olhar e a mesma atenção aos detalhes em Anápolis e Goiânia.",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "Av. Presidente Kennedy, Qd. 17, Lt. 22 · Jardim Alexandrina, Anápolis — GO",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "Condomínio Edifício Executive Tower",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "locations-disclaimer",
+            "text": "Fotografias ilustrativas; não representam os consultórios reais. Os endereços de Anápolis ",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": true
+          },
+          {
+            "class": "",
+            "text": "",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "Acompanhe os conteúdos e as novidades da Dra. Brenda Loren no perfil @brendaloren.",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "Uma experiência pensada para valorizar quem você é, em cada detalhe.",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          }
+        ]
+      },
+      "ctas": [
+        {
+          "text": "Conheça a avaliação",
+          "x": 20,
+          "right": 370,
+          "width": 350,
+          "height": 52,
+          "fontSize": "15px",
+          "alignItems": "center",
+          "justifyContent": "center",
+          "padding": "14px 24px",
+          "borderRadius": "999px",
+          "href": "#avaliacao"
+        },
+        {
+          "text": "Conheça os sorrisos",
+          "x": 20,
+          "right": 370,
+          "width": 350,
+          "height": 52,
+          "fontSize": "15px",
+          "alignItems": "center",
+          "justifyContent": "center",
+          "padding": "14px 24px",
+          "borderRadius": "999px",
+          "href": "#resultados"
+        },
+        {
+          "text": "Como funciona a avaliação",
+          "x": 20,
+          "right": 370,
+          "width": 350,
+          "height": 52,
+          "fontSize": "15px",
+          "alignItems": "center",
+          "justifyContent": "center",
+          "padding": "14px 24px",
+          "borderRadius": "999px",
+          "href": "#avaliacao"
+        },
+        {
+          "text": "Entenda o planejamento",
+          "x": 20,
+          "right": 370,
+          "width": 350,
+          "height": 52,
+          "fontSize": "15px",
+          "alignItems": "center",
+          "justifyContent": "center",
+          "padding": "14px 24px",
+          "borderRadius": "999px",
+          "href": "#avaliacao"
+        },
+        {
+          "text": "Meu jeito de cuidar",
+          "x": 20,
+          "right": 196.75,
+          "width": 176.75,
+          "height": 52,
+          "fontSize": "15px",
+          "alignItems": "center",
+          "justifyContent": "center",
+          "padding": "14px 24px",
+          "borderRadius": "999px",
+          "href": "#avaliacao"
+        },
+        {
+          "text": "Agendar minha avaliação",
+          "x": 20,
+          "right": 239.28125,
+          "width": 219.28125,
+          "height": 52,
+          "fontSize": "15px",
+          "alignItems": "center",
+          "justifyContent": "center",
+          "padding": "14px 24px",
+          "borderRadius": "999px",
+          "href": "#"
+        },
+        {
+          "text": "Ver localização no mapa",
+          "x": 44,
+          "right": 346,
+          "width": 302,
+          "height": 52,
+          "fontSize": "15px",
+          "alignItems": "center",
+          "justifyContent": "center",
+          "padding": "14px 24px",
+          "borderRadius": "999px",
+          "href": "https://www.google.com/maps/search/?api=1&query=Av.+Presidente+Kennedy+Qd.+17+Lt.+22+Jardim+Alexandrina+An%C3%A1polis+GO"
+        },
+        {
+          "text": "Ver localização no mapa",
+          "x": 44,
+          "right": 346,
+          "width": 302,
+          "height": 52,
+          "fontSize": "15px",
+          "alignItems": "center",
+          "justifyContent": "center",
+          "padding": "14px 24px",
+          "borderRadius": "999px",
+          "href": "https://maps.google.com/?q=-16.697624,-49.254307"
+        },
+        {
+          "text": "Ver perfil no Instagram",
+          "x": 20,
+          "right": 220.921875,
+          "width": 200.921875,
+          "height": 52,
+          "fontSize": "15px",
+          "alignItems": "center",
+          "justifyContent": "center",
+          "padding": "14px 24px",
+          "borderRadius": "999px",
+          "href": "https://www.instagram.com/brendaloren/"
+        },
+        {
+          "text": "Agendar minha avaliação",
+          "x": 20,
+          "right": 370,
+          "width": 350,
+          "height": 52,
+          "fontSize": "15px",
+          "alignItems": "center",
+          "justifyContent": "center",
+          "padding": "14px 24px",
+          "borderRadius": "999px",
+          "href": "#"
+        }
+      ],
+      "hash_links": [
+        {
+          "text": "Ir para o conteúdo",
+          "href": "#principal",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Dra. Brenda LorenODONTOLOGIA ESTÉTICA",
+          "href": "#inicio",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Filosofia",
+          "href": "#filosofia",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "As joias",
+          "href": "#joias",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Sorrisos",
+          "href": "#resultados",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Brenda Loren",
+          "href": "#brenda",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Avaliação",
+          "href": "#avaliacao",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Localizações",
+          "href": "#localizacoes",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Instagram",
+          "href": "#instagram",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Agendar avaliação",
+          "href": "#avaliacao",
+          "isDemo": true,
+          "targetExists": true
+        },
+        {
+          "text": "Conheça a avaliação",
+          "href": "#avaliacao",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Conheça os sorrisos",
+          "href": "#resultados",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Como funciona a avaliação",
+          "href": "#avaliacao",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Entenda o planejamento",
+          "href": "#avaliacao",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Meu jeito de cuidar",
+          "href": "#avaliacao",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Agendar minha avaliação",
+          "href": "#",
+          "isDemo": true,
+          "targetExists": false
+        },
+        {
+          "text": "Agendar minha avaliação",
+          "href": "#",
+          "isDemo": true,
+          "targetExists": false
+        },
+        {
+          "text": "Dra. Brenda Loren",
+          "href": "#inicio",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Filosofia",
+          "href": "#filosofia",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "As joias",
+          "href": "#joias",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Sorrisos",
+          "href": "#resultados",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Avaliação",
+          "href": "#avaliacao",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Localizações",
+          "href": "#localizacoes",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Instagram",
+          "href": "#instagram",
+          "isDemo": false,
+          "targetExists": true
+        }
+      ],
+      "navigation": [
+        {
+          "top": -0.375,
+          "id": "filosofia",
+          "href": "#filosofia",
+          "menu_closed": true,
+          "hash": "#filosofia"
+        },
+        {
+          "top": -0.203125,
+          "id": "joias",
+          "href": "#joias",
+          "menu_closed": true,
+          "hash": "#joias"
+        },
+        {
+          "top": -0.078125,
+          "id": "resultados",
+          "href": "#resultados",
+          "menu_closed": true,
+          "hash": "#resultados"
+        },
+        {
+          "top": -0.375,
+          "id": "brenda",
+          "href": "#brenda",
+          "menu_closed": true,
+          "hash": "#brenda"
+        },
+        {
+          "top": 0.171875,
+          "id": "avaliacao",
+          "href": "#avaliacao",
+          "menu_closed": true,
+          "hash": "#avaliacao"
+        },
+        {
+          "top": 0.453125,
+          "id": "localizacoes",
+          "href": "#localizacoes",
+          "menu_closed": true,
+          "hash": "#localizacoes"
+        },
+        {
+          "top": 0.453125,
+          "id": "instagram",
+          "href": "#instagram",
+          "menu_closed": true,
+          "hash": "#instagram"
+        }
+      ],
+      "modal": [
+        {
+          "trigger": "Agendar minha avaliação",
+          "opened": true,
+          "closed": true
+        },
+        {
+          "trigger": "Agendar minha avaliação",
+          "opened": true,
+          "closed": true
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Como saber qual tratamento é indicado para mim?\n+",
+          "opened": true,
+          "closed": true
+        },
+        {
+          "question": "As lentes de porcelana são indicadas para todas as pessoas?\n+",
+          "opened": true,
+          "closed": true
+        },
+        {
+          "question": "Como funciona o primeiro atendimento?\n+",
+          "opened": true,
+          "closed": true
+        },
+        {
+          "question": "Posso ser atendida em Anápolis ou Goiânia?\n+",
+          "opened": true,
+          "closed": true
+        }
+      ],
+      "testimonials": [
+        "02 / 03",
+        "03 / 03",
+        "01 / 03",
+        "03 / 03",
+        "02 / 03",
+        "01 / 03"
+      ],
+      "captures": [
+        "/workspace/scratch/captures-v06.4/v06-390-full.png",
+        "/workspace/scratch/captures-v06.4/v06-390-hero.png",
+        "/workspace/scratch/captures-v06.4/v06-390-inicio.png",
+        "/workspace/scratch/captures-v06.4/v06-390-filosofia.png",
+        "/workspace/scratch/captures-v06.4/v06-390-joias.png",
+        "/workspace/scratch/captures-v06.4/v06-390-resultados.png",
+        "/workspace/scratch/captures-v06.4/v06-390-brenda.png",
+        "/workspace/scratch/captures-v06.4/v06-390-avaliacao.png",
+        "/workspace/scratch/captures-v06.4/v06-390-depoimentos.png",
+        "/workspace/scratch/captures-v06.4/v06-390-localizacoes.png",
+        "/workspace/scratch/captures-v06.4/v06-390-perguntas.png",
+        "/workspace/scratch/captures-v06.4/v06-390-instagram.png",
+        "/workspace/scratch/captures-v06.4/v06-390-contato.png"
+      ],
+      "status": "passed_with_missing_fonts"
+    },
+    {
+      "width": 768,
+      "errors": [],
+      "console_errors": [],
+      "network_errors": [
+        {
+          "status": 404,
+          "url": "http://127.0.0.1:8766/assets/fonts/FoundersGrotesk-Regular.otf"
+        },
+        {
+          "status": 404,
+          "url": "http://127.0.0.1:8766/assets/fonts/Ogg-LightItalic.otf"
+        },
+        {
+          "status": 404,
+          "url": "http://127.0.0.1:8766/assets/fonts/FoundersGrotesk-Medium.otf"
+        },
+        {
+          "status": 404,
+          "url": "http://127.0.0.1:8766/assets/fonts/Ogg-Regular.otf"
+        }
+      ],
+      "document": {
+        "innerWidth": 768,
+        "scrollWidth": 768,
+        "bodyScrollWidth": 768,
+        "sections": 11,
+        "title": "Dra. Brenda Loren | Odontologia Estética — Prévia demonstrativa",
+        "images": [
+          {
+            "src": "assets/portrait.webp",
+            "complete": true,
+            "naturalWidth": 1440,
+            "naturalHeight": 1800
+          },
+          {
+            "src": "assets/smile-lips.webp",
+            "complete": true,
+            "naturalWidth": 1440,
+            "naturalHeight": 960
+          },
+          {
+            "src": "assets/smile-lips.webp",
+            "complete": true,
+            "naturalWidth": 1440,
+            "naturalHeight": 960
+          },
+          {
+            "src": "assets/case-a.webp",
+            "complete": true,
+            "naturalWidth": 1440,
+            "naturalHeight": 1440
+          },
+          {
+            "src": "assets/case-e.webp",
+            "complete": true,
+            "naturalWidth": 1350,
+            "naturalHeight": 1800
+          },
+          {
+            "src": "assets/case-c.webp",
+            "complete": true,
+            "naturalWidth": 1440,
+            "naturalHeight": 1440
+          },
+          {
+            "src": "assets/case-b.webp",
+            "complete": true,
+            "naturalWidth": 1440,
+            "naturalHeight": 1440
+          },
+          {
+            "src": "assets/case-c.webp",
+            "complete": true,
+            "naturalWidth": 1440,
+            "naturalHeight": 1440
+          },
+          {
+            "src": "assets/case-b.webp",
+            "complete": true,
+            "naturalWidth": 1440,
+            "naturalHeight": 1440
+          },
+          {
+            "src": "assets/portrait-life.webp",
+            "complete": true,
+            "naturalWidth": 1440,
+            "naturalHeight": 1800
+          },
+          {
+            "src": "assets/portrait-life.webp",
+            "complete": true,
+            "naturalWidth": 1440,
+            "naturalHeight": 1800
+          },
+          {
+            "src": "assets/patient.webp",
+            "complete": true,
+            "naturalWidth": 1350,
+            "naturalHeight": 1800
+          },
+          {
+            "src": "assets/location-anapolis.jpg",
+            "complete": true,
+            "naturalWidth": 640,
+            "naturalHeight": 427
+          },
+          {
+            "src": "assets/location-goiania.jpg",
+            "complete": true,
+            "naturalWidth": 640,
+            "naturalHeight": 426
+          },
+          {
+            "src": "assets/smile-lips.webp",
+            "complete": true,
+            "naturalWidth": 1440,
+            "naturalHeight": 960
+          }
+        ]
+      },
+      "fonts": [
+        {
+          "family": "Ogg",
+          "style": "normal",
+          "weight": "400",
+          "descriptor": "normal 400 16px \"Ogg\"",
+          "loaded": false,
+          "error": "A network error occurred."
+        },
+        {
+          "family": "Ogg",
+          "style": "italic",
+          "weight": "400",
+          "descriptor": "italic 400 16px \"Ogg\"",
+          "loaded": false,
+          "error": "A network error occurred."
+        },
+        {
+          "family": "Founders",
+          "style": "normal",
+          "weight": "400",
+          "descriptor": "normal 400 16px \"Founders\"",
+          "loaded": false,
+          "error": "A network error occurred."
+        },
+        {
+          "family": "Founders",
+          "style": "normal",
+          "weight": "500",
+          "descriptor": "normal 500 16px \"Founders\"",
+          "loaded": false,
+          "error": "A network error occurred."
+        }
+      ],
+      "missing_fonts": [
+        {
+          "family": "Ogg",
+          "style": "normal",
+          "weight": "400",
+          "descriptor": "normal 400 16px \"Ogg\"",
+          "loaded": false,
+          "error": "A network error occurred."
+        },
+        {
+          "family": "Ogg",
+          "style": "italic",
+          "weight": "400",
+          "descriptor": "italic 400 16px \"Ogg\"",
+          "loaded": false,
+          "error": "A network error occurred."
+        },
+        {
+          "family": "Founders",
+          "style": "normal",
+          "weight": "400",
+          "descriptor": "normal 400 16px \"Founders\"",
+          "loaded": false,
+          "error": "A network error occurred."
+        },
+        {
+          "family": "Founders",
+          "style": "normal",
+          "weight": "500",
+          "descriptor": "normal 500 16px \"Founders\"",
+          "loaded": false,
+          "error": "A network error occurred."
+        }
+      ],
+      "actual_rendered_fonts": {
+        "hero": [
+          {
+            "familyName": "Liberation Serif",
+            "postScriptName": "LiberationSerif",
+            "isCustomFont": false,
+            "glyphCount": 13
+          }
+        ],
+        "paragraph": [
+          {
+            "familyName": "Liberation Sans",
+            "postScriptName": "LiberationSans",
+            "isCustomFont": false,
+            "glyphCount": 129
+          }
+        ]
+      },
+      "typography": {
+        "typography": [
+          {
+            "selector": ".hero h1",
+            "fontSize": "46px",
+            "fontFamily": "Ogg, \"Iowan Old Style\", Baskerville, \"Times New Roman\", serif",
+            "fontWeight": "400",
+            "fontStyle": "normal",
+            "color": "rgb(245, 238, 231)",
+            "lineHeight": "50.6px"
+          },
+          {
+            "selector": ".hero h1 em",
+            "fontSize": "46px",
+            "fontFamily": "Ogg, \"Iowan Old Style\", Baskerville, \"Times New Roman\", serif",
+            "fontWeight": "400",
+            "fontStyle": "italic",
+            "color": "rgb(227, 197, 176)",
+            "lineHeight": "50.6px"
+          },
+          {
+            "selector": ".feature-quote",
+            "fontSize": "30px",
+            "fontFamily": "Ogg, \"Iowan Old Style\", Baskerville, \"Times New Roman\", serif",
+            "fontWeight": "400",
+            "fontStyle": "normal",
+            "color": "rgb(27, 26, 24)",
+            "lineHeight": "39px"
+          },
+          {
+            "selector": ".feature-copy",
+            "fontSize": "16px",
+            "fontFamily": "Founders, \"Helvetica Neue\", Arial, sans-serif",
+            "fontWeight": "400",
+            "fontStyle": "normal",
+            "color": "rgb(105, 95, 87)",
+            "lineHeight": "28px"
+          },
+          {
+            "selector": ".jewel-c strong",
+            "fontSize": "30px",
+            "fontFamily": "Ogg, \"Iowan Old Style\", Baskerville, \"Times New Roman\", serif",
+            "fontWeight": "400",
+            "fontStyle": "normal",
+            "color": "rgb(246, 238, 231)",
+            "lineHeight": "37.5px"
+          },
+          {
+            "selector": ".jewel-c p",
+            "fontSize": "16px",
+            "fontFamily": "Founders, \"Helvetica Neue\", Arial, sans-serif",
+            "fontWeight": "400",
+            "fontStyle": "normal",
+            "color": "rgb(215, 201, 188)",
+            "lineHeight": "28px"
+          },
+          {
+            "selector": ".jewel-c .micro-label",
+            "fontSize": "12px",
+            "fontFamily": "Founders, \"Helvetica Neue\", Arial, sans-serif",
+            "fontWeight": "500",
+            "fontStyle": "normal",
+            "color": "rgb(198, 182, 167)",
+            "lineHeight": "17.4px"
+          }
+        ],
+        "paragraphs": [
+          {
+            "class": "hero-text",
+            "text": "A beleza de um sorriso está em preservar aquilo que faz de você uma pessoa única. Técnica,",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "feature-copy",
+            "text": "A proposta não é apagar traços, mas revelar uma versão mais segura, harmônica e fiel ao qu",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "Não se trata de escolher dentes perfeitos em série, mas de respeitar formas, proporções, t",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "Está na naturalidade de um sorriso que se integra ao seu rosto, à sua expressão e à forma ",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "Histórias diferentes pedem planejamentos diferentes. Uma seleção de imagens para demonstra",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "about-lead",
+            "text": "“Eu nunca quis atender mais pessoas. Eu quis atender melhor cada pessoa que escolhesse con",
+            "fontSize": "24px",
+            "editorialOrDisclaimer": true
+          },
+          {
+            "class": "",
+            "text": "Sou cirurgiã-dentista há dez anos, especialista em Dentística Estética e Restauradora. Meu",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "Ouvir antes de propor. Entender antes de mudar. E cuidar de cada detalhe ao longo do camin",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "O primeiro encontro é dedicado a compreender o seu sorriso, suas expectativas e as possibi",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "Antes de pensar em qualquer procedimento, quero conhecer você. Entender o que gosta no seu",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "Cada sorriso tem características que o tornam único. Por isso, a avaliação considera não a",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "Com tudo isso em mente, construímos um planejamento individualizado. A escolha do tratamen",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "Aqui será inserido o relato real de uma paciente, com autorização para uso e preservação d",
+            "fontSize": "26px",
+            "editorialOrDisclaimer": true
+          },
+          {
+            "class": "",
+            "text": "O mesmo olhar e a mesma atenção aos detalhes em Anápolis e Goiânia.",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "Av. Presidente Kennedy, Qd. 17, Lt. 22 · Jardim Alexandrina, Anápolis — GO",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "Condomínio Edifício Executive Tower",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "locations-disclaimer",
+            "text": "Fotografias ilustrativas; não representam os consultórios reais. Os endereços de Anápolis ",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": true
+          },
+          {
+            "class": "",
+            "text": "",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "Acompanhe os conteúdos e as novidades da Dra. Brenda Loren no perfil @brendaloren.",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "Uma experiência pensada para valorizar quem você é, em cada detalhe.",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          }
+        ]
+      },
+      "ctas": [
+        {
+          "text": "Agendar avaliação",
+          "x": 514.09375,
+          "right": 680.359375,
+          "width": 166.265625,
+          "height": 52,
+          "fontSize": "15px",
+          "alignItems": "center",
+          "justifyContent": "center",
+          "padding": "14px 20px",
+          "borderRadius": "999px",
+          "href": "#avaliacao"
+        },
+        {
+          "text": "Conheça a avaliação",
+          "x": 27.640625,
+          "right": 247.640625,
+          "width": 220,
+          "height": 52,
+          "fontSize": "15px",
+          "alignItems": "center",
+          "justifyContent": "center",
+          "padding": "14px 24px",
+          "borderRadius": "999px",
+          "href": "#avaliacao"
+        },
+        {
+          "text": "Conheça os sorrisos",
+          "x": 27.640625,
+          "right": 247.640625,
+          "width": 220,
+          "height": 52,
+          "fontSize": "15px",
+          "alignItems": "center",
+          "justifyContent": "center",
+          "padding": "14px 24px",
+          "borderRadius": "999px",
+          "href": "#resultados"
+        },
+        {
+          "text": "Como funciona a avaliação",
+          "x": 509.390625,
+          "right": 740.34375,
+          "width": 230.953125,
+          "height": 52,
+          "fontSize": "15px",
+          "alignItems": "center",
+          "justifyContent": "center",
+          "padding": "14px 24px",
+          "borderRadius": "999px",
+          "href": "#avaliacao"
+        },
+        {
+          "text": "Entenda o planejamento",
+          "x": 527.703125,
+          "right": 740.34375,
+          "width": 212.640625,
+          "height": 52,
+          "fontSize": "15px",
+          "alignItems": "center",
+          "justifyContent": "center",
+          "padding": "14px 24px",
+          "borderRadius": "999px",
+          "href": "#avaliacao"
+        },
+        {
+          "text": "Meu jeito de cuidar",
+          "x": 416,
+          "right": 592.75,
+          "width": 176.75,
+          "height": 52,
+          "fontSize": "15px",
+          "alignItems": "center",
+          "justifyContent": "center",
+          "padding": "14px 24px",
+          "borderRadius": "999px",
+          "href": "#avaliacao"
+        },
+        {
+          "text": "Agendar minha avaliação",
+          "x": 435.8125,
+          "right": 655.09375,
+          "width": 219.28125,
+          "height": 52,
+          "fontSize": "15px",
+          "alignItems": "center",
+          "justifyContent": "center",
+          "padding": "14px 24px",
+          "borderRadius": "999px",
+          "href": "#"
+        },
+        {
+          "text": "Ver localização no mapa",
+          "x": 51.640625,
+          "right": 265.078125,
+          "width": 213.4375,
+          "height": 52,
+          "fontSize": "15px",
+          "alignItems": "center",
+          "justifyContent": "center",
+          "padding": "14px 24px",
+          "borderRadius": "999px",
+          "href": "https://www.google.com/maps/search/?api=1&query=Av.+Presidente+Kennedy+Qd.+17+Lt.+22+Jardim+Alexandrina+An%C3%A1polis+GO"
+        },
+        {
+          "text": "Ver localização no mapa",
+          "x": 417.984375,
+          "right": 631.421875,
+          "width": 213.4375,
+          "height": 52,
+          "fontSize": "15px",
+          "alignItems": "center",
+          "justifyContent": "center",
+          "padding": "14px 24px",
+          "borderRadius": "999px",
+          "href": "https://maps.google.com/?q=-16.697624,-49.254307"
+        },
+        {
+          "text": "Ver perfil no Instagram",
+          "x": 27.640625,
+          "right": 228.5625,
+          "width": 200.921875,
+          "height": 52,
+          "fontSize": "15px",
+          "alignItems": "center",
+          "justifyContent": "center",
+          "padding": "14px 24px",
+          "borderRadius": "999px",
+          "href": "https://www.instagram.com/brendaloren/"
+        },
+        {
+          "text": "Agendar minha avaliação",
+          "x": 430.078125,
+          "right": 649.359375,
+          "width": 219.28125,
+          "height": 52,
+          "fontSize": "15px",
+          "alignItems": "center",
+          "justifyContent": "center",
+          "padding": "14px 24px",
+          "borderRadius": "999px",
+          "href": "#"
+        }
+      ],
+      "hash_links": [
+        {
+          "text": "Ir para o conteúdo",
+          "href": "#principal",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Dra. Brenda LorenODONTOLOGIA ESTÉTICA",
+          "href": "#inicio",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Filosofia",
+          "href": "#filosofia",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "As joias",
+          "href": "#joias",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Sorrisos",
+          "href": "#resultados",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Brenda Loren",
+          "href": "#brenda",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Avaliação",
+          "href": "#avaliacao",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Localizações",
+          "href": "#localizacoes",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Instagram",
+          "href": "#instagram",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Agendar avaliação",
+          "href": "#avaliacao",
+          "isDemo": true,
+          "targetExists": true
+        },
+        {
+          "text": "Conheça a avaliação",
+          "href": "#avaliacao",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Conheça os sorrisos",
+          "href": "#resultados",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Como funciona a avaliação",
+          "href": "#avaliacao",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Entenda o planejamento",
+          "href": "#avaliacao",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Meu jeito de cuidar",
+          "href": "#avaliacao",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Agendar minha avaliação",
+          "href": "#",
+          "isDemo": true,
+          "targetExists": false
+        },
+        {
+          "text": "Agendar minha avaliação",
+          "href": "#",
+          "isDemo": true,
+          "targetExists": false
+        },
+        {
+          "text": "Dra. Brenda Loren",
+          "href": "#inicio",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Filosofia",
+          "href": "#filosofia",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "As joias",
+          "href": "#joias",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Sorrisos",
+          "href": "#resultados",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Avaliação",
+          "href": "#avaliacao",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Localizações",
+          "href": "#localizacoes",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Instagram",
+          "href": "#instagram",
+          "isDemo": false,
+          "targetExists": true
+        }
+      ],
+      "navigation": [
+        {
+          "top": -0.0625,
+          "id": "filosofia",
+          "href": "#filosofia",
+          "menu_closed": true,
+          "hash": "#filosofia"
+        },
+        {
+          "top": -0.0625,
+          "id": "joias",
+          "href": "#joias",
+          "menu_closed": true,
+          "hash": "#joias"
+        },
+        {
+          "top": 0.171875,
+          "id": "resultados",
+          "href": "#resultados",
+          "menu_closed": true,
+          "hash": "#resultados"
+        },
+        {
+          "top": -0.4375,
+          "id": "brenda",
+          "href": "#brenda",
+          "menu_closed": true,
+          "hash": "#brenda"
+        },
+        {
+          "top": 0.421875,
+          "id": "avaliacao",
+          "href": "#avaliacao",
+          "menu_closed": true,
+          "hash": "#avaliacao"
+        },
+        {
+          "top": 0.296875,
+          "id": "localizacoes",
+          "href": "#localizacoes",
+          "menu_closed": true,
+          "hash": "#localizacoes"
+        },
+        {
+          "top": -0.484375,
+          "id": "instagram",
+          "href": "#instagram",
+          "menu_closed": true,
+          "hash": "#instagram"
+        }
+      ],
+      "modal": [
+        {
+          "trigger": "Agendar avaliação",
+          "opened": true,
+          "closed": true
+        },
+        {
+          "trigger": "Agendar minha avaliação",
+          "opened": true,
+          "closed": true
+        },
+        {
+          "trigger": "Agendar minha avaliação",
+          "opened": true,
+          "closed": true
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Como saber qual tratamento é indicado para mim?\n+",
+          "opened": true,
+          "closed": true
+        },
+        {
+          "question": "As lentes de porcelana são indicadas para todas as pessoas?\n+",
+          "opened": true,
+          "closed": true
+        },
+        {
+          "question": "Como funciona o primeiro atendimento?\n+",
+          "opened": true,
+          "closed": true
+        },
+        {
+          "question": "Posso ser atendida em Anápolis ou Goiânia?\n+",
+          "opened": true,
+          "closed": true
+        }
+      ],
+      "testimonials": [
+        "02 / 03",
+        "03 / 03",
+        "01 / 03",
+        "03 / 03",
+        "02 / 03",
+        "01 / 03"
+      ],
+      "status": "passed_with_missing_fonts"
+    },
+    {
+      "width": 1024,
+      "errors": [],
+      "console_errors": [],
+      "network_errors": [
+        {
+          "status": 404,
+          "url": "http://127.0.0.1:8766/assets/fonts/FoundersGrotesk-Regular.otf"
+        },
+        {
+          "status": 404,
+          "url": "http://127.0.0.1:8766/assets/fonts/FoundersGrotesk-Medium.otf"
+        },
+        {
+          "status": 404,
+          "url": "http://127.0.0.1:8766/assets/fonts/Ogg-Regular.otf"
+        },
+        {
+          "status": 404,
+          "url": "http://127.0.0.1:8766/assets/fonts/Ogg-LightItalic.otf"
+        }
+      ],
+      "document": {
+        "innerWidth": 1024,
+        "scrollWidth": 1024,
+        "bodyScrollWidth": 1024,
+        "sections": 11,
+        "title": "Dra. Brenda Loren | Odontologia Estética — Prévia demonstrativa",
+        "images": [
+          {
+            "src": "assets/portrait.webp",
+            "complete": true,
+            "naturalWidth": 1440,
+            "naturalHeight": 1800
+          },
+          {
+            "src": "assets/smile-lips.webp",
+            "complete": true,
+            "naturalWidth": 1440,
+            "naturalHeight": 960
+          },
+          {
+            "src": "assets/smile-lips.webp",
+            "complete": true,
+            "naturalWidth": 1440,
+            "naturalHeight": 960
+          },
+          {
+            "src": "assets/case-a.webp",
+            "complete": true,
+            "naturalWidth": 1440,
+            "naturalHeight": 1440
+          },
+          {
+            "src": "assets/case-e.webp",
+            "complete": true,
+            "naturalWidth": 1350,
+            "naturalHeight": 1800
+          },
+          {
+            "src": "assets/case-c.webp",
+            "complete": true,
+            "naturalWidth": 1440,
+            "naturalHeight": 1440
+          },
+          {
+            "src": "assets/case-b.webp",
+            "complete": true,
+            "naturalWidth": 1440,
+            "naturalHeight": 1440
+          },
+          {
+            "src": "assets/case-c.webp",
+            "complete": true,
+            "naturalWidth": 1440,
+            "naturalHeight": 1440
+          },
+          {
+            "src": "assets/case-b.webp",
+            "complete": true,
+            "naturalWidth": 1440,
+            "naturalHeight": 1440
+          },
+          {
+            "src": "assets/portrait-life.webp",
+            "complete": true,
+            "naturalWidth": 1440,
+            "naturalHeight": 1800
+          },
+          {
+            "src": "assets/portrait-life.webp",
+            "complete": true,
+            "naturalWidth": 1440,
+            "naturalHeight": 1800
+          },
+          {
+            "src": "assets/patient.webp",
+            "complete": true,
+            "naturalWidth": 1350,
+            "naturalHeight": 1800
+          },
+          {
+            "src": "assets/location-anapolis.jpg",
+            "complete": true,
+            "naturalWidth": 640,
+            "naturalHeight": 427
+          },
+          {
+            "src": "assets/location-goiania.jpg",
+            "complete": true,
+            "naturalWidth": 640,
+            "naturalHeight": 426
+          },
+          {
+            "src": "assets/smile-lips.webp",
+            "complete": true,
+            "naturalWidth": 1440,
+            "naturalHeight": 960
+          }
+        ]
+      },
+      "fonts": [
+        {
+          "family": "Ogg",
+          "style": "normal",
+          "weight": "400",
+          "descriptor": "normal 400 16px \"Ogg\"",
+          "loaded": false,
+          "error": "A network error occurred."
+        },
+        {
+          "family": "Ogg",
+          "style": "italic",
+          "weight": "400",
+          "descriptor": "italic 400 16px \"Ogg\"",
+          "loaded": false,
+          "error": "A network error occurred."
+        },
+        {
+          "family": "Founders",
+          "style": "normal",
+          "weight": "400",
+          "descriptor": "normal 400 16px \"Founders\"",
+          "loaded": false,
+          "error": "A network error occurred."
+        },
+        {
+          "family": "Founders",
+          "style": "normal",
+          "weight": "500",
+          "descriptor": "normal 500 16px \"Founders\"",
+          "loaded": false,
+          "error": "A network error occurred."
+        }
+      ],
+      "missing_fonts": [
+        {
+          "family": "Ogg",
+          "style": "normal",
+          "weight": "400",
+          "descriptor": "normal 400 16px \"Ogg\"",
+          "loaded": false,
+          "error": "A network error occurred."
+        },
+        {
+          "family": "Ogg",
+          "style": "italic",
+          "weight": "400",
+          "descriptor": "italic 400 16px \"Ogg\"",
+          "loaded": false,
+          "error": "A network error occurred."
+        },
+        {
+          "family": "Founders",
+          "style": "normal",
+          "weight": "400",
+          "descriptor": "normal 400 16px \"Founders\"",
+          "loaded": false,
+          "error": "A network error occurred."
+        },
+        {
+          "family": "Founders",
+          "style": "normal",
+          "weight": "500",
+          "descriptor": "normal 500 16px \"Founders\"",
+          "loaded": false,
+          "error": "A network error occurred."
+        }
+      ],
+      "actual_rendered_fonts": {
+        "hero": [
+          {
+            "familyName": "Liberation Serif",
+            "postScriptName": "LiberationSerif",
+            "isCustomFont": false,
+            "glyphCount": 13
+          }
+        ],
+        "paragraph": [
+          {
+            "familyName": "Liberation Sans",
+            "postScriptName": "LiberationSans",
+            "isCustomFont": false,
+            "glyphCount": 129
+          }
+        ]
+      },
+      "typography": {
+        "typography": [
+          {
+            "selector": ".hero h1",
+            "fontSize": "54.272px",
+            "fontFamily": "Ogg, \"Iowan Old Style\", Baskerville, \"Times New Roman\", serif",
+            "fontWeight": "400",
+            "fontStyle": "normal",
+            "color": "rgb(245, 238, 231)",
+            "lineHeight": "59.6992px"
+          },
+          {
+            "selector": ".hero h1 em",
+            "fontSize": "54.272px",
+            "fontFamily": "Ogg, \"Iowan Old Style\", Baskerville, \"Times New Roman\", serif",
+            "fontWeight": "400",
+            "fontStyle": "italic",
+            "color": "rgb(227, 197, 176)",
+            "lineHeight": "59.6992px"
+          },
+          {
+            "selector": ".feature-quote",
+            "fontSize": "32px",
+            "fontFamily": "Ogg, \"Iowan Old Style\", Baskerville, \"Times New Roman\", serif",
+            "fontWeight": "400",
+            "fontStyle": "normal",
+            "color": "rgb(27, 26, 24)",
+            "lineHeight": "41.6px"
+          },
+          {
+            "selector": ".feature-copy",
+            "fontSize": "16px",
+            "fontFamily": "Founders, \"Helvetica Neue\", Arial, sans-serif",
+            "fontWeight": "400",
+            "fontStyle": "normal",
+            "color": "rgb(105, 95, 87)",
+            "lineHeight": "28px"
+          },
+          {
+            "selector": ".jewel-c strong",
+            "fontSize": "32px",
+            "fontFamily": "Ogg, \"Iowan Old Style\", Baskerville, \"Times New Roman\", serif",
+            "fontWeight": "400",
+            "fontStyle": "normal",
+            "color": "rgb(246, 238, 231)",
+            "lineHeight": "40px"
+          },
+          {
+            "selector": ".jewel-c p",
+            "fontSize": "16px",
+            "fontFamily": "Founders, \"Helvetica Neue\", Arial, sans-serif",
+            "fontWeight": "400",
+            "fontStyle": "normal",
+            "color": "rgb(215, 201, 188)",
+            "lineHeight": "28px"
+          },
+          {
+            "selector": ".jewel-c .micro-label",
+            "fontSize": "12px",
+            "fontFamily": "Founders, \"Helvetica Neue\", Arial, sans-serif",
+            "fontWeight": "500",
+            "fontStyle": "normal",
+            "color": "rgb(198, 182, 167)",
+            "lineHeight": "17.4px"
+          }
+        ],
+        "paragraphs": [
+          {
+            "class": "hero-text",
+            "text": "A beleza de um sorriso está em preservar aquilo que faz de você uma pessoa única. Técnica,",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "feature-copy",
+            "text": "A proposta não é apagar traços, mas revelar uma versão mais segura, harmônica e fiel ao qu",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "Não se trata de escolher dentes perfeitos em série, mas de respeitar formas, proporções, t",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "Está na naturalidade de um sorriso que se integra ao seu rosto, à sua expressão e à forma ",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "Histórias diferentes pedem planejamentos diferentes. Uma seleção de imagens para demonstra",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "about-lead",
+            "text": "“Eu nunca quis atender mais pessoas. Eu quis atender melhor cada pessoa que escolhesse con",
+            "fontSize": "27px",
+            "editorialOrDisclaimer": true
+          },
+          {
+            "class": "",
+            "text": "Sou cirurgiã-dentista há dez anos, especialista em Dentística Estética e Restauradora. Meu",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "Ouvir antes de propor. Entender antes de mudar. E cuidar de cada detalhe ao longo do camin",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "O primeiro encontro é dedicado a compreender o seu sorriso, suas expectativas e as possibi",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "Antes de pensar em qualquer procedimento, quero conhecer você. Entender o que gosta no seu",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "Cada sorriso tem características que o tornam único. Por isso, a avaliação considera não a",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "Com tudo isso em mente, construímos um planejamento individualizado. A escolha do tratamen",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "Aqui será inserido o relato real de uma paciente, com autorização para uso e preservação d",
+            "fontSize": "26px",
+            "editorialOrDisclaimer": true
+          },
+          {
+            "class": "",
+            "text": "O mesmo olhar e a mesma atenção aos detalhes em Anápolis e Goiânia.",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "Av. Presidente Kennedy, Qd. 17, Lt. 22 · Jardim Alexandrina, Anápolis — GO",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "Condomínio Edifício Executive Tower",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "locations-disclaimer",
+            "text": "Fotografias ilustrativas; não representam os consultórios reais. Os endereços de Anápolis ",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": true
+          },
+          {
+            "class": "",
+            "text": "",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "Acompanhe os conteúdos e as novidades da Dra. Brenda Loren no perfil @brendaloren.",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "Uma experiência pensada para valorizar quem você é, em cada detalhe.",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          }
+        ]
+      },
+      "ctas": [
+        {
+          "text": "Agendar avaliação",
+          "x": 760.875,
+          "right": 927.140625,
+          "width": 166.265625,
+          "height": 52,
+          "fontSize": "15px",
+          "alignItems": "center",
+          "justifyContent": "center",
+          "padding": "14px 20px",
+          "borderRadius": "999px",
+          "href": "#avaliacao"
+        },
+        {
+          "text": "Conheça a avaliação",
+          "x": 36.859375,
+          "right": 246.859375,
+          "width": 210,
+          "height": 52,
+          "fontSize": "15px",
+          "alignItems": "center",
+          "justifyContent": "center",
+          "padding": "14px 24px",
+          "borderRadius": "999px",
+          "href": "#avaliacao"
+        },
+        {
+          "text": "Conheça os sorrisos",
+          "x": 36.859375,
+          "right": 246.859375,
+          "width": 210,
+          "height": 52,
+          "fontSize": "15px",
+          "alignItems": "center",
+          "justifyContent": "center",
+          "padding": "14px 24px",
+          "borderRadius": "999px",
+          "href": "#resultados"
+        },
+        {
+          "text": "Como funciona a avaliação",
+          "x": 756.171875,
+          "right": 987.125,
+          "width": 230.953125,
+          "height": 52,
+          "fontSize": "15px",
+          "alignItems": "center",
+          "justifyContent": "center",
+          "padding": "14px 24px",
+          "borderRadius": "999px",
+          "href": "#avaliacao"
+        },
+        {
+          "text": "Entenda o planejamento",
+          "x": 774.484375,
+          "right": 987.125,
+          "width": 212.640625,
+          "height": 52,
+          "fontSize": "15px",
+          "alignItems": "center",
+          "justifyContent": "center",
+          "padding": "14px 24px",
+          "borderRadius": "999px",
+          "href": "#avaliacao"
+        },
+        {
+          "text": "Meu jeito de cuidar",
+          "x": 544,
+          "right": 720.75,
+          "width": 176.75,
+          "height": 52,
+          "fontSize": "15px",
+          "alignItems": "center",
+          "justifyContent": "center",
+          "padding": "14px 24px",
+          "borderRadius": "999px",
+          "href": "#avaliacao"
+        },
+        {
+          "text": "Agendar minha avaliação",
+          "x": 596.359375,
+          "right": 815.640625,
+          "width": 219.28125,
+          "height": 52,
+          "fontSize": "15px",
+          "alignItems": "center",
+          "justifyContent": "center",
+          "padding": "14px 24px",
+          "borderRadius": "999px",
+          "href": "#"
+        },
+        {
+          "text": "Ver localização no mapa",
+          "x": 64.859375,
+          "right": 278.296875,
+          "width": 213.4375,
+          "height": 52,
+          "fontSize": "15px",
+          "alignItems": "center",
+          "justifyContent": "center",
+          "padding": "14px 24px",
+          "borderRadius": "999px",
+          "href": "https://www.google.com/maps/search/?api=1&query=Av.+Presidente+Kennedy+Qd.+17+Lt.+22+Jardim+Alexandrina+An%C3%A1polis+GO"
+        },
+        {
+          "text": "Ver localização no mapa",
+          "x": 549.984375,
+          "right": 763.421875,
+          "width": 213.4375,
+          "height": 52,
+          "fontSize": "15px",
+          "alignItems": "center",
+          "justifyContent": "center",
+          "padding": "14px 24px",
+          "borderRadius": "999px",
+          "href": "https://maps.google.com/?q=-16.697624,-49.254307"
+        },
+        {
+          "text": "Ver perfil no Instagram",
+          "x": 36.859375,
+          "right": 237.78125,
+          "width": 200.921875,
+          "height": 52,
+          "fontSize": "15px",
+          "alignItems": "center",
+          "justifyContent": "center",
+          "padding": "14px 24px",
+          "borderRadius": "999px",
+          "href": "https://www.instagram.com/brendaloren/"
+        },
+        {
+          "text": "Agendar minha avaliação",
+          "x": 573.421875,
+          "right": 792.703125,
+          "width": 219.28125,
+          "height": 52,
+          "fontSize": "15px",
+          "alignItems": "center",
+          "justifyContent": "center",
+          "padding": "14px 24px",
+          "borderRadius": "999px",
+          "href": "#"
+        }
+      ],
+      "hash_links": [
+        {
+          "text": "Ir para o conteúdo",
+          "href": "#principal",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Dra. Brenda LorenODONTOLOGIA ESTÉTICA",
+          "href": "#inicio",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Filosofia",
+          "href": "#filosofia",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "As joias",
+          "href": "#joias",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Sorrisos",
+          "href": "#resultados",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Brenda Loren",
+          "href": "#brenda",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Avaliação",
+          "href": "#avaliacao",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Localizações",
+          "href": "#localizacoes",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Instagram",
+          "href": "#instagram",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Agendar avaliação",
+          "href": "#avaliacao",
+          "isDemo": true,
+          "targetExists": true
+        },
+        {
+          "text": "Conheça a avaliação",
+          "href": "#avaliacao",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Conheça os sorrisos",
+          "href": "#resultados",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Como funciona a avaliação",
+          "href": "#avaliacao",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Entenda o planejamento",
+          "href": "#avaliacao",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Meu jeito de cuidar",
+          "href": "#avaliacao",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Agendar minha avaliação",
+          "href": "#",
+          "isDemo": true,
+          "targetExists": false
+        },
+        {
+          "text": "Agendar minha avaliação",
+          "href": "#",
+          "isDemo": true,
+          "targetExists": false
+        },
+        {
+          "text": "Dra. Brenda Loren",
+          "href": "#inicio",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Filosofia",
+          "href": "#filosofia",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "As joias",
+          "href": "#joias",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Sorrisos",
+          "href": "#resultados",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Avaliação",
+          "href": "#avaliacao",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Localizações",
+          "href": "#localizacoes",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Instagram",
+          "href": "#instagram",
+          "isDemo": false,
+          "targetExists": true
+        }
+      ],
+      "navigation": [
+        {
+          "top": 0,
+          "id": "filosofia",
+          "href": "#filosofia",
+          "menu_closed": true,
+          "hash": "#filosofia"
+        },
+        {
+          "top": -0.125,
+          "id": "joias",
+          "href": "#joias",
+          "menu_closed": true,
+          "hash": "#joias"
+        },
+        {
+          "top": -0.4375,
+          "id": "resultados",
+          "href": "#resultados",
+          "menu_closed": true,
+          "hash": "#resultados"
+        },
+        {
+          "top": -0.140625,
+          "id": "brenda",
+          "href": "#brenda",
+          "menu_closed": true,
+          "hash": "#brenda"
+        },
+        {
+          "top": -0.328125,
+          "id": "avaliacao",
+          "href": "#avaliacao",
+          "menu_closed": true,
+          "hash": "#avaliacao"
+        },
+        {
+          "top": -0.328125,
+          "id": "localizacoes",
+          "href": "#localizacoes",
+          "menu_closed": true,
+          "hash": "#localizacoes"
+        },
+        {
+          "top": -0.421875,
+          "id": "instagram",
+          "href": "#instagram",
+          "menu_closed": true,
+          "hash": "#instagram"
+        }
+      ],
+      "modal": [
+        {
+          "trigger": "Agendar avaliação",
+          "opened": true,
+          "closed": true
+        },
+        {
+          "trigger": "Agendar minha avaliação",
+          "opened": true,
+          "closed": true
+        },
+        {
+          "trigger": "Agendar minha avaliação",
+          "opened": true,
+          "closed": true
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Como saber qual tratamento é indicado para mim?\n+",
+          "opened": true,
+          "closed": true
+        },
+        {
+          "question": "As lentes de porcelana são indicadas para todas as pessoas?\n+",
+          "opened": true,
+          "closed": true
+        },
+        {
+          "question": "Como funciona o primeiro atendimento?\n+",
+          "opened": true,
+          "closed": true
+        },
+        {
+          "question": "Posso ser atendida em Anápolis ou Goiânia?\n+",
+          "opened": true,
+          "closed": true
+        }
+      ],
+      "testimonials": [
+        "02 / 03",
+        "03 / 03",
+        "01 / 03",
+        "03 / 03",
+        "02 / 03",
+        "01 / 03"
+      ],
+      "status": "passed_with_missing_fonts"
+    },
+    {
+      "width": 1440,
+      "errors": [],
+      "console_errors": [],
+      "network_errors": [
+        {
+          "status": 404,
+          "url": "http://127.0.0.1:8766/assets/fonts/FoundersGrotesk-Regular.otf"
+        },
+        {
+          "status": 404,
+          "url": "http://127.0.0.1:8766/assets/fonts/Ogg-Regular.otf"
+        },
+        {
+          "status": 404,
+          "url": "http://127.0.0.1:8766/assets/fonts/Ogg-LightItalic.otf"
+        },
+        {
+          "status": 404,
+          "url": "http://127.0.0.1:8766/assets/fonts/FoundersGrotesk-Medium.otf"
+        }
+      ],
+      "document": {
+        "innerWidth": 1440,
+        "scrollWidth": 1440,
+        "bodyScrollWidth": 1440,
+        "sections": 11,
+        "title": "Dra. Brenda Loren | Odontologia Estética — Prévia demonstrativa",
+        "images": [
+          {
+            "src": "assets/portrait.webp",
+            "complete": true,
+            "naturalWidth": 1440,
+            "naturalHeight": 1800
+          },
+          {
+            "src": "assets/smile-lips.webp",
+            "complete": true,
+            "naturalWidth": 1440,
+            "naturalHeight": 960
+          },
+          {
+            "src": "assets/smile-lips.webp",
+            "complete": true,
+            "naturalWidth": 1440,
+            "naturalHeight": 960
+          },
+          {
+            "src": "assets/case-a.webp",
+            "complete": true,
+            "naturalWidth": 1440,
+            "naturalHeight": 1440
+          },
+          {
+            "src": "assets/case-e.webp",
+            "complete": true,
+            "naturalWidth": 1350,
+            "naturalHeight": 1800
+          },
+          {
+            "src": "assets/case-c.webp",
+            "complete": true,
+            "naturalWidth": 1440,
+            "naturalHeight": 1440
+          },
+          {
+            "src": "assets/case-b.webp",
+            "complete": true,
+            "naturalWidth": 1440,
+            "naturalHeight": 1440
+          },
+          {
+            "src": "assets/case-c.webp",
+            "complete": true,
+            "naturalWidth": 1440,
+            "naturalHeight": 1440
+          },
+          {
+            "src": "assets/case-b.webp",
+            "complete": true,
+            "naturalWidth": 1440,
+            "naturalHeight": 1440
+          },
+          {
+            "src": "assets/portrait-life.webp",
+            "complete": true,
+            "naturalWidth": 1440,
+            "naturalHeight": 1800
+          },
+          {
+            "src": "assets/portrait-life.webp",
+            "complete": true,
+            "naturalWidth": 1440,
+            "naturalHeight": 1800
+          },
+          {
+            "src": "assets/patient.webp",
+            "complete": true,
+            "naturalWidth": 1350,
+            "naturalHeight": 1800
+          },
+          {
+            "src": "assets/location-anapolis.jpg",
+            "complete": true,
+            "naturalWidth": 640,
+            "naturalHeight": 427
+          },
+          {
+            "src": "assets/location-goiania.jpg",
+            "complete": true,
+            "naturalWidth": 640,
+            "naturalHeight": 426
+          },
+          {
+            "src": "assets/smile-lips.webp",
+            "complete": true,
+            "naturalWidth": 1440,
+            "naturalHeight": 960
+          }
+        ]
+      },
+      "fonts": [
+        {
+          "family": "Ogg",
+          "style": "normal",
+          "weight": "400",
+          "descriptor": "normal 400 16px \"Ogg\"",
+          "loaded": false,
+          "error": "A network error occurred."
+        },
+        {
+          "family": "Ogg",
+          "style": "italic",
+          "weight": "400",
+          "descriptor": "italic 400 16px \"Ogg\"",
+          "loaded": false,
+          "error": "A network error occurred."
+        },
+        {
+          "family": "Founders",
+          "style": "normal",
+          "weight": "400",
+          "descriptor": "normal 400 16px \"Founders\"",
+          "loaded": false,
+          "error": "A network error occurred."
+        },
+        {
+          "family": "Founders",
+          "style": "normal",
+          "weight": "500",
+          "descriptor": "normal 500 16px \"Founders\"",
+          "loaded": false,
+          "error": "A network error occurred."
+        }
+      ],
+      "missing_fonts": [
+        {
+          "family": "Ogg",
+          "style": "normal",
+          "weight": "400",
+          "descriptor": "normal 400 16px \"Ogg\"",
+          "loaded": false,
+          "error": "A network error occurred."
+        },
+        {
+          "family": "Ogg",
+          "style": "italic",
+          "weight": "400",
+          "descriptor": "italic 400 16px \"Ogg\"",
+          "loaded": false,
+          "error": "A network error occurred."
+        },
+        {
+          "family": "Founders",
+          "style": "normal",
+          "weight": "400",
+          "descriptor": "normal 400 16px \"Founders\"",
+          "loaded": false,
+          "error": "A network error occurred."
+        },
+        {
+          "family": "Founders",
+          "style": "normal",
+          "weight": "500",
+          "descriptor": "normal 500 16px \"Founders\"",
+          "loaded": false,
+          "error": "A network error occurred."
+        }
+      ],
+      "actual_rendered_fonts": {
+        "hero": [
+          {
+            "familyName": "Liberation Serif",
+            "postScriptName": "LiberationSerif",
+            "isCustomFont": false,
+            "glyphCount": 13
+          }
+        ],
+        "paragraph": [
+          {
+            "familyName": "Liberation Sans",
+            "postScriptName": "LiberationSans",
+            "isCustomFont": false,
+            "glyphCount": 130
+          }
+        ]
+      },
+      "typography": {
+        "typography": [
+          {
+            "selector": ".hero h1",
+            "fontSize": "74.88px",
+            "fontFamily": "Ogg, \"Iowan Old Style\", Baskerville, \"Times New Roman\", serif",
+            "fontWeight": "400",
+            "fontStyle": "normal",
+            "color": "rgb(245, 238, 231)",
+            "lineHeight": "82.368px"
+          },
+          {
+            "selector": ".hero h1 em",
+            "fontSize": "74.88px",
+            "fontFamily": "Ogg, \"Iowan Old Style\", Baskerville, \"Times New Roman\", serif",
+            "fontWeight": "400",
+            "fontStyle": "italic",
+            "color": "rgb(227, 197, 176)",
+            "lineHeight": "82.368px"
+          },
+          {
+            "selector": ".feature-quote",
+            "fontSize": "32px",
+            "fontFamily": "Ogg, \"Iowan Old Style\", Baskerville, \"Times New Roman\", serif",
+            "fontWeight": "400",
+            "fontStyle": "normal",
+            "color": "rgb(27, 26, 24)",
+            "lineHeight": "41.6px"
+          },
+          {
+            "selector": ".feature-copy",
+            "fontSize": "16px",
+            "fontFamily": "Founders, \"Helvetica Neue\", Arial, sans-serif",
+            "fontWeight": "400",
+            "fontStyle": "normal",
+            "color": "rgb(105, 95, 87)",
+            "lineHeight": "28px"
+          },
+          {
+            "selector": ".jewel-c strong",
+            "fontSize": "32px",
+            "fontFamily": "Ogg, \"Iowan Old Style\", Baskerville, \"Times New Roman\", serif",
+            "fontWeight": "400",
+            "fontStyle": "normal",
+            "color": "rgb(246, 238, 231)",
+            "lineHeight": "40px"
+          },
+          {
+            "selector": ".jewel-c p",
+            "fontSize": "16px",
+            "fontFamily": "Founders, \"Helvetica Neue\", Arial, sans-serif",
+            "fontWeight": "400",
+            "fontStyle": "normal",
+            "color": "rgb(215, 201, 188)",
+            "lineHeight": "28px"
+          },
+          {
+            "selector": ".jewel-c .micro-label",
+            "fontSize": "12px",
+            "fontFamily": "Founders, \"Helvetica Neue\", Arial, sans-serif",
+            "fontWeight": "500",
+            "fontStyle": "normal",
+            "color": "rgb(198, 182, 167)",
+            "lineHeight": "17.4px"
+          }
+        ],
+        "paragraphs": [
+          {
+            "class": "hero-text",
+            "text": "A beleza de um sorriso está em preservar aquilo que faz de você uma pessoa única. Técnica,",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "feature-copy",
+            "text": "A proposta não é apagar traços, mas revelar uma versão mais segura, harmônica e fiel ao qu",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "Não se trata de escolher dentes perfeitos em série, mas de respeitar formas, proporções, t",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "Está na naturalidade de um sorriso que se integra ao seu rosto, à sua expressão e à forma ",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "Histórias diferentes pedem planejamentos diferentes. Uma seleção de imagens para demonstra",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "about-lead",
+            "text": "“Eu nunca quis atender mais pessoas. Eu quis atender melhor cada pessoa que escolhesse con",
+            "fontSize": "27px",
+            "editorialOrDisclaimer": true
+          },
+          {
+            "class": "",
+            "text": "Sou cirurgiã-dentista há dez anos, especialista em Dentística Estética e Restauradora. Meu",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "Ouvir antes de propor. Entender antes de mudar. E cuidar de cada detalhe ao longo do camin",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "O primeiro encontro é dedicado a compreender o seu sorriso, suas expectativas e as possibi",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "Antes de pensar em qualquer procedimento, quero conhecer você. Entender o que gosta no seu",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "Cada sorriso tem características que o tornam único. Por isso, a avaliação considera não a",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "Com tudo isso em mente, construímos um planejamento individualizado. A escolha do tratamen",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "Aqui será inserido o relato real de uma paciente, com autorização para uso e preservação d",
+            "fontSize": "34px",
+            "editorialOrDisclaimer": true
+          },
+          {
+            "class": "",
+            "text": "O mesmo olhar e a mesma atenção aos detalhes em Anápolis e Goiânia.",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "Av. Presidente Kennedy, Qd. 17, Lt. 22 · Jardim Alexandrina, Anápolis — GO",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "Condomínio Edifício Executive Tower",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "locations-disclaimer",
+            "text": "Fotografias ilustrativas; não representam os consultórios reais. Os endereços de Anápolis ",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": true
+          },
+          {
+            "class": "",
+            "text": "",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "Acompanhe os conteúdos e as novidades da Dra. Brenda Loren no perfil @brendaloren.",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          },
+          {
+            "class": "",
+            "text": "Uma experiência pensada para valorizar quem você é, em cada detalhe.",
+            "fontSize": "16px",
+            "editorialOrDisclaimer": false
+          }
+        ]
+      },
+      "ctas": [
+        {
+          "text": "Agendar avaliação",
+          "x": 1193.734375,
+          "right": 1360,
+          "width": 166.265625,
+          "height": 52,
+          "fontSize": "15px",
+          "alignItems": "center",
+          "justifyContent": "center",
+          "padding": "14px 20px",
+          "borderRadius": "999px",
+          "href": "#avaliacao"
+        },
+        {
+          "text": "Conheça a avaliação",
+          "x": 80,
+          "right": 290,
+          "width": 210,
+          "height": 52,
+          "fontSize": "15px",
+          "alignItems": "center",
+          "justifyContent": "center",
+          "padding": "14px 24px",
+          "borderRadius": "999px",
+          "href": "#avaliacao"
+        },
+        {
+          "text": "Conheça os sorrisos",
+          "x": 302,
+          "right": 512,
+          "width": 210,
+          "height": 52,
+          "fontSize": "15px",
+          "alignItems": "center",
+          "justifyContent": "center",
+          "padding": "14px 24px",
+          "borderRadius": "999px",
+          "href": "#resultados"
+        },
+        {
+          "text": "Como funciona a avaliação",
+          "x": 1129.046875,
+          "right": 1360,
+          "width": 230.953125,
+          "height": 52,
+          "fontSize": "15px",
+          "alignItems": "center",
+          "justifyContent": "center",
+          "padding": "14px 24px",
+          "borderRadius": "999px",
+          "href": "#avaliacao"
+        },
+        {
+          "text": "Entenda o planejamento",
+          "x": 1147.359375,
+          "right": 1360,
+          "width": 212.640625,
+          "height": 52,
+          "fontSize": "15px",
+          "alignItems": "center",
+          "justifyContent": "center",
+          "padding": "14px 24px",
+          "borderRadius": "999px",
+          "href": "#avaliacao"
+        },
+        {
+          "text": "Meu jeito de cuidar",
+          "x": 792,
+          "right": 968.75,
+          "width": 176.75,
+          "height": 52,
+          "fontSize": "15px",
+          "alignItems": "center",
+          "justifyContent": "center",
+          "padding": "14px 24px",
+          "borderRadius": "999px",
+          "href": "#avaliacao"
+        },
+        {
+          "text": "Agendar minha avaliação",
+          "x": 835.828125,
+          "right": 1055.109375,
+          "width": 219.28125,
+          "height": 52,
+          "fontSize": "15px",
+          "alignItems": "center",
+          "justifyContent": "center",
+          "padding": "14px 24px",
+          "borderRadius": "999px",
+          "href": "#"
+        },
+        {
+          "text": "Ver localização no mapa",
+          "x": 108,
+          "right": 321.4375,
+          "width": 213.4375,
+          "height": 52,
+          "fontSize": "15px",
+          "alignItems": "center",
+          "justifyContent": "center",
+          "padding": "14px 24px",
+          "borderRadius": "999px",
+          "href": "https://www.google.com/maps/search/?api=1&query=Av.+Presidente+Kennedy+Qd.+17+Lt.+22+Jardim+Alexandrina+An%C3%A1polis+GO"
+        },
+        {
+          "text": "Ver localização no mapa",
+          "x": 758,
+          "right": 971.4375,
+          "width": 213.4375,
+          "height": 52,
+          "fontSize": "15px",
+          "alignItems": "center",
+          "justifyContent": "center",
+          "padding": "14px 24px",
+          "borderRadius": "999px",
+          "href": "https://maps.google.com/?q=-16.697624,-49.254307"
+        },
+        {
+          "text": "Ver perfil no Instagram",
+          "x": 80,
+          "right": 280.921875,
+          "width": 200.921875,
+          "height": 52,
+          "fontSize": "15px",
+          "alignItems": "center",
+          "justifyContent": "center",
+          "padding": "14px 24px",
+          "borderRadius": "999px",
+          "href": "https://www.instagram.com/brendaloren/"
+        },
+        {
+          "text": "Agendar minha avaliação",
+          "x": 806.390625,
+          "right": 1025.671875,
+          "width": 219.28125,
+          "height": 52,
+          "fontSize": "15px",
+          "alignItems": "center",
+          "justifyContent": "center",
+          "padding": "14px 24px",
+          "borderRadius": "999px",
+          "href": "#"
+        }
+      ],
+      "hash_links": [
+        {
+          "text": "Ir para o conteúdo",
+          "href": "#principal",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Dra. Brenda LorenODONTOLOGIA ESTÉTICA",
+          "href": "#inicio",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Filosofia",
+          "href": "#filosofia",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "As joias",
+          "href": "#joias",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Sorrisos",
+          "href": "#resultados",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Brenda Loren",
+          "href": "#brenda",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Avaliação",
+          "href": "#avaliacao",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Localizações",
+          "href": "#localizacoes",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Instagram",
+          "href": "#instagram",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Agendar avaliação",
+          "href": "#avaliacao",
+          "isDemo": true,
+          "targetExists": true
+        },
+        {
+          "text": "Conheça a avaliação",
+          "href": "#avaliacao",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Conheça os sorrisos",
+          "href": "#resultados",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Como funciona a avaliação",
+          "href": "#avaliacao",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Entenda o planejamento",
+          "href": "#avaliacao",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Meu jeito de cuidar",
+          "href": "#avaliacao",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Agendar minha avaliação",
+          "href": "#",
+          "isDemo": true,
+          "targetExists": false
+        },
+        {
+          "text": "Agendar minha avaliação",
+          "href": "#",
+          "isDemo": true,
+          "targetExists": false
+        },
+        {
+          "text": "Dra. Brenda Loren",
+          "href": "#inicio",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Filosofia",
+          "href": "#filosofia",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "As joias",
+          "href": "#joias",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Sorrisos",
+          "href": "#resultados",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Avaliação",
+          "href": "#avaliacao",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Localizações",
+          "href": "#localizacoes",
+          "isDemo": false,
+          "targetExists": true
+        },
+        {
+          "text": "Instagram",
+          "href": "#instagram",
+          "isDemo": false,
+          "targetExists": true
+        }
+      ],
+      "navigation": [
+        {
+          "top": 0,
+          "id": "filosofia",
+          "href": "#filosofia",
+          "menu_closed": true,
+          "hash": "#filosofia"
+        },
+        {
+          "top": -0.21875,
+          "id": "joias",
+          "href": "#joias",
+          "menu_closed": true,
+          "hash": "#joias"
+        },
+        {
+          "top": 0.203125,
+          "id": "resultados",
+          "href": "#resultados",
+          "menu_closed": true,
+          "hash": "#resultados"
+        },
+        {
+          "top": -0.09375,
+          "id": "brenda",
+          "href": "#brenda",
+          "menu_closed": true,
+          "hash": "#brenda"
+        },
+        {
+          "top": -0.09375,
+          "id": "avaliacao",
+          "href": "#avaliacao",
+          "menu_closed": true,
+          "hash": "#avaliacao"
+        },
+        {
+          "top": 0.265625,
+          "id": "localizacoes",
+          "href": "#localizacoes",
+          "menu_closed": true,
+          "hash": "#localizacoes"
+        },
+        {
+          "top": -0.171875,
+          "id": "instagram",
+          "href": "#instagram",
+          "menu_closed": true,
+          "hash": "#instagram"
+        }
+      ],
+      "modal": [
+        {
+          "trigger": "Agendar avaliação",
+          "opened": true,
+          "closed": true
+        },
+        {
+          "trigger": "Agendar minha avaliação",
+          "opened": true,
+          "closed": true
+        },
+        {
+          "trigger": "Agendar minha avaliação",
+          "opened": true,
+          "closed": true
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Como saber qual tratamento é indicado para mim?\n+",
+          "opened": true,
+          "closed": true
+        },
+        {
+          "question": "As lentes de porcelana são indicadas para todas as pessoas?\n+",
+          "opened": true,
+          "closed": true
+        },
+        {
+          "question": "Como funciona o primeiro atendimento?\n+",
+          "opened": true,
+          "closed": true
+        },
+        {
+          "question": "Posso ser atendida em Anápolis ou Goiânia?\n+",
+          "opened": true,
+          "closed": true
+        }
+      ],
+      "testimonials": [
+        "02 / 03",
+        "03 / 03",
+        "01 / 03",
+        "03 / 03",
+        "02 / 03",
+        "01 / 03"
+      ],
+      "captures": [
+        "/workspace/scratch/captures-v06.4/v06-1440-full.png",
+        "/workspace/scratch/captures-v06.4/v06-1440-hero.png",
+        "/workspace/scratch/captures-v06.4/v06-1440-inicio.png",
+        "/workspace/scratch/captures-v06.4/v06-1440-filosofia.png",
+        "/workspace/scratch/captures-v06.4/v06-1440-joias.png",
+        "/workspace/scratch/captures-v06.4/v06-1440-resultados.png",
+        "/workspace/scratch/captures-v06.4/v06-1440-brenda.png",
+        "/workspace/scratch/captures-v06.4/v06-1440-avaliacao.png",
+        "/workspace/scratch/captures-v06.4/v06-1440-depoimentos.png",
+        "/workspace/scratch/captures-v06.4/v06-1440-localizacoes.png",
+        "/workspace/scratch/captures-v06.4/v06-1440-perguntas.png",
+        "/workspace/scratch/captures-v06.4/v06-1440-instagram.png",
+        "/workspace/scratch/captures-v06.4/v06-1440-contato.png"
+      ],
+      "status": "passed_with_missing_fonts"
+    }
+  ],
+  "functional_pass": true,
+  "exact_fonts_ready": false
+}

@@ -1,5 +1,5 @@
 {
-  "version": "06.3",
+  "version": "06.4",
   "status": "review_with_font_and_external_instagram_limits",
   "functional_pass": true,
   "widths": [
@@ -10,9 +10,7 @@
     1440
   ],
   "additional_viewports": [
-    "1271x555",
-    "721x900",
-    "980x900"
+    "1271x555"
   ],
   "hero_photo_desktop_half_width": true,
   "hero_reference_framing": "square desktop/mobile; responsive height follows text at 721–980px; object-position center 57%",
@@ -24,8 +22,7 @@
   "jewels_intro_grouped_left_under_title": true,
   "jewels_photos_equal_size_and_top": true,
   "about_photo_square_corners": true,
-  "cases_entire_section_height_at_1271x555_px": 530.015625,
-  "cases_all_three_images_uncropped": true,
+  "cases_entire_section_height_at_1271x555_px": 554.015625,
   "illustrative_stock_location_photos_added": true,
   "stock_provenance": "assets/STOCK-CREDITS.txt",
   "instagram_profile": "https://www.instagram.com/brendaloren/",
@@ -42,7 +39,19 @@
     "Licensed web fonts with Portuguese diacritics",
     "Verify native Instagram rendering on hosting"
   ],
-  "hosting_zip_sha256": "0ad5d0fd0fe7809b8bce81f9158cd61dfc3537730d5aeae2011a396a86ac5963",
+  "hosting_zip_sha256": "770e9baa9f21bf9a8f7a5d840f7e02106a0725eb4c263b2453a683ec1e61e4af",
   "hosting_zip_entries": 20,
-  "hero_tablet_photo_fills_text_height": true
+  "hero_tablet_photo_fills_text_height": true,
+  "header_solid_background": true,
+  "hero_top_transition_removed": true,
+  "hero_only_horizontal_transition": true,
+  "cases_image_count": 5,
+  "cases_repeated_images_for_illustration": 2,
+  "cases_gallery_full_section_width_desktop": true,
+  "cases_image_height_at_1271x555_px": 214,
+  "cases_previous_image_height_at_1271x555_px": 190,
+  "cases_all_images_uncropped": true,
+  "current_functional_report": "validacao-v06-4.json",
+  "current_gallery_report": "verificacao-galeria-v06-4.json",
+  "current_header_report": "verificacao-menu-inicio-v06-4.json"
 }

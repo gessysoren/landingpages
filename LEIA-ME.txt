@@ -1,4 +1,4 @@
-DRA. BRENDA LOREN — V06.3 PARA REVISÃO
+DRA. BRENDA LOREN — V06.4 PARA REVISÃO
 
 Este pacote parte da V5 e reúne os ajustes solicitados na composição e na
 copy. A estrutura existente inclui a seção de Instagram antes do convite
@@ -7,13 +7,15 @@ demonstrativo; não equivale à aprovação para publicação oficial.
 
 AJUSTES DESTA REVISÃO
 - Início de ponta a ponta, sem margens externas, bordas ou cantos arredondados.
-  Menu no topo da primeira dobra, com 80 px no desktop e 68 px no celular.
+  Menu com fundo sólido no topo da primeira dobra, com 80 px no desktop
+  e 68 px no celular. O esfumado vertical acima da foto foi removido.
 - Retrato ocupa a metade direita no desktop, com enquadramento quadrado
   inspirado na referência e object-position: center 57%. O recorte adapta
   a fotografia ao espaço; não preserva toda a imagem original de proporção 4:5.
   Entre 721 e 980 px, a altura da foto acompanha a coluna de texto, evitando
   uma faixa vazia ou uma junção marcada acima da imagem.
-- Degradê lateral suave nos primeiros 18% da fotografia, sobre o fundo cinza.
+- Transição apenas da esquerda para a direita nos primeiros 18% da foto,
+  sobre o fundo cinza. Não há gradiente vertical na imagem.
 - Textos e botões ficam na coluna esquerda, separados do retrato. No celular,
   a composição se reorganiza em uma coluna.
 - Removido o bloco superior da Filosofia mostrado pela cliente, incluindo
@@ -24,8 +26,11 @@ AJUSTES DESTA REVISÃO
   alinhada à esquerda com “A arte da porcelana”, com espaçamentos próximos.
 - As duas fotografias de As joias têm as mesmas dimensões e o mesmo
   alinhamento superior.
-- Galeria de casos compacta: três casos lado a lado no desktop, com altura
-  ajustada à área visível para apresentar o antes/depois inteiro.
+- Galeria de sorrisos ocupa a largura da seção com cinco imagens no desktop.
+  Duas imagens existentes se repetem como ilustração, conforme solicitado;
+  não representam casos novos. As comparações permanecem inteiras. Em
+  tablets são três colunas e no celular uma, preservando a leitura.
+  Na tela de 1271 x 555 px, as fotos têm 214 px de altura, antes 190 px.
 - Fotografia da seção Sobre com cantos retos.
 - Fotografias ilustrativas das localizações substituídas por imagens de
   bancos de fotos; detalhes de origem e licença estão em assets/.
@@ -45,14 +50,14 @@ AJUSTES DESTA REVISÃO
 - Âncoras nativas chegam ao início da seção; o menu rola junto com a página
   e não fica fixo sobre os títulos das outras seções.
 - Modal de demonstração com identificação acessível e fechamento correto.
-- Estilos/JavaScript com identificador v=06.3 para atualizar o cache.
+- Estilos/JavaScript com identificador v=06.4 para atualizar o cache.
 
 VALIDAÇÃO E LIMITES
 Esta revisão foi conferida em Chromium nas larguras de 320, 390, 768,
 1024 e 1440 px: sem rolagem horizontal ou novas falhas funcionais no
 carregamento de imagens, CTAs, sete links de menu, links internos, menu
 mobile, modal, quatro FAQs e carrossel demonstrativo. Em 1271 x 555 px, a
-seção de casos completa mede cerca de 530 px e cabe na tela. As fotografias
+seção de casos completa mede cerca de 554 px e cabe na tela. As fotografias
 de Joias têm dimensões iguais e a fotografia de Sobre está com cantos retos.
 - As fontes reais renderizadas foram Liberation Serif e Liberation Sans.
   NÃO foram Ogg e Founders Grotesk. A tipografia exata não está concluída.
