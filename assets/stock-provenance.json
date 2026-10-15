@@ -1,0 +1,35 @@
+[
+  {
+    "local_file": "location-anapolis.jpg",
+    "suggested_use": "Recepção/ambiente ilustrativo, Anápolis",
+    "author": "Nastuh Abootaiebi (as credited by source repository)",
+    "author_as_credited_in_repository": "Nastuh Abootaiebi",
+    "stock_bank": "Unsplash",
+    "original_source_url": "https://unsplash.com/photos/rSpMla5RItA",
+    "license_url": "https://unsplash.com/license",
+    "license_permission": "Free commercial website use, modification allowed; Unsplash attribution appreciated, not required. Do not sell unmodified photos or compile a competing service.",
+    "visual_inspection": "Single neutral modern interior with glazed partitions and seating. No people or clinic identity claims. 640x427.",
+    "mirror_url": "https://raw.githubusercontent.com/Craigharrison79/MS1-Dental-Clinic/01030f38f3376716c5b5e02cab5ada8e913ba8e8/assets/image/clinic1-min.jpg",
+    "sha256": "5b2d63707599202dc9cef459e6834cd7d1e91ff35d809e77ad7635f53ff4e66b",
+    "provenance_readme": "https://github.com/Craigharrison79/MS1-Dental-Clinic/blob/01030f38f3376716c5b5e02cab5ada8e913ba8e8/README.md#images",
+    "mirror_repository_commit": "01030f38f3376716c5b5e02cab5ada8e913ba8e8",
+    "width": 640,
+    "height": 427
+  },
+  {
+    "local_file": "location-goiania.jpg",
+    "suggested_use": "Equipamento odontológico ilustrativo, Goiânia",
+    "author": "Daniel Frank",
+    "stock_bank": "Pexels",
+    "original_source_url": "https://www.pexels.com/photo/chairs-arranged-on-table-305564/",
+    "license_url": "https://www.pexels.com/license/",
+    "license_permission": "Free commercial website use, modification allowed; Pexels attribution appreciated, not required. Do not resell unaltered stock as a product or imply endorsement.",
+    "visual_inspection": "Single white dental-chair treatment room close-up. No people or clinic identity claims. 640x426.",
+    "mirror_url": "https://raw.githubusercontent.com/Craigharrison79/MS1-Dental-Clinic/01030f38f3376716c5b5e02cab5ada8e913ba8e8/assets/image/clinic3-min.jpg",
+    "sha256": "f14efba21eeeabab897a9b3734512a38ee290dd9430e3178b10e72070571f9f1",
+    "provenance_readme": "https://github.com/Craigharrison79/MS1-Dental-Clinic/blob/01030f38f3376716c5b5e02cab5ada8e913ba8e8/README.md#images",
+    "mirror_repository_commit": "01030f38f3376716c5b5e02cab5ada8e913ba8e8",
+    "width": 640,
+    "height": 426
+  }
+]

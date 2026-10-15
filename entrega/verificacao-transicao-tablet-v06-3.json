@@ -1,0 +1,245 @@
+{
+  "results": [
+    {
+      "width": 721,
+      "photo_y_in_hero": 80,
+      "photo_height": 455.9375,
+      "copy_height": 455.9375,
+      "top_boundary": [
+        {
+          "width_fraction": 0.7,
+          "before_rgb": [
+            45,
+            45,
+            43
+          ],
+          "after_rgb": [
+            49,
+            49,
+            46
+          ],
+          "jump": 4
+        },
+        {
+          "width_fraction": 0.85,
+          "before_rgb": [
+            45,
+            45,
+            43
+          ],
+          "after_rgb": [
+            50,
+            50,
+            47
+          ],
+          "jump": 5
+        },
+        {
+          "width_fraction": 0.95,
+          "before_rgb": [
+            45,
+            45,
+            43
+          ],
+          "after_rgb": [
+            52,
+            52,
+            50
+          ],
+          "jump": 7
+        }
+      ],
+      "left_boundary": [
+        {
+          "image_y_fraction": 0.15,
+          "before_rgb": [
+            87,
+            86,
+            83
+          ],
+          "after_rgb": [
+            86,
+            85,
+            82
+          ],
+          "jump": 1
+        },
+        {
+          "image_y_fraction": 0.42,
+          "before_rgb": [
+            86,
+            85,
+            82
+          ],
+          "after_rgb": [
+            87,
+            86,
+            83
+          ],
+          "jump": 1
+        }
+      ]
+    },
+    {
+      "width": 768,
+      "photo_y_in_hero": 80,
+      "photo_height": 455.9375,
+      "copy_height": 455.9375,
+      "top_boundary": [
+        {
+          "width_fraction": 0.7,
+          "before_rgb": [
+            46,
+            45,
+            43
+          ],
+          "after_rgb": [
+            48,
+            48,
+            46
+          ],
+          "jump": 3
+        },
+        {
+          "width_fraction": 0.85,
+          "before_rgb": [
+            45,
+            45,
+            43
+          ],
+          "after_rgb": [
+            51,
+            50,
+            48
+          ],
+          "jump": 6
+        },
+        {
+          "width_fraction": 0.95,
+          "before_rgb": [
+            46,
+            45,
+            43
+          ],
+          "after_rgb": [
+            52,
+            52,
+            49
+          ],
+          "jump": 7
+        }
+      ],
+      "left_boundary": [
+        {
+          "image_y_fraction": 0.15,
+          "before_rgb": [
+            87,
+            86,
+            83
+          ],
+          "after_rgb": [
+            87,
+            86,
+            83
+          ],
+          "jump": 0
+        },
+        {
+          "image_y_fraction": 0.42,
+          "before_rgb": [
+            86,
+            85,
+            82
+          ],
+          "after_rgb": [
+            87,
+            86,
+            83
+          ],
+          "jump": 1
+        }
+      ]
+    },
+    {
+      "width": 980,
+      "photo_y_in_hero": 80,
+      "photo_height": 490,
+      "copy_height": 455.9375,
+      "top_boundary": [
+        {
+          "width_fraction": 0.7,
+          "before_rgb": [
+            45,
+            45,
+            43
+          ],
+          "after_rgb": [
+            50,
+            50,
+            48
+          ],
+          "jump": 5
+        },
+        {
+          "width_fraction": 0.85,
+          "before_rgb": [
+            45,
+            45,
+            43
+          ],
+          "after_rgb": [
+            53,
+            52,
+            51
+          ],
+          "jump": 8
+        },
+        {
+          "width_fraction": 0.95,
+          "before_rgb": [
+            45,
+            45,
+            43
+          ],
+          "after_rgb": [
+            54,
+            53,
+            51
+          ],
+          "jump": 9
+        }
+      ],
+      "left_boundary": [
+        {
+          "image_y_fraction": 0.15,
+          "before_rgb": [
+            87,
+            86,
+            83
+          ],
+          "after_rgb": [
+            87,
+            86,
+            83
+          ],
+          "jump": 0
+        },
+        {
+          "image_y_fraction": 0.42,
+          "before_rgb": [
+            87,
+            86,
+            83
+          ],
+          "after_rgb": [
+            86,
+            85,
+            82
+          ],
+          "jump": 1
+        }
+      ]
+    }
+  ],
+  "description": "Read-only pixel samples after tablet portrait fills its hero row; the previous 15–26 RGB hard top step is removed."
+}

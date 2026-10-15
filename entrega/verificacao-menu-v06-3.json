@@ -1,0 +1,12 @@
+{
+  "menu_open": true,
+  "escape_closes": true,
+  "focus_returns": true,
+  "anchor": {
+    "hash": "#resultados",
+    "top": -0.078125,
+    "menu_closed": true
+  },
+  "all_passed": true,
+  "checked_at_utc": "2026-10-15T04:34:45Z"
+}

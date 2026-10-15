@@ -1,0 +1,31 @@
+FOTOGRAFIAS ILUSTRATIVAS — LOCALIZAÇÕES
+
+Estes ambientes não representam as unidades reais de Anápolis ou Goiânia.
+As imagens foram obtidas de um espelho público com créditos específicos
+para os arquivos e os bancos originais. Licenças das fotografias são
+distintas da licença do código do repositório de origem.
+
+location-anapolis.jpg
+Banco: Unsplash
+Autor conforme a fonte: Nastuh Abootaiebi (as credited by source repository)
+Fotografia original: https://unsplash.com/photos/rSpMla5RItA
+Licença: https://unsplash.com/license
+Evidência dos créditos: https://github.com/Craigharrison79/MS1-Dental-Clinic/blob/01030f38f3376716c5b5e02cab5ada8e913ba8e8/README.md#images
+Espelho: https://raw.githubusercontent.com/Craigharrison79/MS1-Dental-Clinic/01030f38f3376716c5b5e02cab5ada8e913ba8e8/assets/image/clinic1-min.jpg
+SHA256: 5b2d63707599202dc9cef459e6834cd7d1e91ff35d809e77ad7635f53ff4e66b
+
+location-goiania.jpg
+Banco: Pexels
+Autor conforme a fonte: Daniel Frank
+Fotografia original: https://www.pexels.com/photo/chairs-arranged-on-table-305564/
+Licença: https://www.pexels.com/license/
+Evidência dos créditos: https://github.com/Craigharrison79/MS1-Dental-Clinic/blob/01030f38f3376716c5b5e02cab5ada8e913ba8e8/README.md#images
+Espelho: https://raw.githubusercontent.com/Craigharrison79/MS1-Dental-Clinic/01030f38f3376716c5b5e02cab5ada8e913ba8e8/assets/image/clinic3-min.jpg
+SHA256: f14efba21eeeabab897a9b3734512a38ee290dd9430e3178b10e72070571f9f1
+
+Unsplash e Pexels permitem uso ilustrativo em websites comerciais,
+sujeito às respectivas licenças. Não implica endosso do fotógrafo ou
+que o local fotografado seja a clínica da profissional.
+As páginas oficiais foram bloqueadas pelo proxy do ambiente (CONNECT403);
+origem/autoria vieram dos créditos específicos no repositório fixado.
+Nenhum retrato, imagem iStock ou montagem desse repositório foi utilizado.

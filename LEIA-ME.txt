@@ -1,26 +1,42 @@
-DRA. BRENDA LOREN — V06.2 PARA REVISÃO
+DRA. BRENDA LOREN — V06.3 PARA REVISÃO
 
-Este pacote corrige a V5 existente. As dez seções originais, a copy, as
-fotografias clínicas e os avisos demonstrativos foram preservados, com uma
-nova seção de Instagram antes do convite final. Não é uma entrega
-final aprovada para publicação oficial: há duas pendências de assets.
+Este pacote parte da V5 e reúne os ajustes solicitados na composição e na
+copy. A estrutura existente inclui a seção de Instagram antes do convite
+final. Esta é uma versão para revisão, com fontes substitutas e conteúdo
+demonstrativo; não equivale à aprovação para publicação oficial.
 
-CORREÇÕES IMPLEMENTADAS E CONFERIDAS
+AJUSTES DESTA REVISÃO
 - Início de ponta a ponta, sem margens externas, bordas ou cantos arredondados.
-  Menu no topo da primeira dobra.
-- Fotografia original da Brenda INTEIRA na coluna direita, sem zoom,
-  recorte, máscara ou filtro; textos e botões na coluna esquerda, separados
-  da imagem. No celular, foto integral acima e texto alinhado à esquerda abaixo.
-- Alinhamento dos blocos superiores e inferiores de Filosofia e As joias
-  por colunas compartilhadas, incluindo ajustes para tablet e celular.
-- Nova seção de Instagram com prévia oficial do perfil @brendaloren e
-  acesso à publicação enviada pela cliente. Não há posts ou datas inventados.
+  Menu no topo da primeira dobra, com 80 px no desktop e 68 px no celular.
+- Retrato ocupa a metade direita no desktop, com enquadramento quadrado
+  inspirado na referência e object-position: center 57%. O recorte adapta
+  a fotografia ao espaço; não preserva toda a imagem original de proporção 4:5.
+  Entre 721 e 980 px, a altura da foto acompanha a coluna de texto, evitando
+  uma faixa vazia ou uma junção marcada acima da imagem.
+- Degradê lateral suave nos primeiros 18% da fotografia, sobre o fundo cinza.
+- Textos e botões ficam na coluna esquerda, separados do retrato. No celular,
+  a composição se reorganiza em uma coluna.
+- Removido o bloco superior da Filosofia mostrado pela cliente, incluindo
+  “Você não precisa de outro sorriso. Precisa do seu.”, a citação sobre
+  sorrisos em série e o respectivo parágrafo introdutório. A seção passa
+  diretamente à fotografia e ao título “Um sorriso pode mudar…”.
+- Introdução de As joias agrupada abaixo de “Joias para o seu sorriso.” e
+  alinhada à esquerda com “A arte da porcelana”, com espaçamentos próximos.
+- As duas fotografias de As joias têm as mesmas dimensões e o mesmo
+  alinhamento superior.
+- Galeria de casos compacta: três casos lado a lado no desktop, com altura
+  ajustada à área visível para apresentar o antes/depois inteiro.
+- Fotografia da seção Sobre com cantos retos.
+- Fotografias ilustrativas das localizações substituídas por imagens de
+  bancos de fotos; detalhes de origem e licença estão em assets/.
+- Seção de Instagram com prévia oficial de @brendaloren; link
+  “Ver publicação” removido conforme solicitado. Não há posts inventados.
 - Imagens locais com dimensões intrínsecas para estabilizar a composição.
 - Headline em duas linhas independentes: “O novo luxo” / “é natural.”.
   Apenas “natural.” recebe itálico champanhe. Espaço real também no HTML.
 - Sistema único de CTAs: alinhamento central, 52 px de altura mínima,
   texto de 15 px, bordas e padding consistentes e hover discreto.
-- Filosofia sem caixa bege, duas colunas equilibradas, citação de 32 px
+- Filosofia sem caixa bege, duas colunas equilibradas, título de 32 px
   no desktop (30 px no tablet / 28 px no celular), parágrafo de 16 px.
 - As joias: duas fotografias e texto editorial diretamente no fundo escuro;
   título da visão de 32 px no desktop e 26 px no celular, parágrafo de 16 px.
@@ -29,15 +45,15 @@ CORREÇÕES IMPLEMENTADAS E CONFERIDAS
 - Âncoras nativas chegam ao início da seção; o menu rola junto com a página
   e não fica fixo sobre os títulos das outras seções.
 - Modal de demonstração com identificação acessível e fechamento correto.
-- Estilos/JavaScript com identificador v=06.2 para atualizar o cache.
+- Estilos/JavaScript com identificador v=06.3 para atualizar o cache.
 
-VALIDAÇÃO DESTA ENTREGA
-Chromium, larguras de 320, 390, 768, 1024 e 1440 px:
-- Sem rolagem horizontal; todas as imagens incluídas carregaram.
-- CTAs visíveis com 15 px, centralizados e dentro das margens.
-- Todos os sete links de menu chegaram ao topo de sua seção.
-- Links internos, menu mobile, modal, quatro FAQs e carrossel demonstrativo
-  passaram nas cinco larguras.
+VALIDAÇÃO E LIMITES
+Esta revisão foi conferida em Chromium nas larguras de 320, 390, 768,
+1024 e 1440 px: sem rolagem horizontal ou novas falhas funcionais no
+carregamento de imagens, CTAs, sete links de menu, links internos, menu
+mobile, modal, quatro FAQs e carrossel demonstrativo. Em 1271 x 555 px, a
+seção de casos completa mede cerca de 530 px e cabe na tela. As fotografias
+de Joias têm dimensões iguais e a fotografia de Sobre está com cantos retos.
 - As fontes reais renderizadas foram Liberation Serif e Liberation Sans.
   NÃO foram Ogg e Founders Grotesk. A tipografia exata não está concluída.
 - Capturas desktop/mobile e relatórios estão na pasta entrega/ do repositório.
@@ -45,7 +61,7 @@ Chromium, larguras de 320, 390, 768, 1024 e 1440 px:
   retornou CONNECT 403. Links nativos, fallback e layout foram testados;
   é preciso conferir a renderização do conteúdo externo na hospedagem.
 
-PENDÊNCIA 1 — FONTES WEB LICENCIADAS, COM ACENTOS
+PENDÊNCIA — FONTES WEB LICENCIADAS, COM ACENTOS
 Os dois ZIPs de fontes enviados foram inspecionados:
 - Ogg: arquivos identificados internamente como “Ogg TRIAL”.
 - Founders: arquivos identificados como “Test Founders Grotesk”.
@@ -67,25 +83,25 @@ Depois de instalá-los, repita a conferência visual nas cinco larguras e
 verifique a fonte efetivamente renderizada no navegador. Arquivos WOFF/WOFF2
 licenciados também podem ser usados, ajustando seus caminhos/formats no CSS.
 
-PENDÊNCIA 2 — NOVAS FOTOGRAFIAS DOS CONSULTÓRIOS
-As duas referências de consultórios foram exibidas na conversa, mas não
-chegaram como arquivos acessíveis para inclusão neste ZIP. Este pacote
-MANTÉM as duas imagens antigas da V5: a troca ainda NÃO foi realizada.
-Envie um ZIP contendo os dois arquivos JPG, PNG ou WebP para substituição
-exata. As imagens apenas exibidas na mensagem não chegaram como arquivos
-acessíveis a este ambiente:
-- Anápolis: consultório claro com espelho orgânico e cadeira odontológica.
-- Goiânia: consultório moderno com madeira e iluminação indireta.
-Não confunda as fotografias ilustrativas com imagens reais das unidades.
+FOTOGRAFIAS ILUSTRATIVAS DAS LOCALIZAÇÕES
+As imagens antigas foram substituídas por fotografias de bancos de fotos:
+- assets/location-anapolis.jpg: Unsplash, fotografia rSpMla5RItA.
+- assets/location-goiania.jpg: Pexels, fotografia 305564.
+Não é necessário aguardar novos arquivos para usar essas imagens
+ilustrativas na demonstração. Elas não representam as unidades reais da
+profissional. Os créditos, links das licenças e evidências de origem estão
+em assets/STOCK-CREDITS.txt e assets/stock-provenance.json. As páginas
+oficiais dos bancos foram bloqueadas pelo proxy do ambiente; a identificação
+dos arquivos veio dos créditos específicos do espelho público registrado.
 
 INSTAGRAM — PERFIL E PRÉVIA NATIVA
 Perfil: https://www.instagram.com/brendaloren/
-Publicação enviada: https://www.instagram.com/p/DeSL0NfguVQ/
 A página solicita a prévia oficial do perfil pelo script do Instagram,
 carregado apenas quando a seção se aproxima da área visível. O conteúdo
 exibido e sua disponibilidade são controlados pelo Instagram. Não há uma
 lista fixa de publicações inventadas ou cópias de imagens dos posts.
-Se a prévia não carregar, os links de perfil e publicação continuam visíveis.
+Se a prévia não carregar, o acesso ao perfil continua visível. O link
+separado “Ver publicação” foi removido.
 O ambiente de desenvolvimento bloqueou o domínio do Instagram com CONNECT
 403; portanto não foi possível afirmar que a prévia externa renderizou.
 Após subir o site, confira esse bloco com o perfil público e a incorporação
@@ -98,7 +114,8 @@ em skills/README.md. São instruções locais para orientar o trabalho; não
 foi feita ativação global de plugins. skills/ não integra o ZIP da hospedagem.
 
 HOSTINGER — ESTRUTURA PREPARADA PARA A ATUALIZAÇÃO
-1. Resolva as duas pendências acima antes de considerar a V06 concluída.
+1. Para a publicação oficial, resolva a licença e os acentos das fontes,
+   confirme o conteúdo demonstrativo e confira a prévia externa do Instagram.
 2. Faça backup do diretório atual public_html/brenda/demo/, incluindo fontes.
 3. O ZIP tem index.html na raiz, junto com css/, js/, assets/ e este LEIA-ME.
    Não crie uma pasta adicional entre demo/ e index.html ao extrair.

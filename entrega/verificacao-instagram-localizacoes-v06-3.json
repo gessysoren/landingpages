@@ -1,0 +1,37 @@
+{
+  "cases": {
+    "height": 530.015625,
+    "introSize": "16px",
+    "headingSize": "44.485px"
+  },
+  "instagram": {
+    "links": [
+      {
+        "text": "Ver perfil no Instagram",
+        "href": "https://www.instagram.com/brendaloren/"
+      },
+      {
+        "text": "Veja @brendaloren no Instagram.",
+        "href": "https://www.instagram.com/brendaloren/"
+      }
+    ],
+    "hasVerPublicacao": false
+  },
+  "locations": [
+    {
+      "src": "assets/location-anapolis.jpg",
+      "complete": true,
+      "naturalWidth": 640,
+      "naturalHeight": 427,
+      "alt": "Ambiente de recepção ilustrativo, de banco de imagens; não representa a unidade real de Anápolis"
+    },
+    {
+      "src": "assets/location-goiania.jpg",
+      "complete": true,
+      "naturalWidth": 640,
+      "naturalHeight": 426,
+      "alt": "Equipamentos odontológicos em fotografia ilustrativa de banco de imagens; não representam a unidade real de Goiânia"
+    }
+  ],
+  "all_passed": true
+}
