@@ -1,0 +1,1587 @@
+{
+  "results": [
+    {
+      "width": 320,
+      "height": 844,
+      "errors": [],
+      "layout": {
+        "header": {
+          "x": 0,
+          "y": 26,
+          "width": 320,
+          "height": 82,
+          "right": 320,
+          "bottom": 108,
+          "margin": "0px",
+          "border": "0px",
+          "radius": "0px",
+          "position": "absolute",
+          "background": "rgba(0, 0, 0, 0)",
+          "overflow": "visible"
+        },
+        "hero": {
+          "x": 0,
+          "y": 26,
+          "width": 320,
+          "height": 903.34375,
+          "right": 320,
+          "bottom": 929.34375,
+          "margin": "0px",
+          "border": "0px",
+          "radius": "0px",
+          "position": "relative",
+          "background": "rgb(23, 23, 21)",
+          "overflow": "hidden"
+        },
+        "content": {
+          "x": 0,
+          "y": 508,
+          "width": 320,
+          "height": 421.34375,
+          "right": 320,
+          "bottom": 929.34375,
+          "margin": "0px",
+          "border": "0px",
+          "radius": "0px",
+          "position": "relative",
+          "background": "rgba(0, 0, 0, 0)",
+          "overflow": "visible"
+        },
+        "title": {
+          "x": 18,
+          "y": 536,
+          "width": 284,
+          "height": 94.59375,
+          "right": 302,
+          "bottom": 630.59375,
+          "margin": "0px 0px 18px",
+          "border": "0px",
+          "radius": "0px",
+          "position": "static",
+          "background": "rgba(0, 0, 0, 0)",
+          "overflow": "visible"
+        },
+        "image": {
+          "x": 0,
+          "y": 108,
+          "width": 320,
+          "height": 400,
+          "right": 320,
+          "bottom": 508,
+          "fit": "contain",
+          "mask": "none",
+          "filter": "none",
+          "transform": "none",
+          "aspectRatio": "auto 1440 / 1800",
+          "objectPosition": "100% 100%",
+          "naturalWidth": 1440,
+          "naturalHeight": 1800,
+          "src": "assets/portrait.webp"
+        },
+        "text": {
+          "x": 18,
+          "y": 648.59375,
+          "width": 284,
+          "height": 108.75,
+          "right": 302,
+          "bottom": 757.34375,
+          "margin": "0px",
+          "border": "0px",
+          "radius": "0px",
+          "position": "static",
+          "background": "rgba(0, 0, 0, 0)",
+          "overflow": "visible"
+        },
+        "buttons": {
+          "x": 18,
+          "y": 781.34375,
+          "width": 284,
+          "height": 116,
+          "right": 302,
+          "bottom": 897.34375,
+          "margin": "24px 0px 0px",
+          "border": "0px",
+          "radius": "0px",
+          "position": "static",
+          "background": "rgba(0, 0, 0, 0)",
+          "overflow": "visible"
+        },
+        "ancestors": [
+          {
+            "tag": "DIV",
+            "class": "hero-image",
+            "x": 0,
+            "y": 108,
+            "width": 320,
+            "height": 400,
+            "right": 320,
+            "bottom": 508,
+            "overflowX": "visible",
+            "overflowY": "visible"
+          },
+          {
+            "tag": "SECTION",
+            "class": "hero",
+            "x": 0,
+            "y": 26,
+            "width": 320,
+            "height": 903.34375,
+            "right": 320,
+            "bottom": 929.34375,
+            "overflowX": "hidden",
+            "overflowY": "hidden"
+          },
+          {
+            "tag": "MAIN",
+            "class": "",
+            "x": 0,
+            "y": 26,
+            "width": 320,
+            "height": 12692.015625,
+            "right": 320,
+            "bottom": 12718.015625,
+            "overflowX": "visible",
+            "overflowY": "visible"
+          },
+          {
+            "tag": "BODY",
+            "class": "",
+            "x": 0,
+            "y": 0,
+            "width": 320,
+            "height": 13016.40625,
+            "right": 320,
+            "bottom": 13016.40625,
+            "overflowX": "visible",
+            "overflowY": "visible"
+          },
+          {
+            "tag": "HTML",
+            "class": "",
+            "x": 0,
+            "y": 0,
+            "width": 320,
+            "height": 13016.40625,
+            "right": 320,
+            "bottom": 13016.40625,
+            "overflowX": "visible",
+            "overflowY": "visible"
+          }
+        ],
+        "scrollWidth": 320,
+        "bodyWidth": 320,
+        "shadeCount": 0,
+        "shadeVisible": false
+      },
+      "alignment": {
+        "philosophyIntro": 18,
+        "featureSide": 18,
+        "jewelsIntro": 18,
+        "jewelsVisionTitle": 18,
+        "jewelsVisionParagraph": 18
+      },
+      "open_menu": {
+        "x": 0,
+        "right": 320,
+        "scrollWidth": 320,
+        "bodyWidth": 320
+      },
+      "escape": {
+        "closed": true,
+        "focused": true,
+        "label": "Abrir menu"
+      },
+      "navigation": [
+        {
+          "href": "#filosofia",
+          "top": 0.34375,
+          "menu_closed": true
+        },
+        {
+          "href": "#joias",
+          "top": -0.078125,
+          "menu_closed": true
+        },
+        {
+          "href": "#resultados",
+          "top": 0.046875,
+          "menu_closed": true
+        },
+        {
+          "href": "#brenda",
+          "top": 0.453125,
+          "menu_closed": true
+        },
+        {
+          "href": "#avaliacao",
+          "top": 0,
+          "menu_closed": true
+        },
+        {
+          "href": "#localizacoes",
+          "top": 0.40625,
+          "menu_closed": true
+        },
+        {
+          "href": "#instagram",
+          "top": -0.03125,
+          "menu_closed": true
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "errors": [],
+      "layout": {
+        "header": {
+          "x": 0,
+          "y": 26,
+          "width": 390,
+          "height": 82,
+          "right": 390,
+          "bottom": 108,
+          "margin": "0px",
+          "border": "0px",
+          "radius": "0px",
+          "position": "absolute",
+          "background": "rgba(0, 0, 0, 0)",
+          "overflow": "visible"
+        },
+        "hero": {
+          "x": 0,
+          "y": 26,
+          "width": 390,
+          "height": 976.125,
+          "right": 390,
+          "bottom": 1002.125,
+          "margin": "0px",
+          "border": "0px",
+          "radius": "0px",
+          "position": "relative",
+          "background": "rgb(23, 23, 21)",
+          "overflow": "hidden"
+        },
+        "content": {
+          "x": 0,
+          "y": 595.5,
+          "width": 390,
+          "height": 406.625,
+          "right": 390,
+          "bottom": 1002.125,
+          "margin": "0px",
+          "border": "0px",
+          "radius": "0px",
+          "position": "relative",
+          "background": "rgba(0, 0, 0, 0)",
+          "overflow": "visible"
+        },
+        "title": {
+          "x": 20,
+          "y": 627.5,
+          "width": 350,
+          "height": 99.0625,
+          "right": 370,
+          "bottom": 726.5625,
+          "margin": "0px 0px 18px",
+          "border": "0px",
+          "radius": "0px",
+          "position": "static",
+          "background": "rgba(0, 0, 0, 0)",
+          "overflow": "visible"
+        },
+        "image": {
+          "x": 0,
+          "y": 108,
+          "width": 390,
+          "height": 487.5,
+          "right": 390,
+          "bottom": 595.5,
+          "fit": "contain",
+          "mask": "none",
+          "filter": "none",
+          "transform": "none",
+          "aspectRatio": "auto 1440 / 1800",
+          "objectPosition": "100% 100%",
+          "naturalWidth": 1440,
+          "naturalHeight": 1800,
+          "src": "assets/portrait.webp"
+        },
+        "text": {
+          "x": 20,
+          "y": 744.5625,
+          "width": 350,
+          "height": 81.5625,
+          "right": 370,
+          "bottom": 826.125,
+          "margin": "0px",
+          "border": "0px",
+          "radius": "0px",
+          "position": "static",
+          "background": "rgba(0, 0, 0, 0)",
+          "overflow": "visible"
+        },
+        "buttons": {
+          "x": 20,
+          "y": 850.125,
+          "width": 350,
+          "height": 116,
+          "right": 370,
+          "bottom": 966.125,
+          "margin": "24px 0px 0px",
+          "border": "0px",
+          "radius": "0px",
+          "position": "static",
+          "background": "rgba(0, 0, 0, 0)",
+          "overflow": "visible"
+        },
+        "ancestors": [
+          {
+            "tag": "DIV",
+            "class": "hero-image",
+            "x": 0,
+            "y": 108,
+            "width": 390,
+            "height": 487.5,
+            "right": 390,
+            "bottom": 595.5,
+            "overflowX": "visible",
+            "overflowY": "visible"
+          },
+          {
+            "tag": "SECTION",
+            "class": "hero",
+            "x": 0,
+            "y": 26,
+            "width": 390,
+            "height": 976.125,
+            "right": 390,
+            "bottom": 1002.125,
+            "overflowX": "hidden",
+            "overflowY": "hidden"
+          },
+          {
+            "tag": "MAIN",
+            "class": "",
+            "x": 0,
+            "y": 26,
+            "width": 390,
+            "height": 12114.859375,
+            "right": 390,
+            "bottom": 12140.859375,
+            "overflowX": "visible",
+            "overflowY": "visible"
+          },
+          {
+            "tag": "BODY",
+            "class": "",
+            "x": 0,
+            "y": 0,
+            "width": 390,
+            "height": 12439.25,
+            "right": 390,
+            "bottom": 12439.25,
+            "overflowX": "visible",
+            "overflowY": "visible"
+          },
+          {
+            "tag": "HTML",
+            "class": "",
+            "x": 0,
+            "y": 0,
+            "width": 390,
+            "height": 12439.25,
+            "right": 390,
+            "bottom": 12439.25,
+            "overflowX": "visible",
+            "overflowY": "visible"
+          }
+        ],
+        "scrollWidth": 390,
+        "bodyWidth": 390,
+        "shadeCount": 0,
+        "shadeVisible": false
+      },
+      "alignment": {
+        "philosophyIntro": 20,
+        "featureSide": 20,
+        "jewelsIntro": 20,
+        "jewelsVisionTitle": 20,
+        "jewelsVisionParagraph": 20
+      },
+      "open_menu": {
+        "x": 0,
+        "right": 390,
+        "scrollWidth": 390,
+        "bodyWidth": 390
+      },
+      "escape": {
+        "closed": true,
+        "focused": true,
+        "label": "Abrir menu"
+      },
+      "navigation": [
+        {
+          "href": "#filosofia",
+          "top": 0.125,
+          "menu_closed": true
+        },
+        {
+          "href": "#joias",
+          "top": 0.3125,
+          "menu_closed": true
+        },
+        {
+          "href": "#resultados",
+          "top": 0.4375,
+          "menu_closed": true
+        },
+        {
+          "href": "#brenda",
+          "top": 0.171875,
+          "menu_closed": true
+        },
+        {
+          "href": "#avaliacao",
+          "top": -0.28125,
+          "menu_closed": true
+        },
+        {
+          "href": "#localizacoes",
+          "top": 0,
+          "menu_closed": true
+        },
+        {
+          "href": "#instagram",
+          "top": 0,
+          "menu_closed": true
+        }
+      ]
+    },
+    {
+      "width": 768,
+      "height": 900,
+      "errors": [],
+      "layout": {
+        "header": {
+          "x": 0,
+          "y": 28,
+          "width": 768,
+          "height": 96,
+          "right": 768,
+          "bottom": 124,
+          "margin": "0px",
+          "border": "0px",
+          "radius": "0px",
+          "position": "absolute",
+          "background": "rgba(0, 0, 0, 0)",
+          "overflow": "visible"
+        },
+        "hero": {
+          "x": 0,
+          "y": 28,
+          "width": 768,
+          "height": 567.9375,
+          "right": 768,
+          "bottom": 595.9375,
+          "margin": "0px",
+          "border": "0px",
+          "radius": "0px",
+          "position": "relative",
+          "background": "rgba(0, 0, 0, 0)",
+          "overflow": "hidden"
+        },
+        "content": {
+          "x": 27.640625,
+          "y": 140,
+          "width": 350.984375,
+          "height": 455.9375,
+          "right": 378.625,
+          "bottom": 595.9375,
+          "margin": "0px",
+          "border": "0px",
+          "radius": "0px",
+          "position": "relative",
+          "background": "rgba(0, 0, 0, 0)",
+          "overflow": "visible"
+        },
+        "title": {
+          "x": 27.640625,
+          "y": 172,
+          "width": 350.984375,
+          "height": 109.1875,
+          "right": 378.625,
+          "bottom": 281.1875,
+          "margin": "0px 0px 24px",
+          "border": "0px",
+          "radius": "0px",
+          "position": "static",
+          "background": "rgba(0, 0, 0, 0)",
+          "overflow": "visible"
+        },
+        "image": {
+          "x": 417.015625,
+          "y": 157.21875,
+          "width": 350.984375,
+          "height": 438.71875,
+          "right": 768,
+          "bottom": 595.9375,
+          "fit": "contain",
+          "mask": "none",
+          "filter": "none",
+          "transform": "none",
+          "aspectRatio": "auto 1440 / 1800",
+          "objectPosition": "100% 100%",
+          "naturalWidth": 1440,
+          "naturalHeight": 1800,
+          "src": "assets/portrait.webp"
+        },
+        "text": {
+          "x": 27.640625,
+          "y": 305.1875,
+          "width": 280,
+          "height": 108.75,
+          "right": 307.640625,
+          "bottom": 413.9375,
+          "margin": "0px",
+          "border": "0px",
+          "radius": "0px",
+          "position": "static",
+          "background": "rgba(0, 0, 0, 0)",
+          "overflow": "visible"
+        },
+        "buttons": {
+          "x": 27.640625,
+          "y": 439.9375,
+          "width": 350.984375,
+          "height": 116,
+          "right": 378.625,
+          "bottom": 555.9375,
+          "margin": "26px 0px 0px",
+          "border": "0px",
+          "radius": "0px",
+          "position": "static",
+          "background": "rgba(0, 0, 0, 0)",
+          "overflow": "visible"
+        },
+        "ancestors": [
+          {
+            "tag": "DIV",
+            "class": "hero-image",
+            "x": 417.015625,
+            "y": 157.21875,
+            "width": 350.984375,
+            "height": 438.71875,
+            "right": 768,
+            "bottom": 595.9375,
+            "overflowX": "visible",
+            "overflowY": "visible"
+          },
+          {
+            "tag": "SECTION",
+            "class": "hero",
+            "x": 0,
+            "y": 28,
+            "width": 768,
+            "height": 567.9375,
+            "right": 768,
+            "bottom": 595.9375,
+            "overflowX": "hidden",
+            "overflowY": "hidden"
+          },
+          {
+            "tag": "MAIN",
+            "class": "",
+            "x": 0,
+            "y": 28,
+            "width": 768,
+            "height": 8140.34375,
+            "right": 768,
+            "bottom": 8168.34375,
+            "overflowX": "visible",
+            "overflowY": "visible"
+          },
+          {
+            "tag": "BODY",
+            "class": "",
+            "x": 0,
+            "y": 0,
+            "width": 768,
+            "height": 8340.140625,
+            "right": 768,
+            "bottom": 8340.140625,
+            "overflowX": "visible",
+            "overflowY": "visible"
+          },
+          {
+            "tag": "HTML",
+            "class": "",
+            "x": 0,
+            "y": 0,
+            "width": 768,
+            "height": 8340.140625,
+            "right": 768,
+            "bottom": 8340.140625,
+            "overflowX": "visible",
+            "overflowY": "visible"
+          }
+        ],
+        "scrollWidth": 768,
+        "bodyWidth": 768,
+        "shadeCount": 0,
+        "shadeVisible": false
+      },
+      "alignment": {
+        "philosophyIntro": 398.984375,
+        "featureSide": 398.984375,
+        "jewelsIntro": 399.984375,
+        "jewelsVisionTitle": 27.640625,
+        "jewelsVisionParagraph": 399.984375
+      },
+      "open_menu": {
+        "x": 0,
+        "right": 768,
+        "scrollWidth": 768,
+        "bodyWidth": 768
+      },
+      "escape": {
+        "closed": true,
+        "focused": true,
+        "label": "Abrir menu"
+      },
+      "navigation": [
+        {
+          "href": "#filosofia",
+          "top": -0.0625,
+          "menu_closed": true
+        },
+        {
+          "href": "#joias",
+          "top": 0.125,
+          "menu_closed": true
+        },
+        {
+          "href": "#resultados",
+          "top": -0.09375,
+          "menu_closed": true
+        },
+        {
+          "href": "#brenda",
+          "top": 0.296875,
+          "menu_closed": true
+        },
+        {
+          "href": "#avaliacao",
+          "top": 0.15625,
+          "menu_closed": true
+        },
+        {
+          "href": "#localizacoes",
+          "top": 0.03125,
+          "menu_closed": true
+        },
+        {
+          "href": "#instagram",
+          "top": 0.25,
+          "menu_closed": true
+        }
+      ]
+    },
+    {
+      "width": 1024,
+      "height": 900,
+      "errors": [],
+      "layout": {
+        "header": {
+          "x": 0,
+          "y": 28,
+          "width": 1024,
+          "height": 96,
+          "right": 1024,
+          "bottom": 124,
+          "margin": "0px",
+          "border": "0px",
+          "radius": "0px",
+          "position": "absolute",
+          "background": "rgba(0, 0, 0, 0)",
+          "overflow": "visible"
+        },
+        "hero": {
+          "x": 0,
+          "y": 28,
+          "width": 1024,
+          "height": 696.96875,
+          "right": 1024,
+          "bottom": 724.96875,
+          "margin": "0px",
+          "border": "0px",
+          "radius": "0px",
+          "position": "relative",
+          "background": "rgba(0, 0, 0, 0)",
+          "overflow": "hidden"
+        },
+        "content": {
+          "x": 36.859375,
+          "y": 140,
+          "width": 467.96875,
+          "height": 482.125,
+          "right": 504.828125,
+          "bottom": 622.125,
+          "margin": "0px",
+          "border": "0px",
+          "radius": "0px",
+          "position": "relative",
+          "background": "rgba(0, 0, 0, 0)",
+          "overflow": "visible"
+        },
+        "title": {
+          "x": 36.859375,
+          "y": 172,
+          "width": 467.96875,
+          "height": 127.375,
+          "right": 504.828125,
+          "bottom": 299.375,
+          "margin": "0px 0px 24px",
+          "border": "0px",
+          "radius": "0px",
+          "position": "static",
+          "background": "rgba(0, 0, 0, 0)",
+          "overflow": "visible"
+        },
+        "image": {
+          "x": 556.015625,
+          "y": 140,
+          "width": 467.984375,
+          "height": 584.96875,
+          "right": 1024,
+          "bottom": 724.96875,
+          "fit": "contain",
+          "mask": "none",
+          "filter": "none",
+          "transform": "none",
+          "aspectRatio": "auto 1440 / 1800",
+          "objectPosition": "100% 100%",
+          "naturalWidth": 1440,
+          "naturalHeight": 1800,
+          "src": "assets/portrait.webp"
+        },
+        "text": {
+          "x": 36.859375,
+          "y": 323.375,
+          "width": 320,
+          "height": 108.75,
+          "right": 356.859375,
+          "bottom": 432.125,
+          "margin": "0px",
+          "border": "0px",
+          "radius": "0px",
+          "position": "static",
+          "background": "rgba(0, 0, 0, 0)",
+          "overflow": "visible"
+        },
+        "buttons": {
+          "x": 36.859375,
+          "y": 458.125,
+          "width": 467.96875,
+          "height": 116,
+          "right": 504.828125,
+          "bottom": 574.125,
+          "margin": "26px 0px 0px",
+          "border": "0px",
+          "radius": "0px",
+          "position": "static",
+          "background": "rgba(0, 0, 0, 0)",
+          "overflow": "visible"
+        },
+        "ancestors": [
+          {
+            "tag": "DIV",
+            "class": "hero-image",
+            "x": 556.015625,
+            "y": 140,
+            "width": 467.984375,
+            "height": 584.96875,
+            "right": 1024,
+            "bottom": 724.96875,
+            "overflowX": "visible",
+            "overflowY": "visible"
+          },
+          {
+            "tag": "SECTION",
+            "class": "hero",
+            "x": 0,
+            "y": 28,
+            "width": 1024,
+            "height": 696.96875,
+            "right": 1024,
+            "bottom": 724.96875,
+            "overflowX": "hidden",
+            "overflowY": "hidden"
+          },
+          {
+            "tag": "MAIN",
+            "class": "",
+            "x": 0,
+            "y": 28,
+            "width": 1024,
+            "height": 7907.1875,
+            "right": 1024,
+            "bottom": 7935.1875,
+            "overflowX": "visible",
+            "overflowY": "visible"
+          },
+          {
+            "tag": "BODY",
+            "class": "",
+            "x": 0,
+            "y": 0,
+            "width": 1024,
+            "height": 8106.984375,
+            "right": 1024,
+            "bottom": 8106.984375,
+            "overflowX": "visible",
+            "overflowY": "visible"
+          },
+          {
+            "tag": "HTML",
+            "class": "",
+            "x": 0,
+            "y": 0,
+            "width": 1024,
+            "height": 8106.984375,
+            "right": 1024,
+            "bottom": 8106.984375,
+            "overflowX": "visible",
+            "overflowY": "visible"
+          }
+        ],
+        "scrollWidth": 1024,
+        "bodyWidth": 1024,
+        "shadeCount": 0,
+        "shadeVisible": false
+      },
+      "alignment": {
+        "philosophyIntro": 537.578125,
+        "featureSide": 537.578125,
+        "jewelsIntro": 637.96875,
+        "jewelsVisionTitle": 637.96875,
+        "jewelsVisionParagraph": 637.96875
+      },
+      "open_menu": {
+        "x": 0,
+        "right": 1024,
+        "scrollWidth": 1024,
+        "bodyWidth": 1024
+      },
+      "escape": {
+        "closed": true,
+        "focused": true,
+        "label": "Abrir menu"
+      },
+      "navigation": [
+        {
+          "href": "#filosofia",
+          "top": -0.03125,
+          "menu_closed": true
+        },
+        {
+          "href": "#joias",
+          "top": 0.03125,
+          "menu_closed": true
+        },
+        {
+          "href": "#resultados",
+          "top": 0.296875,
+          "menu_closed": true
+        },
+        {
+          "href": "#brenda",
+          "top": -0.4375,
+          "menu_closed": true
+        },
+        {
+          "href": "#avaliacao",
+          "top": 0.375,
+          "menu_closed": true
+        },
+        {
+          "href": "#localizacoes",
+          "top": 0.375,
+          "menu_closed": true
+        },
+        {
+          "href": "#instagram",
+          "top": 0.28125,
+          "menu_closed": true
+        }
+      ]
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "errors": [],
+      "layout": {
+        "header": {
+          "x": 0,
+          "y": 28,
+          "width": 1440,
+          "height": 96,
+          "right": 1440,
+          "bottom": 124,
+          "margin": "0px",
+          "border": "0px",
+          "radius": "0px",
+          "position": "absolute",
+          "background": "rgba(0, 0, 0, 0)",
+          "overflow": "visible"
+        },
+        "hero": {
+          "x": 0,
+          "y": 28,
+          "width": 1440,
+          "height": 872,
+          "right": 1440,
+          "bottom": 900,
+          "margin": "0px",
+          "border": "0px",
+          "radius": "0px",
+          "position": "relative",
+          "background": "rgba(0, 0, 0, 0)",
+          "overflow": "hidden"
+        },
+        "content": {
+          "x": 80,
+          "y": 140,
+          "width": 644,
+          "height": 436.28125,
+          "right": 724,
+          "bottom": 576.28125,
+          "margin": "0px",
+          "border": "0px",
+          "radius": "0px",
+          "position": "relative",
+          "background": "rgba(0, 0, 0, 0)",
+          "overflow": "visible"
+        },
+        "title": {
+          "x": 80,
+          "y": 172,
+          "width": 644,
+          "height": 172.71875,
+          "right": 724,
+          "bottom": 344.71875,
+          "margin": "0px 0px 24px",
+          "border": "0px",
+          "radius": "0px",
+          "position": "static",
+          "background": "rgba(0, 0, 0, 0)",
+          "overflow": "visible"
+        },
+        "image": {
+          "x": 832,
+          "y": 140,
+          "width": 608,
+          "height": 760,
+          "right": 1440,
+          "bottom": 900,
+          "fit": "contain",
+          "mask": "none",
+          "filter": "none",
+          "transform": "none",
+          "aspectRatio": "auto 1440 / 1800",
+          "objectPosition": "100% 100%",
+          "naturalWidth": 1440,
+          "naturalHeight": 1800,
+          "src": "assets/portrait.webp"
+        },
+        "text": {
+          "x": 80,
+          "y": 368.71875,
+          "width": 405,
+          "height": 81.5625,
+          "right": 485,
+          "bottom": 450.28125,
+          "margin": "0px",
+          "border": "0px",
+          "radius": "0px",
+          "position": "static",
+          "background": "rgba(0, 0, 0, 0)",
+          "overflow": "visible"
+        },
+        "buttons": {
+          "x": 80,
+          "y": 476.28125,
+          "width": 480,
+          "height": 52,
+          "right": 560,
+          "bottom": 528.28125,
+          "margin": "26px 0px 0px",
+          "border": "0px",
+          "radius": "0px",
+          "position": "static",
+          "background": "rgba(0, 0, 0, 0)",
+          "overflow": "visible"
+        },
+        "ancestors": [
+          {
+            "tag": "DIV",
+            "class": "hero-image",
+            "x": 832,
+            "y": 140,
+            "width": 608,
+            "height": 760,
+            "right": 1440,
+            "bottom": 900,
+            "overflowX": "visible",
+            "overflowY": "visible"
+          },
+          {
+            "tag": "SECTION",
+            "class": "hero",
+            "x": 0,
+            "y": 28,
+            "width": 1440,
+            "height": 872,
+            "right": 1440,
+            "bottom": 900,
+            "overflowX": "hidden",
+            "overflowY": "hidden"
+          },
+          {
+            "tag": "MAIN",
+            "class": "",
+            "x": 0,
+            "y": 28,
+            "width": 1440,
+            "height": 8812.953125,
+            "right": 1440,
+            "bottom": 8840.953125,
+            "overflowX": "visible",
+            "overflowY": "visible"
+          },
+          {
+            "tag": "BODY",
+            "class": "",
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 9012.75,
+            "right": 1440,
+            "bottom": 9012.75,
+            "overflowX": "visible",
+            "overflowY": "visible"
+          },
+          {
+            "tag": "HTML",
+            "class": "",
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 9012.75,
+            "right": 1440,
+            "bottom": 9012.75,
+            "overflowX": "visible",
+            "overflowY": "visible"
+          }
+        ],
+        "scrollWidth": 1440,
+        "bodyWidth": 1440,
+        "shadeCount": 0,
+        "shadeVisible": false
+      },
+      "alignment": {
+        "philosophyIntro": 756,
+        "featureSide": 756,
+        "jewelsIntro": 916.46875,
+        "jewelsVisionTitle": 916.46875,
+        "jewelsVisionParagraph": 916.46875
+      },
+      "navigation": [
+        {
+          "href": "#filosofia",
+          "top": 0,
+          "menu_closed": true
+        },
+        {
+          "href": "#joias",
+          "top": 0.15625,
+          "menu_closed": true
+        },
+        {
+          "href": "#resultados",
+          "top": -0.421875,
+          "menu_closed": true
+        },
+        {
+          "href": "#brenda",
+          "top": 0,
+          "menu_closed": true
+        },
+        {
+          "href": "#avaliacao",
+          "top": 0,
+          "menu_closed": true
+        },
+        {
+          "href": "#localizacoes",
+          "top": 0.359375,
+          "menu_closed": true
+        },
+        {
+          "href": "#instagram",
+          "top": -0.078125,
+          "menu_closed": true
+        }
+      ]
+    },
+    {
+      "width": 1440,
+      "height": 587,
+      "errors": [],
+      "layout": {
+        "header": {
+          "x": 0,
+          "y": 28,
+          "width": 1440,
+          "height": 96,
+          "right": 1440,
+          "bottom": 124,
+          "margin": "0px",
+          "border": "0px",
+          "radius": "0px",
+          "position": "absolute",
+          "background": "rgba(0, 0, 0, 0)",
+          "overflow": "visible"
+        },
+        "hero": {
+          "x": 0,
+          "y": 28,
+          "width": 1440,
+          "height": 558.984375,
+          "right": 1440,
+          "bottom": 586.984375,
+          "margin": "0px",
+          "border": "0px",
+          "radius": "0px",
+          "position": "relative",
+          "background": "rgba(0, 0, 0, 0)",
+          "overflow": "hidden"
+        },
+        "content": {
+          "x": 80,
+          "y": 140,
+          "width": 644,
+          "height": 436.28125,
+          "right": 724,
+          "bottom": 576.28125,
+          "margin": "0px",
+          "border": "0px",
+          "radius": "0px",
+          "position": "relative",
+          "background": "rgba(0, 0, 0, 0)",
+          "overflow": "visible"
+        },
+        "title": {
+          "x": 80,
+          "y": 172,
+          "width": 644,
+          "height": 172.71875,
+          "right": 724,
+          "bottom": 344.71875,
+          "margin": "0px 0px 24px",
+          "border": "0px",
+          "radius": "0px",
+          "position": "static",
+          "background": "rgba(0, 0, 0, 0)",
+          "overflow": "visible"
+        },
+        "image": {
+          "x": 1082.40625,
+          "y": 140,
+          "width": 357.59375,
+          "height": 446.984375,
+          "right": 1440,
+          "bottom": 586.984375,
+          "fit": "contain",
+          "mask": "none",
+          "filter": "none",
+          "transform": "none",
+          "aspectRatio": "auto 1440 / 1800",
+          "objectPosition": "100% 100%",
+          "naturalWidth": 1440,
+          "naturalHeight": 1800,
+          "src": "assets/portrait.webp"
+        },
+        "text": {
+          "x": 80,
+          "y": 368.71875,
+          "width": 405,
+          "height": 81.5625,
+          "right": 485,
+          "bottom": 450.28125,
+          "margin": "0px",
+          "border": "0px",
+          "radius": "0px",
+          "position": "static",
+          "background": "rgba(0, 0, 0, 0)",
+          "overflow": "visible"
+        },
+        "buttons": {
+          "x": 80,
+          "y": 476.28125,
+          "width": 480,
+          "height": 52,
+          "right": 560,
+          "bottom": 528.28125,
+          "margin": "26px 0px 0px",
+          "border": "0px",
+          "radius": "0px",
+          "position": "static",
+          "background": "rgba(0, 0, 0, 0)",
+          "overflow": "visible"
+        },
+        "ancestors": [
+          {
+            "tag": "DIV",
+            "class": "hero-image",
+            "x": 1082.40625,
+            "y": 140,
+            "width": 357.59375,
+            "height": 446.984375,
+            "right": 1440,
+            "bottom": 586.984375,
+            "overflowX": "visible",
+            "overflowY": "visible"
+          },
+          {
+            "tag": "SECTION",
+            "class": "hero",
+            "x": 0,
+            "y": 28,
+            "width": 1440,
+            "height": 558.984375,
+            "right": 1440,
+            "bottom": 586.984375,
+            "overflowX": "hidden",
+            "overflowY": "hidden"
+          },
+          {
+            "tag": "MAIN",
+            "class": "",
+            "x": 0,
+            "y": 28,
+            "width": 1440,
+            "height": 8499.9375,
+            "right": 1440,
+            "bottom": 8527.9375,
+            "overflowX": "visible",
+            "overflowY": "visible"
+          },
+          {
+            "tag": "BODY",
+            "class": "",
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 8699.734375,
+            "right": 1440,
+            "bottom": 8699.734375,
+            "overflowX": "visible",
+            "overflowY": "visible"
+          },
+          {
+            "tag": "HTML",
+            "class": "",
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 8699.734375,
+            "right": 1440,
+            "bottom": 8699.734375,
+            "overflowX": "visible",
+            "overflowY": "visible"
+          }
+        ],
+        "scrollWidth": 1440,
+        "bodyWidth": 1440,
+        "shadeCount": 0,
+        "shadeVisible": false
+      },
+      "alignment": {
+        "philosophyIntro": 756,
+        "featureSide": 756,
+        "jewelsIntro": 916.46875,
+        "jewelsVisionTitle": 916.46875,
+        "jewelsVisionParagraph": 916.46875
+      },
+      "navigation": [
+        {
+          "href": "#filosofia",
+          "top": -0.015625,
+          "menu_closed": true
+        },
+        {
+          "href": "#joias",
+          "top": 0.140625,
+          "menu_closed": true
+        },
+        {
+          "href": "#resultados",
+          "top": -0.4375,
+          "menu_closed": true
+        },
+        {
+          "href": "#brenda",
+          "top": -0.015625,
+          "menu_closed": true
+        },
+        {
+          "href": "#avaliacao",
+          "top": -0.015625,
+          "menu_closed": true
+        },
+        {
+          "href": "#localizacoes",
+          "top": 0.34375,
+          "menu_closed": true
+        },
+        {
+          "href": "#instagram",
+          "top": -0.09375,
+          "menu_closed": true
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "height": 667,
+      "errors": [],
+      "layout": {
+        "header": {
+          "x": 0,
+          "y": 26,
+          "width": 390,
+          "height": 82,
+          "right": 390,
+          "bottom": 108,
+          "margin": "0px",
+          "border": "0px",
+          "radius": "0px",
+          "position": "absolute",
+          "background": "rgba(0, 0, 0, 0)",
+          "overflow": "visible"
+        },
+        "hero": {
+          "x": 0,
+          "y": 26,
+          "width": 390,
+          "height": 976.125,
+          "right": 390,
+          "bottom": 1002.125,
+          "margin": "0px",
+          "border": "0px",
+          "radius": "0px",
+          "position": "relative",
+          "background": "rgb(23, 23, 21)",
+          "overflow": "hidden"
+        },
+        "content": {
+          "x": 0,
+          "y": 595.5,
+          "width": 390,
+          "height": 406.625,
+          "right": 390,
+          "bottom": 1002.125,
+          "margin": "0px",
+          "border": "0px",
+          "radius": "0px",
+          "position": "relative",
+          "background": "rgba(0, 0, 0, 0)",
+          "overflow": "visible"
+        },
+        "title": {
+          "x": 20,
+          "y": 627.5,
+          "width": 350,
+          "height": 99.0625,
+          "right": 370,
+          "bottom": 726.5625,
+          "margin": "0px 0px 18px",
+          "border": "0px",
+          "radius": "0px",
+          "position": "static",
+          "background": "rgba(0, 0, 0, 0)",
+          "overflow": "visible"
+        },
+        "image": {
+          "x": 0,
+          "y": 108,
+          "width": 390,
+          "height": 487.5,
+          "right": 390,
+          "bottom": 595.5,
+          "fit": "contain",
+          "mask": "none",
+          "filter": "none",
+          "transform": "none",
+          "aspectRatio": "auto 1440 / 1800",
+          "objectPosition": "100% 100%",
+          "naturalWidth": 1440,
+          "naturalHeight": 1800,
+          "src": "assets/portrait.webp"
+        },
+        "text": {
+          "x": 20,
+          "y": 744.5625,
+          "width": 350,
+          "height": 81.5625,
+          "right": 370,
+          "bottom": 826.125,
+          "margin": "0px",
+          "border": "0px",
+          "radius": "0px",
+          "position": "static",
+          "background": "rgba(0, 0, 0, 0)",
+          "overflow": "visible"
+        },
+        "buttons": {
+          "x": 20,
+          "y": 850.125,
+          "width": 350,
+          "height": 116,
+          "right": 370,
+          "bottom": 966.125,
+          "margin": "24px 0px 0px",
+          "border": "0px",
+          "radius": "0px",
+          "position": "static",
+          "background": "rgba(0, 0, 0, 0)",
+          "overflow": "visible"
+        },
+        "ancestors": [
+          {
+            "tag": "DIV",
+            "class": "hero-image",
+            "x": 0,
+            "y": 108,
+            "width": 390,
+            "height": 487.5,
+            "right": 390,
+            "bottom": 595.5,
+            "overflowX": "visible",
+            "overflowY": "visible"
+          },
+          {
+            "tag": "SECTION",
+            "class": "hero",
+            "x": 0,
+            "y": 26,
+            "width": 390,
+            "height": 976.125,
+            "right": 390,
+            "bottom": 1002.125,
+            "overflowX": "hidden",
+            "overflowY": "hidden"
+          },
+          {
+            "tag": "MAIN",
+            "class": "",
+            "x": 0,
+            "y": 26,
+            "width": 390,
+            "height": 12114.859375,
+            "right": 390,
+            "bottom": 12140.859375,
+            "overflowX": "visible",
+            "overflowY": "visible"
+          },
+          {
+            "tag": "BODY",
+            "class": "",
+            "x": 0,
+            "y": 0,
+            "width": 390,
+            "height": 12439.25,
+            "right": 390,
+            "bottom": 12439.25,
+            "overflowX": "visible",
+            "overflowY": "visible"
+          },
+          {
+            "tag": "HTML",
+            "class": "",
+            "x": 0,
+            "y": 0,
+            "width": 390,
+            "height": 12439.25,
+            "right": 390,
+            "bottom": 12439.25,
+            "overflowX": "visible",
+            "overflowY": "visible"
+          }
+        ],
+        "scrollWidth": 390,
+        "bodyWidth": 390,
+        "shadeCount": 0,
+        "shadeVisible": false
+      },
+      "alignment": {
+        "philosophyIntro": 20,
+        "featureSide": 20,
+        "jewelsIntro": 20,
+        "jewelsVisionTitle": 20,
+        "jewelsVisionParagraph": 20
+      },
+      "open_menu": {
+        "x": 0,
+        "right": 390,
+        "scrollWidth": 390,
+        "bodyWidth": 390
+      },
+      "escape": {
+        "closed": true,
+        "focused": true,
+        "label": "Abrir menu"
+      },
+      "navigation": [
+        {
+          "href": "#filosofia",
+          "top": 0.125,
+          "menu_closed": true
+        },
+        {
+          "href": "#joias",
+          "top": 0.3125,
+          "menu_closed": true
+        },
+        {
+          "href": "#resultados",
+          "top": 0.4375,
+          "menu_closed": true
+        },
+        {
+          "href": "#brenda",
+          "top": 0.171875,
+          "menu_closed": true
+        },
+        {
+          "href": "#avaliacao",
+          "top": -0.28125,
+          "menu_closed": true
+        },
+        {
+          "href": "#localizacoes",
+          "top": 0,
+          "menu_closed": true
+        },
+        {
+          "href": "#instagram",
+          "top": 0,
+          "menu_closed": true
+        }
+      ]
+    }
+  ],
+  "portrait_unchanged_from_v5": true,
+  "all_passed": true
+}

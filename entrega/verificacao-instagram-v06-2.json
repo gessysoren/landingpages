@@ -1,0 +1,72 @@
+[
+  {
+    "width": 320,
+    "mode": "external script blocked",
+    "metrics": {
+      "viewport": 320,
+      "document": 320,
+      "section": 284,
+      "fallbackHeight": 112.78125,
+      "bodyFont": "16px",
+      "buttonFont": "15px"
+    },
+    "officialScriptRequests": 1
+  },
+  {
+    "width": 390,
+    "mode": "external script blocked",
+    "metrics": {
+      "viewport": 390,
+      "document": 390,
+      "section": 350,
+      "fallbackHeight": 112.78125,
+      "bodyFont": "16px",
+      "buttonFont": "15px"
+    },
+    "officialScriptRequests": 1
+  },
+  {
+    "width": 768,
+    "mode": "external script blocked",
+    "metrics": {
+      "viewport": 768,
+      "document": 768,
+      "section": 712.703125,
+      "fallbackHeight": 126.1875,
+      "bodyFont": "16px",
+      "buttonFont": "15px"
+    },
+    "officialScriptRequests": 1
+  },
+  {
+    "width": 1024,
+    "mode": "external script blocked",
+    "metrics": {
+      "viewport": 1024,
+      "document": 1024,
+      "section": 950.265625,
+      "fallbackHeight": 91.09375,
+      "bodyFont": "16px",
+      "buttonFont": "15px"
+    },
+    "officialScriptRequests": 1
+  },
+  {
+    "width": 1440,
+    "mode": "external script blocked",
+    "metrics": {
+      "viewport": 1440,
+      "document": 1440,
+      "section": 1280,
+      "fallbackHeight": 91.09375,
+      "bodyFont": "16px",
+      "buttonFont": "15px"
+    },
+    "officialScriptRequests": 1
+  },
+  {
+    "width": 320,
+    "mode": "JavaScript disabled",
+    "nativeLinksAvailable": true
+  }
+]

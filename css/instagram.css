@@ -1,0 +1,23 @@
+/* Perfil fornecido pela cliente; a prévia é renderizada pelo Instagram. */
+.instagram{padding-block:var(--space);border-top:1px solid var(--line)}
+.instagram-layout{display:grid;grid-template-columns:1fr 1fr;gap:clamp(28px,5vw,72px);align-items:start}
+.instagram-copy,.instagram-post{min-width:0}
+.instagram-copy h2{max-width:540px}
+.instagram-copy>p{max-width:390px;margin-top:24px;font:400 16px/1.75 var(--sans);color:var(--muted);text-wrap:pretty}
+.instagram-actions{display:flex;flex-wrap:wrap;align-items:center;gap:18px 24px;margin-top:26px}
+.instagram-post-link{font:500 15px/1.4 var(--sans);text-decoration:underline;text-underline-offset:5px;touch-action:manipulation}
+.instagram-post-link:hover{color:#705442}
+.instagram-post{width:100%;max-width:540px}
+.instagram-post .instagram-media{width:100%!important;min-width:0!important;max-width:540px!important;margin:0!important;border:0!important;box-shadow:none!important;border-radius:var(--radius)!important;overflow:hidden}
+.instagram-post blockquote.instagram-media{padding:28px;background:var(--off);color:var(--ink);font:400 26px/1.35 var(--og);letter-spacing:-.015em}
+.instagram-native-link{display:inline-block;max-width:100%;text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:5px;overflow-wrap:anywhere;touch-action:manipulation}
+.instagram-native-link:hover{color:#705442}
+.instagram-native-link:focus-visible{outline:2px solid #705442;outline-offset:5px}
+.instagram-post iframe.instagram-media{background:white}
+@media(max-width:700px){
+ .instagram-layout{grid-template-columns:1fr;gap:32px}
+ .instagram-copy>p{margin-top:20px}
+ .instagram-actions{margin-top:22px}
+ .instagram-post{max-width:100%}
+ .instagram-post blockquote.instagram-media{padding:24px;font-size:24px}
+}

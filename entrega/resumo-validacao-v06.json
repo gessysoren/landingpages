@@ -1,11 +1,17 @@
 {
-  "version": "06.1",
+  "version": "06.2",
   "status": "review_with_pending_assets",
   "functional_pass": true,
-  "intro_full_width": true,
-  "header_over_hero": true,
-  "outer_frame_removed": true,
-  "v5_portrait_unchanged": true,
+  "portrait_entire_right_desktop": true,
+  "portrait_then_text_mobile": true,
+  "portrait_original_unchanged": true,
+  "philosophy_jewels_text_alignment_passed": true,
+  "header_full_width_without_frame": true,
+  "instagram_profile": "https://www.instagram.com/brendaloren/",
+  "instagram_section_added": true,
+  "instagram_live_preview_verified": false,
+  "instagram_live_preview_blocker": "Environment egress proxy CONNECT403",
+  "instagram_local_layout_fallback_links_passed": true,
   "exact_fonts_ready": false,
   "new_clinic_photos_integrated": false,
   "widths": [
@@ -19,8 +25,13 @@
     "1440x587",
     "390x667"
   ],
+  "local_skills": [
+    "frontend-design",
+    "web-design-guidelines"
+  ],
   "pending": [
+    "ZIP containing the two original clinic photos",
     "Licensed web fonts with Portuguese diacritics",
-    "Original JPG/PNG/WebP clinic images"
+    "Verify native Instagram rendering on hosting"
   ]
 }
