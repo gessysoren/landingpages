@@ -1,4 +1,4 @@
-DRA. BRENDA LOREN — V06.4 PARA REVISÃO
+DRA. BRENDA LOREN — V06.5 PARA REVISÃO
 
 Este pacote parte da V5 e reúne os ajustes solicitados na composição e na
 copy. A estrutura existente inclui a seção de Instagram antes do convite
@@ -22,15 +22,25 @@ AJUSTES DESTA REVISÃO
   “Você não precisa de outro sorriso. Precisa do seu.”, a citação sobre
   sorrisos em série e o respectivo parágrafo introdutório. A seção passa
   diretamente à fotografia e ao título “Um sorriso pode mudar…”.
-- Introdução de As joias agrupada abaixo de “Joias para o seu sorriso.” e
-  alinhada à esquerda com “A arte da porcelana”, com espaçamentos próximos.
+- Introdução de As joias à direita de “Joias para o seu sorriso.”, com
+  alinhamento inferior e a mesma grade de título/texto de Sorrisos & Histórias.
+  No celular, o texto volta para baixo do título para manter a leitura.
 - As duas fotografias de As joias têm as mesmas dimensões e o mesmo
   alinhamento superior.
 - Galeria de sorrisos ocupa a largura da seção com cinco imagens no desktop.
+  As cinco têm a mesma largura e altura, com cartões e legendas alinhados.
   Duas imagens existentes se repetem como ilustração, conforme solicitado;
   não representam casos novos. As comparações permanecem inteiras. Em
   tablets são três colunas e no celular uma, preservando a leitura.
   Na tela de 1271 x 555 px, as fotos têm 214 px de altura, antes 190 px.
+- Avaliação conforme a referência de inspeção: título à esquerda e texto
+  com botão à direita, próximo do topo do título. Os rótulos “A experiência”
+  e “Tudo começa na escuta” foram removidos nessa seção. Etapas e foto
+  seguem alinhadas pelo topo, abaixo do cabeçalho.
+- Depoimentos com a frase complementar à direita do título:
+  “Cada sorriso carrega uma história. Ouvir faz parte do cuidado.”
+  As setas continuam funcionais logo abaixo, à direita. No celular, título,
+  frase e controles ficam em sequência. Não foram criados relatos de pacientes.
 - Fotografia da seção Sobre com cantos retos.
 - Fotografias ilustrativas das localizações substituídas por imagens de
   bancos de fotos; detalhes de origem e licença estão em assets/.
@@ -50,14 +60,14 @@ AJUSTES DESTA REVISÃO
 - Âncoras nativas chegam ao início da seção; o menu rola junto com a página
   e não fica fixo sobre os títulos das outras seções.
 - Modal de demonstração com identificação acessível e fechamento correto.
-- Estilos/JavaScript com identificador v=06.4 para atualizar o cache.
+- Estilos/JavaScript com identificador v=06.5 para atualizar o cache.
 
 VALIDAÇÃO E LIMITES
 Esta revisão foi conferida em Chromium nas larguras de 320, 390, 768,
 1024 e 1440 px: sem rolagem horizontal ou novas falhas funcionais no
 carregamento de imagens, CTAs, sete links de menu, links internos, menu
 mobile, modal, quatro FAQs e carrossel demonstrativo. Em 1271 x 555 px, a
-seção de casos completa mede cerca de 554 px e cabe na tela. As fotografias
+seção de casos completa mede cerca de 553 px e cabe na tela. As fotografias
 de Joias têm dimensões iguais e a fotografia de Sobre está com cantos retos.
 - As fontes reais renderizadas foram Liberation Serif e Liberation Sans.
   NÃO foram Ogg e Founders Grotesk. A tipografia exata não está concluída.

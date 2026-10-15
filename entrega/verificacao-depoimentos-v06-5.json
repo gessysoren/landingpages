@@ -1,0 +1,1007 @@
+{
+  "all_passed": true,
+  "results": [
+    {
+      "width": 1271,
+      "height": 555,
+      "errors": [],
+      "layout": {
+        "scrollWidth": 1271,
+        "bodyWidth": 1271,
+        "head": {
+          "x": 45.75,
+          "y": 4613.578125,
+          "width": 1179.484375,
+          "height": 122,
+          "right": 1225.234375,
+          "bottom": 4735.578125,
+          "text": "Histórias para\nserem ouvidas.\n\nCada sorriso carrega uma história. Ouvir faz parte do cuidado.\n\n←\n→",
+          "fontSize": "16px",
+          "scrollWidth": 1179,
+          "clientWidth": 1179,
+          "scrollHeight": 122,
+          "clientHeight": 122
+        },
+        "title": {
+          "x": 45.75,
+          "y": 4618.859375,
+          "width": 627.03125,
+          "height": 116.71875,
+          "right": 672.78125,
+          "bottom": 4735.578125,
+          "text": "Histórias para\nserem ouvidas.",
+          "fontSize": "52.111px",
+          "scrollWidth": 627,
+          "clientWidth": 627,
+          "scrollHeight": 117,
+          "clientHeight": 117
+        },
+        "intro": {
+          "x": 761.75,
+          "y": 4613.578125,
+          "width": 463.46875,
+          "height": 122,
+          "right": 1225.21875,
+          "bottom": 4735.578125,
+          "text": "Cada sorriso carrega uma história. Ouvir faz parte do cuidado.\n\n←\n→",
+          "fontSize": "16px",
+          "scrollWidth": 463,
+          "clientWidth": 463,
+          "scrollHeight": 122,
+          "clientHeight": 122
+        },
+        "phrase": {
+          "x": 761.75,
+          "y": 4613.578125,
+          "width": 440,
+          "height": 56,
+          "right": 1201.75,
+          "bottom": 4669.578125,
+          "text": "Cada sorriso carrega uma história. Ouvir faz parte do cuidado.",
+          "fontSize": "16px",
+          "scrollWidth": 440,
+          "clientWidth": 440,
+          "scrollHeight": 56,
+          "clientHeight": 56
+        },
+        "controls": {
+          "x": 761.75,
+          "y": 4689.578125,
+          "width": 463.46875,
+          "height": 46,
+          "right": 1225.21875,
+          "bottom": 4735.578125,
+          "text": "←\n→",
+          "fontSize": "16px",
+          "scrollWidth": 463,
+          "clientWidth": 463,
+          "scrollHeight": 46,
+          "clientHeight": 46
+        },
+        "prev": {
+          "x": 1123.21875,
+          "y": 4689.578125,
+          "width": 46,
+          "height": 46,
+          "right": 1169.21875,
+          "bottom": 4735.578125,
+          "text": "←",
+          "fontSize": "22px",
+          "scrollWidth": 44,
+          "clientWidth": 44,
+          "scrollHeight": 44,
+          "clientHeight": 44
+        },
+        "next": {
+          "x": 1179.21875,
+          "y": 4689.578125,
+          "width": 46,
+          "height": 46,
+          "right": 1225.21875,
+          "bottom": 4735.578125,
+          "text": "→",
+          "fontSize": "22px",
+          "scrollWidth": 44,
+          "clientWidth": 44,
+          "scrollHeight": 44,
+          "clientHeight": 44
+        },
+        "casesIntro": {
+          "x": 761.75,
+          "y": 2158.984375,
+          "width": 440,
+          "height": 84,
+          "right": 1201.75,
+          "bottom": 2242.984375,
+          "text": "Histórias diferentes pedem planejamentos diferentes. Uma seleção de imagens para demonstrar como os casos poderão ser apresentados.",
+          "fontSize": "16px",
+          "scrollWidth": 440,
+          "clientWidth": 440,
+          "scrollHeight": 84,
+          "clientHeight": 84
+        },
+        "live": "polite",
+        "prevLabel": "Depoimento anterior",
+        "nextLabel": "Próximo depoimento"
+      },
+      "focus": {
+        "visible": true,
+        "outline": "solid",
+        "width": "2px"
+      },
+      "keyboard_steps": [
+        {
+          "key": "Enter",
+          "counter": "02 / 03",
+          "tag": "DEPOIMENTO 02 / EM VALIDAÇÃO",
+          "text": "Espaço reservado para uma experiência real sobre o atendimento, o acolhimento e o planejamento individualizado."
+        },
+        {
+          "key": "Space",
+          "counter": "03 / 03",
+          "tag": "DEPOIMENTO 03 / EM VALIDAÇÃO",
+          "text": "Uma terceira história poderá ser incluída após a seleção e aprovação do depoimento pela profissional e pela paciente."
+        },
+        {
+          "key": "Enter",
+          "counter": "01 / 03",
+          "tag": "DEPOIMENTO 01 / EM VALIDAÇÃO",
+          "text": "Aqui será inserido o relato real de uma paciente, com autorização para uso e preservação de suas palavras."
+        },
+        {
+          "key": "Enter",
+          "counter": "03 / 03",
+          "tag": "DEPOIMENTO 03 / EM VALIDAÇÃO",
+          "text": "Uma terceira história poderá ser incluída após a seleção e aprovação do depoimento pela profissional e pela paciente."
+        },
+        {
+          "key": "Space",
+          "counter": "02 / 03",
+          "tag": "DEPOIMENTO 02 / EM VALIDAÇÃO",
+          "text": "Espaço reservado para uma experiência real sobre o atendimento, o acolhimento e o planejamento individualizado."
+        },
+        {
+          "key": "Enter",
+          "counter": "01 / 03",
+          "tag": "DEPOIMENTO 01 / EM VALIDAÇÃO",
+          "text": "Aqui será inserido o relato real de uma paciente, com autorização para uso e preservação de suas palavras."
+        }
+      ]
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "errors": [],
+      "layout": {
+        "scrollWidth": 1440,
+        "bodyWidth": 1440,
+        "head": {
+          "x": 80,
+          "y": 4986.140625,
+          "width": 1280,
+          "height": 132.25,
+          "right": 1360,
+          "bottom": 5118.390625,
+          "text": "Histórias para\nserem ouvidas.\n\nCada sorriso carrega uma história. Ouvir faz parte do cuidado.\n\n←\n→",
+          "fontSize": "16px",
+          "scrollWidth": 1280,
+          "clientWidth": 1280,
+          "scrollHeight": 132,
+          "clientHeight": 132
+        },
+        "title": {
+          "x": 80,
+          "y": 4986.140625,
+          "width": 678.5,
+          "height": 132.25,
+          "right": 758.5,
+          "bottom": 5118.390625,
+          "text": "Histórias para\nserem ouvidas.",
+          "fontSize": "59.04px",
+          "scrollWidth": 679,
+          "clientWidth": 679,
+          "scrollHeight": 132,
+          "clientHeight": 132
+        },
+        "intro": {
+          "x": 858.5,
+          "y": 4996.390625,
+          "width": 501.5,
+          "height": 122,
+          "right": 1360,
+          "bottom": 5118.390625,
+          "text": "Cada sorriso carrega uma história. Ouvir faz parte do cuidado.\n\n←\n→",
+          "fontSize": "16px",
+          "scrollWidth": 502,
+          "clientWidth": 502,
+          "scrollHeight": 122,
+          "clientHeight": 122
+        },
+        "phrase": {
+          "x": 858.5,
+          "y": 4996.390625,
+          "width": 440,
+          "height": 56,
+          "right": 1298.5,
+          "bottom": 5052.390625,
+          "text": "Cada sorriso carrega uma história. Ouvir faz parte do cuidado.",
+          "fontSize": "16px",
+          "scrollWidth": 440,
+          "clientWidth": 440,
+          "scrollHeight": 56,
+          "clientHeight": 56
+        },
+        "controls": {
+          "x": 858.5,
+          "y": 5072.390625,
+          "width": 501.5,
+          "height": 46,
+          "right": 1360,
+          "bottom": 5118.390625,
+          "text": "←\n→",
+          "fontSize": "16px",
+          "scrollWidth": 502,
+          "clientWidth": 502,
+          "scrollHeight": 46,
+          "clientHeight": 46
+        },
+        "prev": {
+          "x": 1258,
+          "y": 5072.390625,
+          "width": 46,
+          "height": 46,
+          "right": 1304,
+          "bottom": 5118.390625,
+          "text": "←",
+          "fontSize": "22px",
+          "scrollWidth": 44,
+          "clientWidth": 44,
+          "scrollHeight": 44,
+          "clientHeight": 44
+        },
+        "next": {
+          "x": 1314,
+          "y": 5072.390625,
+          "width": 46,
+          "height": 46,
+          "right": 1360,
+          "bottom": 5118.390625,
+          "text": "→",
+          "fontSize": "22px",
+          "scrollWidth": 44,
+          "clientWidth": 44,
+          "scrollHeight": 44,
+          "clientHeight": 44
+        },
+        "casesIntro": {
+          "x": 858.5,
+          "y": 2344.59375,
+          "width": 440,
+          "height": 84,
+          "right": 1298.5,
+          "bottom": 2428.59375,
+          "text": "Histórias diferentes pedem planejamentos diferentes. Uma seleção de imagens para demonstrar como os casos poderão ser apresentados.",
+          "fontSize": "16px",
+          "scrollWidth": 440,
+          "clientWidth": 440,
+          "scrollHeight": 84,
+          "clientHeight": 84
+        },
+        "live": "polite",
+        "prevLabel": "Depoimento anterior",
+        "nextLabel": "Próximo depoimento"
+      },
+      "focus": {
+        "visible": true,
+        "outline": "solid",
+        "width": "2px"
+      },
+      "keyboard_steps": [
+        {
+          "key": "Enter",
+          "counter": "02 / 03",
+          "tag": "DEPOIMENTO 02 / EM VALIDAÇÃO",
+          "text": "Espaço reservado para uma experiência real sobre o atendimento, o acolhimento e o planejamento individualizado."
+        },
+        {
+          "key": "Space",
+          "counter": "03 / 03",
+          "tag": "DEPOIMENTO 03 / EM VALIDAÇÃO",
+          "text": "Uma terceira história poderá ser incluída após a seleção e aprovação do depoimento pela profissional e pela paciente."
+        },
+        {
+          "key": "Enter",
+          "counter": "01 / 03",
+          "tag": "DEPOIMENTO 01 / EM VALIDAÇÃO",
+          "text": "Aqui será inserido o relato real de uma paciente, com autorização para uso e preservação de suas palavras."
+        },
+        {
+          "key": "Enter",
+          "counter": "03 / 03",
+          "tag": "DEPOIMENTO 03 / EM VALIDAÇÃO",
+          "text": "Uma terceira história poderá ser incluída após a seleção e aprovação do depoimento pela profissional e pela paciente."
+        },
+        {
+          "key": "Space",
+          "counter": "02 / 03",
+          "tag": "DEPOIMENTO 02 / EM VALIDAÇÃO",
+          "text": "Espaço reservado para uma experiência real sobre o atendimento, o acolhimento e o planejamento individualizado."
+        },
+        {
+          "key": "Enter",
+          "counter": "01 / 03",
+          "tag": "DEPOIMENTO 01 / EM VALIDAÇÃO",
+          "text": "Aqui será inserido o relato real de uma paciente, com autorização para uso e preservação de suas palavras."
+        }
+      ]
+    },
+    {
+      "width": 1024,
+      "height": 900,
+      "errors": [],
+      "layout": {
+        "scrollWidth": 1024,
+        "bodyWidth": 1024,
+        "head": {
+          "x": 36.859375,
+          "y": 4336.125,
+          "width": 950.265625,
+          "height": 122,
+          "right": 987.125,
+          "bottom": 4458.125,
+          "text": "Histórias para\nserem ouvidas.\n\nCada sorriso carrega uma história. Ouvir faz parte do cuidado.\n\n←\n→",
+          "fontSize": "16px",
+          "scrollWidth": 950,
+          "clientWidth": 950,
+          "scrollHeight": 122,
+          "clientHeight": 122
+        },
+        "title": {
+          "x": 36.859375,
+          "y": 4364.09375,
+          "width": 505.1875,
+          "height": 94.03125,
+          "right": 542.046875,
+          "bottom": 4458.125,
+          "text": "Histórias para\nserem ouvidas.",
+          "fontSize": "41.984px",
+          "scrollWidth": 505,
+          "clientWidth": 505,
+          "scrollHeight": 94,
+          "clientHeight": 94
+        },
+        "intro": {
+          "x": 613.71875,
+          "y": 4336.125,
+          "width": 373.40625,
+          "height": 122,
+          "right": 987.125,
+          "bottom": 4458.125,
+          "text": "Cada sorriso carrega uma história. Ouvir faz parte do cuidado.\n\n←\n→",
+          "fontSize": "16px",
+          "scrollWidth": 373,
+          "clientWidth": 373,
+          "scrollHeight": 122,
+          "clientHeight": 122
+        },
+        "phrase": {
+          "x": 613.71875,
+          "y": 4336.125,
+          "width": 373.40625,
+          "height": 56,
+          "right": 987.125,
+          "bottom": 4392.125,
+          "text": "Cada sorriso carrega uma história. Ouvir faz parte do cuidado.",
+          "fontSize": "16px",
+          "scrollWidth": 373,
+          "clientWidth": 373,
+          "scrollHeight": 56,
+          "clientHeight": 56
+        },
+        "controls": {
+          "x": 613.71875,
+          "y": 4412.125,
+          "width": 373.40625,
+          "height": 46,
+          "right": 987.125,
+          "bottom": 4458.125,
+          "text": "←\n→",
+          "fontSize": "16px",
+          "scrollWidth": 373,
+          "clientWidth": 373,
+          "scrollHeight": 46,
+          "clientHeight": 46
+        },
+        "prev": {
+          "x": 885.125,
+          "y": 4412.125,
+          "width": 46,
+          "height": 46,
+          "right": 931.125,
+          "bottom": 4458.125,
+          "text": "←",
+          "fontSize": "22px",
+          "scrollWidth": 44,
+          "clientWidth": 44,
+          "scrollHeight": 44,
+          "clientHeight": 44
+        },
+        "next": {
+          "x": 941.125,
+          "y": 4412.125,
+          "width": 46,
+          "height": 46,
+          "right": 987.125,
+          "bottom": 4458.125,
+          "text": "→",
+          "fontSize": "22px",
+          "scrollWidth": 44,
+          "clientWidth": 44,
+          "scrollHeight": 44,
+          "clientHeight": 44
+        },
+        "casesIntro": {
+          "x": 613.71875,
+          "y": 1935.953125,
+          "width": 373.40625,
+          "height": 112,
+          "right": 987.125,
+          "bottom": 2047.953125,
+          "text": "Histórias diferentes pedem planejamentos diferentes. Uma seleção de imagens para demonstrar como os casos poderão ser apresentados.",
+          "fontSize": "16px",
+          "scrollWidth": 373,
+          "clientWidth": 373,
+          "scrollHeight": 112,
+          "clientHeight": 112
+        },
+        "live": "polite",
+        "prevLabel": "Depoimento anterior",
+        "nextLabel": "Próximo depoimento"
+      },
+      "focus": {
+        "visible": true,
+        "outline": "solid",
+        "width": "2px"
+      },
+      "keyboard_steps": [
+        {
+          "key": "Enter",
+          "counter": "02 / 03",
+          "tag": "DEPOIMENTO 02 / EM VALIDAÇÃO",
+          "text": "Espaço reservado para uma experiência real sobre o atendimento, o acolhimento e o planejamento individualizado."
+        },
+        {
+          "key": "Space",
+          "counter": "03 / 03",
+          "tag": "DEPOIMENTO 03 / EM VALIDAÇÃO",
+          "text": "Uma terceira história poderá ser incluída após a seleção e aprovação do depoimento pela profissional e pela paciente."
+        },
+        {
+          "key": "Enter",
+          "counter": "01 / 03",
+          "tag": "DEPOIMENTO 01 / EM VALIDAÇÃO",
+          "text": "Aqui será inserido o relato real de uma paciente, com autorização para uso e preservação de suas palavras."
+        },
+        {
+          "key": "Enter",
+          "counter": "03 / 03",
+          "tag": "DEPOIMENTO 03 / EM VALIDAÇÃO",
+          "text": "Uma terceira história poderá ser incluída após a seleção e aprovação do depoimento pela profissional e pela paciente."
+        },
+        {
+          "key": "Space",
+          "counter": "02 / 03",
+          "tag": "DEPOIMENTO 02 / EM VALIDAÇÃO",
+          "text": "Espaço reservado para uma experiência real sobre o atendimento, o acolhimento e o planejamento individualizado."
+        },
+        {
+          "key": "Enter",
+          "counter": "01 / 03",
+          "tag": "DEPOIMENTO 01 / EM VALIDAÇÃO",
+          "text": "Aqui será inserido o relato real de uma paciente, com autorização para uso e preservação de suas palavras."
+        }
+      ]
+    },
+    {
+      "width": 768,
+      "height": 900,
+      "errors": [],
+      "layout": {
+        "scrollWidth": 768,
+        "bodyWidth": 768,
+        "head": {
+          "x": 27.640625,
+          "y": 5245.71875,
+          "width": 712.703125,
+          "height": 122,
+          "right": 740.34375,
+          "bottom": 5367.71875,
+          "text": "Histórias para\nserem ouvidas.\n\nCada sorriso carrega uma história. Ouvir faz parte do cuidado.\n\n←\n→",
+          "fontSize": "16px",
+          "scrollWidth": 713,
+          "clientWidth": 713,
+          "scrollHeight": 122,
+          "clientHeight": 122
+        },
+        "title": {
+          "x": 27.640625,
+          "y": 5282.625,
+          "width": 389.09375,
+          "height": 85.09375,
+          "right": 416.734375,
+          "bottom": 5367.71875,
+          "text": "Histórias para\nserem ouvidas.",
+          "fontSize": "38px",
+          "scrollWidth": 389,
+          "clientWidth": 389,
+          "scrollHeight": 85,
+          "clientHeight": 85
+        },
+        "intro": {
+          "x": 452.734375,
+          "y": 5245.71875,
+          "width": 287.609375,
+          "height": 122,
+          "right": 740.34375,
+          "bottom": 5367.71875,
+          "text": "Cada sorriso carrega uma história. Ouvir faz parte do cuidado.\n\n←\n→",
+          "fontSize": "16px",
+          "scrollWidth": 288,
+          "clientWidth": 288,
+          "scrollHeight": 122,
+          "clientHeight": 122
+        },
+        "phrase": {
+          "x": 452.734375,
+          "y": 5245.71875,
+          "width": 287.609375,
+          "height": 56,
+          "right": 740.34375,
+          "bottom": 5301.71875,
+          "text": "Cada sorriso carrega uma história. Ouvir faz parte do cuidado.",
+          "fontSize": "16px",
+          "scrollWidth": 288,
+          "clientWidth": 288,
+          "scrollHeight": 56,
+          "clientHeight": 56
+        },
+        "controls": {
+          "x": 452.734375,
+          "y": 5321.71875,
+          "width": 287.609375,
+          "height": 46,
+          "right": 740.34375,
+          "bottom": 5367.71875,
+          "text": "←\n→",
+          "fontSize": "16px",
+          "scrollWidth": 288,
+          "clientWidth": 288,
+          "scrollHeight": 46,
+          "clientHeight": 46
+        },
+        "prev": {
+          "x": 638.34375,
+          "y": 5321.71875,
+          "width": 46,
+          "height": 46,
+          "right": 684.34375,
+          "bottom": 5367.71875,
+          "text": "←",
+          "fontSize": "22px",
+          "scrollWidth": 44,
+          "clientWidth": 44,
+          "scrollHeight": 44,
+          "clientHeight": 44
+        },
+        "next": {
+          "x": 694.34375,
+          "y": 5321.71875,
+          "width": 46,
+          "height": 46,
+          "right": 740.34375,
+          "bottom": 5367.71875,
+          "text": "→",
+          "fontSize": "22px",
+          "scrollWidth": 44,
+          "clientWidth": 44,
+          "scrollHeight": 44,
+          "clientHeight": 44
+        },
+        "casesIntro": {
+          "x": 452.734375,
+          "y": 2074.46875,
+          "width": 287.609375,
+          "height": 112,
+          "right": 740.34375,
+          "bottom": 2186.46875,
+          "text": "Histórias diferentes pedem planejamentos diferentes. Uma seleção de imagens para demonstrar como os casos poderão ser apresentados.",
+          "fontSize": "16px",
+          "scrollWidth": 288,
+          "clientWidth": 288,
+          "scrollHeight": 112,
+          "clientHeight": 112
+        },
+        "live": "polite",
+        "prevLabel": "Depoimento anterior",
+        "nextLabel": "Próximo depoimento"
+      },
+      "focus": {
+        "visible": true,
+        "outline": "solid",
+        "width": "2px"
+      },
+      "keyboard_steps": [
+        {
+          "key": "Enter",
+          "counter": "02 / 03",
+          "tag": "DEPOIMENTO 02 / EM VALIDAÇÃO",
+          "text": "Espaço reservado para uma experiência real sobre o atendimento, o acolhimento e o planejamento individualizado."
+        },
+        {
+          "key": "Space",
+          "counter": "03 / 03",
+          "tag": "DEPOIMENTO 03 / EM VALIDAÇÃO",
+          "text": "Uma terceira história poderá ser incluída após a seleção e aprovação do depoimento pela profissional e pela paciente."
+        },
+        {
+          "key": "Enter",
+          "counter": "01 / 03",
+          "tag": "DEPOIMENTO 01 / EM VALIDAÇÃO",
+          "text": "Aqui será inserido o relato real de uma paciente, com autorização para uso e preservação de suas palavras."
+        },
+        {
+          "key": "Enter",
+          "counter": "03 / 03",
+          "tag": "DEPOIMENTO 03 / EM VALIDAÇÃO",
+          "text": "Uma terceira história poderá ser incluída após a seleção e aprovação do depoimento pela profissional e pela paciente."
+        },
+        {
+          "key": "Space",
+          "counter": "02 / 03",
+          "tag": "DEPOIMENTO 02 / EM VALIDAÇÃO",
+          "text": "Espaço reservado para uma experiência real sobre o atendimento, o acolhimento e o planejamento individualizado."
+        },
+        {
+          "key": "Enter",
+          "counter": "01 / 03",
+          "tag": "DEPOIMENTO 01 / EM VALIDAÇÃO",
+          "text": "Aqui será inserido o relato real de uma paciente, com autorização para uso e preservação de suas palavras."
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "errors": [],
+      "layout": {
+        "scrollWidth": 390,
+        "bodyWidth": 390,
+        "head": {
+          "x": 20,
+          "y": 8369.296875,
+          "width": 350,
+          "height": 209.375,
+          "right": 370,
+          "bottom": 8578.671875,
+          "text": "Histórias para\nserem ouvidas.\n\nCada sorriso carrega uma história. Ouvir faz parte do cuidado.\n\n←\n→",
+          "fontSize": "16px",
+          "scrollWidth": 350,
+          "clientWidth": 350,
+          "scrollHeight": 209,
+          "clientHeight": 209
+        },
+        "title": {
+          "x": 20,
+          "y": 8369.296875,
+          "width": 350,
+          "height": 73.375,
+          "right": 370,
+          "bottom": 8442.671875,
+          "text": "Histórias para\nserem ouvidas.",
+          "fontSize": "32.76px",
+          "scrollWidth": 350,
+          "clientWidth": 350,
+          "scrollHeight": 73,
+          "clientHeight": 73
+        },
+        "intro": {
+          "x": 20,
+          "y": 8462.671875,
+          "width": 350,
+          "height": 116,
+          "right": 370,
+          "bottom": 8578.671875,
+          "text": "Cada sorriso carrega uma história. Ouvir faz parte do cuidado.\n\n←\n→",
+          "fontSize": "16px",
+          "scrollWidth": 350,
+          "clientWidth": 350,
+          "scrollHeight": 116,
+          "clientHeight": 116
+        },
+        "phrase": {
+          "x": 20,
+          "y": 8462.671875,
+          "width": 350,
+          "height": 56,
+          "right": 370,
+          "bottom": 8518.671875,
+          "text": "Cada sorriso carrega uma história. Ouvir faz parte do cuidado.",
+          "fontSize": "16px",
+          "scrollWidth": 350,
+          "clientWidth": 350,
+          "scrollHeight": 56,
+          "clientHeight": 56
+        },
+        "controls": {
+          "x": 20,
+          "y": 8538.671875,
+          "width": 350,
+          "height": 40,
+          "right": 370,
+          "bottom": 8578.671875,
+          "text": "←\n→",
+          "fontSize": "16px",
+          "scrollWidth": 350,
+          "clientWidth": 350,
+          "scrollHeight": 40,
+          "clientHeight": 40
+        },
+        "prev": {
+          "x": 283,
+          "y": 8538.671875,
+          "width": 40,
+          "height": 40,
+          "right": 323,
+          "bottom": 8578.671875,
+          "text": "←",
+          "fontSize": "22px",
+          "scrollWidth": 38,
+          "clientWidth": 38,
+          "scrollHeight": 38,
+          "clientHeight": 38
+        },
+        "next": {
+          "x": 330,
+          "y": 8538.671875,
+          "width": 40,
+          "height": 40,
+          "right": 370,
+          "bottom": 8578.671875,
+          "text": "→",
+          "fontSize": "22px",
+          "scrollWidth": 38,
+          "clientWidth": 38,
+          "scrollHeight": 38,
+          "clientHeight": 38
+        },
+        "casesIntro": {
+          "x": 20,
+          "y": 3346.9375,
+          "width": 350,
+          "height": 112,
+          "right": 370,
+          "bottom": 3458.9375,
+          "text": "Histórias diferentes pedem planejamentos diferentes. Uma seleção de imagens para demonstrar como os casos poderão ser apresentados.",
+          "fontSize": "16px",
+          "scrollWidth": 350,
+          "clientWidth": 350,
+          "scrollHeight": 112,
+          "clientHeight": 112
+        },
+        "live": "polite",
+        "prevLabel": "Depoimento anterior",
+        "nextLabel": "Próximo depoimento"
+      },
+      "focus": {
+        "visible": true,
+        "outline": "solid",
+        "width": "2px"
+      },
+      "keyboard_steps": [
+        {
+          "key": "Enter",
+          "counter": "02 / 03",
+          "tag": "DEPOIMENTO 02 / EM VALIDAÇÃO",
+          "text": "Espaço reservado para uma experiência real sobre o atendimento, o acolhimento e o planejamento individualizado."
+        },
+        {
+          "key": "Space",
+          "counter": "03 / 03",
+          "tag": "DEPOIMENTO 03 / EM VALIDAÇÃO",
+          "text": "Uma terceira história poderá ser incluída após a seleção e aprovação do depoimento pela profissional e pela paciente."
+        },
+        {
+          "key": "Enter",
+          "counter": "01 / 03",
+          "tag": "DEPOIMENTO 01 / EM VALIDAÇÃO",
+          "text": "Aqui será inserido o relato real de uma paciente, com autorização para uso e preservação de suas palavras."
+        },
+        {
+          "key": "Enter",
+          "counter": "03 / 03",
+          "tag": "DEPOIMENTO 03 / EM VALIDAÇÃO",
+          "text": "Uma terceira história poderá ser incluída após a seleção e aprovação do depoimento pela profissional e pela paciente."
+        },
+        {
+          "key": "Space",
+          "counter": "02 / 03",
+          "tag": "DEPOIMENTO 02 / EM VALIDAÇÃO",
+          "text": "Espaço reservado para uma experiência real sobre o atendimento, o acolhimento e o planejamento individualizado."
+        },
+        {
+          "key": "Enter",
+          "counter": "01 / 03",
+          "tag": "DEPOIMENTO 01 / EM VALIDAÇÃO",
+          "text": "Aqui será inserido o relato real de uma paciente, com autorização para uso e preservação de suas palavras."
+        }
+      ]
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "errors": [],
+      "layout": {
+        "scrollWidth": 320,
+        "bodyWidth": 320,
+        "head": {
+          "x": 18,
+          "y": 8506.3125,
+          "width": 284,
+          "height": 211.65625,
+          "right": 302,
+          "bottom": 8717.96875,
+          "text": "Histórias para\nserem ouvidas.\n\nCada sorriso carrega uma história. Ouvir faz parte do cuidado.\n\n←\n→",
+          "fontSize": "16px",
+          "scrollWidth": 284,
+          "clientWidth": 284,
+          "scrollHeight": 212,
+          "clientHeight": 212
+        },
+        "title": {
+          "x": 18,
+          "y": 8506.3125,
+          "width": 284,
+          "height": 71.65625,
+          "right": 302,
+          "bottom": 8577.96875,
+          "text": "Histórias para\nserem ouvidas.",
+          "fontSize": "32px",
+          "scrollWidth": 284,
+          "clientWidth": 284,
+          "scrollHeight": 72,
+          "clientHeight": 72
+        },
+        "intro": {
+          "x": 18,
+          "y": 8597.96875,
+          "width": 284,
+          "height": 120,
+          "right": 302,
+          "bottom": 8717.96875,
+          "text": "Cada sorriso carrega uma história. Ouvir faz parte do cuidado.\n\n←\n→",
+          "fontSize": "16px",
+          "scrollWidth": 284,
+          "clientWidth": 284,
+          "scrollHeight": 120,
+          "clientHeight": 120
+        },
+        "phrase": {
+          "x": 18,
+          "y": 8597.96875,
+          "width": 284,
+          "height": 56,
+          "right": 302,
+          "bottom": 8653.96875,
+          "text": "Cada sorriso carrega uma história. Ouvir faz parte do cuidado.",
+          "fontSize": "16px",
+          "scrollWidth": 284,
+          "clientWidth": 284,
+          "scrollHeight": 56,
+          "clientHeight": 56
+        },
+        "controls": {
+          "x": 18,
+          "y": 8673.96875,
+          "width": 284,
+          "height": 44,
+          "right": 302,
+          "bottom": 8717.96875,
+          "text": "←\n→",
+          "fontSize": "16px",
+          "scrollWidth": 284,
+          "clientWidth": 284,
+          "scrollHeight": 44,
+          "clientHeight": 44
+        },
+        "prev": {
+          "x": 207,
+          "y": 8673.96875,
+          "width": 44,
+          "height": 44,
+          "right": 251,
+          "bottom": 8717.96875,
+          "text": "←",
+          "fontSize": "22px",
+          "scrollWidth": 42,
+          "clientWidth": 42,
+          "scrollHeight": 42,
+          "clientHeight": 42
+        },
+        "next": {
+          "x": 258,
+          "y": 8673.96875,
+          "width": 44,
+          "height": 44,
+          "right": 302,
+          "bottom": 8717.96875,
+          "text": "→",
+          "fontSize": "22px",
+          "scrollWidth": 42,
+          "clientWidth": 42,
+          "scrollHeight": 42,
+          "clientHeight": 42
+        },
+        "casesIntro": {
+          "x": 18,
+          "y": 3308.359375,
+          "width": 284,
+          "height": 112,
+          "right": 302,
+          "bottom": 3420.359375,
+          "text": "Histórias diferentes pedem planejamentos diferentes. Uma seleção de imagens para demonstrar como os casos poderão ser apresentados.",
+          "fontSize": "16px",
+          "scrollWidth": 284,
+          "clientWidth": 284,
+          "scrollHeight": 112,
+          "clientHeight": 112
+        },
+        "live": "polite",
+        "prevLabel": "Depoimento anterior",
+        "nextLabel": "Próximo depoimento"
+      },
+      "focus": {
+        "visible": true,
+        "outline": "solid",
+        "width": "2px"
+      },
+      "keyboard_steps": [
+        {
+          "key": "Enter",
+          "counter": "02 / 03",
+          "tag": "DEPOIMENTO 02 / EM VALIDAÇÃO",
+          "text": "Espaço reservado para uma experiência real sobre o atendimento, o acolhimento e o planejamento individualizado."
+        },
+        {
+          "key": "Space",
+          "counter": "03 / 03",
+          "tag": "DEPOIMENTO 03 / EM VALIDAÇÃO",
+          "text": "Uma terceira história poderá ser incluída após a seleção e aprovação do depoimento pela profissional e pela paciente."
+        },
+        {
+          "key": "Enter",
+          "counter": "01 / 03",
+          "tag": "DEPOIMENTO 01 / EM VALIDAÇÃO",
+          "text": "Aqui será inserido o relato real de uma paciente, com autorização para uso e preservação de suas palavras."
+        },
+        {
+          "key": "Enter",
+          "counter": "03 / 03",
+          "tag": "DEPOIMENTO 03 / EM VALIDAÇÃO",
+          "text": "Uma terceira história poderá ser incluída após a seleção e aprovação do depoimento pela profissional e pela paciente."
+        },
+        {
+          "key": "Space",
+          "counter": "02 / 03",
+          "tag": "DEPOIMENTO 02 / EM VALIDAÇÃO",
+          "text": "Espaço reservado para uma experiência real sobre o atendimento, o acolhimento e o planejamento individualizado."
+        },
+        {
+          "key": "Enter",
+          "counter": "01 / 03",
+          "tag": "DEPOIMENTO 01 / EM VALIDAÇÃO",
+          "text": "Aqui será inserido o relato real de uma paciente, com autorização para uso e preservação de suas palavras."
+        }
+      ]
+    }
+  ]
+}

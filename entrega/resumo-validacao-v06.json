@@ -1,5 +1,5 @@
 {
-  "version": "06.4",
+  "version": "06.5",
   "status": "review_with_font_and_external_instagram_limits",
   "functional_pass": true,
   "widths": [
@@ -19,10 +19,9 @@
   "header_height_desktop_px": 80,
   "header_height_mobile_px": 68,
   "philosophy_upper_copy_removed": true,
-  "jewels_intro_grouped_left_under_title": true,
   "jewels_photos_equal_size_and_top": true,
   "about_photo_square_corners": true,
-  "cases_entire_section_height_at_1271x555_px": 554.015625,
+  "cases_entire_section_height_at_1271x555_px": 553.015625,
   "illustrative_stock_location_photos_added": true,
   "stock_provenance": "assets/STOCK-CREDITS.txt",
   "instagram_profile": "https://www.instagram.com/brendaloren/",
@@ -39,7 +38,7 @@
     "Licensed web fonts with Portuguese diacritics",
     "Verify native Instagram rendering on hosting"
   ],
-  "hosting_zip_sha256": "770e9baa9f21bf9a8f7a5d840f7e02106a0725eb4c263b2453a683ec1e61e4af",
+  "hosting_zip_sha256": "fe3eb4c69501713b4c9633ca9fceb166d7d24b5cd6428b65001f7f42db2fde36",
   "hosting_zip_entries": 20,
   "hero_tablet_photo_fills_text_height": true,
   "header_solid_background": true,
@@ -51,7 +50,19 @@
   "cases_image_height_at_1271x555_px": 214,
   "cases_previous_image_height_at_1271x555_px": 190,
   "cases_all_images_uncropped": true,
-  "current_functional_report": "validacao-v06-4.json",
-  "current_gallery_report": "verificacao-galeria-v06-4.json",
-  "current_header_report": "verificacao-menu-inicio-v06-4.json"
+  "current_functional_report": "validacao-v06-5.json",
+  "current_gallery_report": "verificacao-imagens-iguais-v06-5.json",
+  "current_header_report": "verificacao-menu-inicio-v06-4.json",
+  "cases_five_images_equal_width_and_height": true,
+  "cases_captions_and_frames_aligned": true,
+  "jewels_intro_right_of_title": true,
+  "jewels_intro_matches_cases_columns": true,
+  "evaluation_heading_matches_inspector_reference": true,
+  "evaluation_two_overlabels_removed": true,
+  "testimonials_supporting_phrase": "Cada sorriso carrega uma história. Ouvir faz parte do cuidado.",
+  "testimonials_supporting_phrase_right_of_title": true,
+  "testimonials_controls_below_phrase_on_right": true,
+  "current_jewels_report": "verificacao-joias-v06-5.json",
+  "current_evaluation_report": "verificacao-avaliacao-v06-5.json",
+  "current_testimonials_report": "verificacao-depoimentos-v06-5.json"
 }
